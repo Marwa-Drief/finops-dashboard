@@ -1,0 +1,2458 @@
+Date,AccountId,AccountName,Service,Region,Cost,Currency,Month
+2025-07-28,123456789012,Production,Amazon EC2,us-west-2,17.26,USD,2025-07
+2025-07-28,123456789013,Development,Amazon EC2,us-east-1,15.52,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon EC2,us-west-2,18.24,USD,2025-07
+2025-07-28,123456789012,Production,Amazon S3,us-west-2,5.1,USD,2025-07
+2025-07-28,123456789013,Development,Amazon S3,us-west-2,7.86,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon S3,us-east-1,7.29,USD,2025-07
+2025-07-28,123456789012,Production,Amazon RDS,us-west-2,15.7,USD,2025-07
+2025-07-28,123456789013,Development,Amazon RDS,us-east-1,15.82,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon RDS,us-west-2,10.76,USD,2025-07
+2025-07-28,123456789012,Production,AWS Lambda,eu-west-1,2.84,USD,2025-07
+2025-07-28,123456789013,Development,AWS Lambda,us-east-1,2.07,USD,2025-07
+2025-07-28,123456789014,Testing,AWS Lambda,us-east-1,2.33,USD,2025-07
+2025-07-28,123456789012,Production,Amazon CloudFront,us-east-1,12.21,USD,2025-07
+2025-07-28,123456789013,Development,Amazon CloudFront,eu-west-1,11.39,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon CloudFront,ap-southeast-1,12.16,USD,2025-07
+2025-07-28,123456789012,Production,Amazon DynamoDB,eu-west-1,3.72,USD,2025-07
+2025-07-28,123456789013,Development,Amazon DynamoDB,eu-west-1,3.76,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon DynamoDB,us-west-2,3.15,USD,2025-07
+2025-07-28,123456789012,Production,Amazon ECS,eu-west-1,15.32,USD,2025-07
+2025-07-28,123456789013,Development,Amazon ECS,ap-southeast-1,17.77,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon ECS,us-west-2,12.96,USD,2025-07
+2025-07-28,123456789012,Production,Amazon VPC,us-east-1,1.32,USD,2025-07
+2025-07-28,123456789013,Development,Amazon VPC,us-east-1,1.18,USD,2025-07
+2025-07-28,123456789014,Testing,Amazon VPC,ap-southeast-1,1.15,USD,2025-07
+2025-07-28,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.6,USD,2025-07
+2025-07-28,123456789013,Development,AWS Data Transfer,us-west-2,4.4,USD,2025-07
+2025-07-28,123456789014,Testing,AWS Data Transfer,us-east-1,4.33,USD,2025-07
+2025-07-29,123456789012,Production,Amazon EC2,us-east-1,18.1,USD,2025-07
+2025-07-29,123456789013,Development,Amazon EC2,eu-west-1,18.49,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon EC2,eu-west-1,18.23,USD,2025-07
+2025-07-29,123456789012,Production,Amazon S3,eu-west-1,7.65,USD,2025-07
+2025-07-29,123456789013,Development,Amazon S3,eu-west-1,6.16,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon S3,us-east-1,7.25,USD,2025-07
+2025-07-29,123456789012,Production,Amazon RDS,eu-west-1,10.11,USD,2025-07
+2025-07-29,123456789013,Development,Amazon RDS,us-east-1,13.4,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon RDS,us-west-2,10.32,USD,2025-07
+2025-07-29,123456789012,Production,AWS Lambda,eu-west-1,2.48,USD,2025-07
+2025-07-29,123456789013,Development,AWS Lambda,ap-southeast-1,2.09,USD,2025-07
+2025-07-29,123456789014,Testing,AWS Lambda,ap-southeast-1,2.4,USD,2025-07
+2025-07-29,123456789012,Production,Amazon CloudFront,us-west-2,8.93,USD,2025-07
+2025-07-29,123456789013,Development,Amazon CloudFront,us-west-2,10.87,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon CloudFront,eu-west-1,10.48,USD,2025-07
+2025-07-29,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.52,USD,2025-07
+2025-07-29,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.66,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon DynamoDB,us-east-1,4.6,USD,2025-07
+2025-07-29,123456789012,Production,Amazon ECS,ap-southeast-1,13.4,USD,2025-07
+2025-07-29,123456789013,Development,Amazon ECS,us-east-1,18.83,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon ECS,eu-west-1,18.56,USD,2025-07
+2025-07-29,123456789012,Production,Amazon VPC,us-west-2,1.4,USD,2025-07
+2025-07-29,123456789013,Development,Amazon VPC,us-west-2,1.42,USD,2025-07
+2025-07-29,123456789014,Testing,Amazon VPC,eu-west-1,1.3,USD,2025-07
+2025-07-29,123456789012,Production,AWS Data Transfer,eu-west-1,4.11,USD,2025-07
+2025-07-29,123456789013,Development,AWS Data Transfer,us-west-2,4.97,USD,2025-07
+2025-07-29,123456789014,Testing,AWS Data Transfer,eu-west-1,4.33,USD,2025-07
+2025-07-30,123456789012,Production,Amazon EC2,us-east-1,22.39,USD,2025-07
+2025-07-30,123456789013,Development,Amazon EC2,ap-southeast-1,18.56,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon EC2,us-west-2,20.4,USD,2025-07
+2025-07-30,123456789012,Production,Amazon S3,eu-west-1,6.72,USD,2025-07
+2025-07-30,123456789013,Development,Amazon S3,eu-west-1,6.05,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon S3,eu-west-1,7.0,USD,2025-07
+2025-07-30,123456789012,Production,Amazon RDS,eu-west-1,9.98,USD,2025-07
+2025-07-30,123456789013,Development,Amazon RDS,us-east-1,10.32,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon RDS,us-east-1,10.69,USD,2025-07
+2025-07-30,123456789012,Production,AWS Lambda,eu-west-1,1.99,USD,2025-07
+2025-07-30,123456789013,Development,AWS Lambda,us-east-1,2.79,USD,2025-07
+2025-07-30,123456789014,Testing,AWS Lambda,ap-southeast-1,2.73,USD,2025-07
+2025-07-30,123456789012,Production,Amazon CloudFront,ap-southeast-1,10.83,USD,2025-07
+2025-07-30,123456789013,Development,Amazon CloudFront,us-east-1,8.92,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon CloudFront,ap-southeast-1,11.05,USD,2025-07
+2025-07-30,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.23,USD,2025-07
+2025-07-30,123456789013,Development,Amazon DynamoDB,us-east-1,3.67,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.45,USD,2025-07
+2025-07-30,123456789012,Production,Amazon ECS,us-east-1,17.49,USD,2025-07
+2025-07-30,123456789013,Development,Amazon ECS,eu-west-1,15.98,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon ECS,eu-west-1,14.43,USD,2025-07
+2025-07-30,123456789012,Production,Amazon VPC,eu-west-1,1.28,USD,2025-07
+2025-07-30,123456789013,Development,Amazon VPC,eu-west-1,1.06,USD,2025-07
+2025-07-30,123456789014,Testing,Amazon VPC,us-east-1,1.12,USD,2025-07
+2025-07-30,123456789012,Production,AWS Data Transfer,us-east-1,5.94,USD,2025-07
+2025-07-30,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.28,USD,2025-07
+2025-07-30,123456789014,Testing,AWS Data Transfer,us-east-1,6.36,USD,2025-07
+2025-07-31,123456789012,Production,Amazon EC2,us-west-2,15.51,USD,2025-07
+2025-07-31,123456789013,Development,Amazon EC2,us-east-1,19.72,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon EC2,ap-southeast-1,22.89,USD,2025-07
+2025-07-31,123456789012,Production,Amazon S3,us-east-1,4.96,USD,2025-07
+2025-07-31,123456789013,Development,Amazon S3,us-west-2,8.02,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon S3,eu-west-1,5.75,USD,2025-07
+2025-07-31,123456789012,Production,Amazon RDS,us-east-1,13.96,USD,2025-07
+2025-07-31,123456789013,Development,Amazon RDS,us-west-2,16.07,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon RDS,us-east-1,12.16,USD,2025-07
+2025-07-31,123456789012,Production,AWS Lambda,us-east-1,2.48,USD,2025-07
+2025-07-31,123456789013,Development,AWS Lambda,us-east-1,3.14,USD,2025-07
+2025-07-31,123456789014,Testing,AWS Lambda,eu-west-1,2.02,USD,2025-07
+2025-07-31,123456789012,Production,Amazon CloudFront,eu-west-1,9.48,USD,2025-07
+2025-07-31,123456789013,Development,Amazon CloudFront,us-east-1,11.13,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon CloudFront,us-east-1,12.35,USD,2025-07
+2025-07-31,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.99,USD,2025-07
+2025-07-31,123456789013,Development,Amazon DynamoDB,us-west-2,3.44,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.68,USD,2025-07
+2025-07-31,123456789012,Production,Amazon ECS,ap-southeast-1,15.89,USD,2025-07
+2025-07-31,123456789013,Development,Amazon ECS,us-east-1,13.7,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon ECS,ap-southeast-1,14.01,USD,2025-07
+2025-07-31,123456789012,Production,Amazon VPC,us-west-2,1.15,USD,2025-07
+2025-07-31,123456789013,Development,Amazon VPC,ap-southeast-1,1.32,USD,2025-07
+2025-07-31,123456789014,Testing,Amazon VPC,us-east-1,1.12,USD,2025-07
+2025-07-31,123456789012,Production,AWS Data Transfer,eu-west-1,6.18,USD,2025-07
+2025-07-31,123456789013,Development,AWS Data Transfer,us-west-2,5.91,USD,2025-07
+2025-07-31,123456789014,Testing,AWS Data Transfer,eu-west-1,4.93,USD,2025-07
+2025-08-01,123456789012,Production,Amazon EC2,eu-west-1,16.56,USD,2025-08
+2025-08-01,123456789013,Development,Amazon EC2,ap-southeast-1,20.14,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon EC2,us-west-2,21.62,USD,2025-08
+2025-08-01,123456789012,Production,Amazon S3,us-west-2,5.95,USD,2025-08
+2025-08-01,123456789013,Development,Amazon S3,us-west-2,7.38,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon S3,ap-southeast-1,5.68,USD,2025-08
+2025-08-01,123456789012,Production,Amazon RDS,us-east-1,11.78,USD,2025-08
+2025-08-01,123456789013,Development,Amazon RDS,us-east-1,11.38,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon RDS,eu-west-1,11.0,USD,2025-08
+2025-08-01,123456789012,Production,AWS Lambda,us-east-1,2.86,USD,2025-08
+2025-08-01,123456789013,Development,AWS Lambda,us-east-1,2.75,USD,2025-08
+2025-08-01,123456789014,Testing,AWS Lambda,eu-west-1,3.08,USD,2025-08
+2025-08-01,123456789012,Production,Amazon CloudFront,ap-southeast-1,11.21,USD,2025-08
+2025-08-01,123456789013,Development,Amazon CloudFront,us-east-1,9.0,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon CloudFront,us-west-2,12.3,USD,2025-08
+2025-08-01,123456789012,Production,Amazon DynamoDB,us-east-1,3.67,USD,2025-08
+2025-08-01,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.01,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.24,USD,2025-08
+2025-08-01,123456789012,Production,Amazon ECS,ap-southeast-1,14.46,USD,2025-08
+2025-08-01,123456789013,Development,Amazon ECS,us-west-2,12.05,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon ECS,us-east-1,17.81,USD,2025-08
+2025-08-01,123456789012,Production,Amazon VPC,eu-west-1,1.36,USD,2025-08
+2025-08-01,123456789013,Development,Amazon VPC,us-west-2,1.29,USD,2025-08
+2025-08-01,123456789014,Testing,Amazon VPC,eu-west-1,1.15,USD,2025-08
+2025-08-01,123456789012,Production,AWS Data Transfer,ap-southeast-1,4.91,USD,2025-08
+2025-08-01,123456789013,Development,AWS Data Transfer,us-east-1,6.01,USD,2025-08
+2025-08-01,123456789014,Testing,AWS Data Transfer,eu-west-1,6.41,USD,2025-08
+2025-08-02,123456789012,Production,Amazon EC2,us-west-2,11.03,USD,2025-08
+2025-08-02,123456789013,Development,Amazon EC2,us-west-2,11.52,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon EC2,us-east-1,11.21,USD,2025-08
+2025-08-02,123456789012,Production,Amazon S3,us-west-2,3.45,USD,2025-08
+2025-08-02,123456789013,Development,Amazon S3,us-west-2,3.48,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon S3,eu-west-1,3.13,USD,2025-08
+2025-08-02,123456789012,Production,Amazon RDS,us-east-1,7.2,USD,2025-08
+2025-08-02,123456789013,Development,Amazon RDS,ap-southeast-1,7.99,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon RDS,us-west-2,7.39,USD,2025-08
+2025-08-02,123456789012,Production,AWS Lambda,us-east-1,1.09,USD,2025-08
+2025-08-02,123456789013,Development,AWS Lambda,us-east-1,1.56,USD,2025-08
+2025-08-02,123456789014,Testing,AWS Lambda,us-east-1,1.47,USD,2025-08
+2025-08-02,123456789012,Production,Amazon CloudFront,us-west-2,6.3,USD,2025-08
+2025-08-02,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.17,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon CloudFront,us-east-1,3.97,USD,2025-08
+2025-08-02,123456789012,Production,Amazon DynamoDB,eu-west-1,1.65,USD,2025-08
+2025-08-02,123456789013,Development,Amazon DynamoDB,us-east-1,1.75,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon DynamoDB,eu-west-1,2.19,USD,2025-08
+2025-08-02,123456789012,Production,Amazon ECS,ap-southeast-1,6.94,USD,2025-08
+2025-08-02,123456789013,Development,Amazon ECS,us-east-1,8.78,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon ECS,us-east-1,8.7,USD,2025-08
+2025-08-02,123456789012,Production,Amazon VPC,us-west-2,0.59,USD,2025-08
+2025-08-02,123456789013,Development,Amazon VPC,ap-southeast-1,0.8,USD,2025-08
+2025-08-02,123456789014,Testing,Amazon VPC,us-west-2,0.76,USD,2025-08
+2025-08-02,123456789012,Production,AWS Data Transfer,us-east-1,2.15,USD,2025-08
+2025-08-02,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.01,USD,2025-08
+2025-08-02,123456789014,Testing,AWS Data Transfer,us-west-2,2.35,USD,2025-08
+2025-08-03,123456789012,Production,Amazon EC2,us-west-2,10.07,USD,2025-08
+2025-08-03,123456789013,Development,Amazon EC2,eu-west-1,8.18,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon EC2,eu-west-1,10.77,USD,2025-08
+2025-08-03,123456789012,Production,Amazon S3,ap-southeast-1,3.65,USD,2025-08
+2025-08-03,123456789013,Development,Amazon S3,us-west-2,3.5,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon S3,eu-west-1,2.51,USD,2025-08
+2025-08-03,123456789012,Production,Amazon RDS,us-west-2,4.99,USD,2025-08
+2025-08-03,123456789013,Development,Amazon RDS,eu-west-1,7.6,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon RDS,eu-west-1,7.79,USD,2025-08
+2025-08-03,123456789012,Production,AWS Lambda,ap-southeast-1,1.39,USD,2025-08
+2025-08-03,123456789013,Development,AWS Lambda,eu-west-1,1.43,USD,2025-08
+2025-08-03,123456789014,Testing,AWS Lambda,us-east-1,1.14,USD,2025-08
+2025-08-03,123456789012,Production,Amazon CloudFront,eu-west-1,5.03,USD,2025-08
+2025-08-03,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.35,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon CloudFront,eu-west-1,5.29,USD,2025-08
+2025-08-03,123456789012,Production,Amazon DynamoDB,us-west-2,2.29,USD,2025-08
+2025-08-03,123456789013,Development,Amazon DynamoDB,ap-southeast-1,1.66,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon DynamoDB,us-east-1,2.19,USD,2025-08
+2025-08-03,123456789012,Production,Amazon ECS,us-west-2,8.19,USD,2025-08
+2025-08-03,123456789013,Development,Amazon ECS,us-west-2,7.43,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon ECS,us-east-1,9.11,USD,2025-08
+2025-08-03,123456789012,Production,Amazon VPC,eu-west-1,0.64,USD,2025-08
+2025-08-03,123456789013,Development,Amazon VPC,us-east-1,0.68,USD,2025-08
+2025-08-03,123456789014,Testing,Amazon VPC,ap-southeast-1,0.6,USD,2025-08
+2025-08-03,123456789012,Production,AWS Data Transfer,us-west-2,2.81,USD,2025-08
+2025-08-03,123456789013,Development,AWS Data Transfer,us-east-1,2.33,USD,2025-08
+2025-08-03,123456789014,Testing,AWS Data Transfer,ap-southeast-1,3.04,USD,2025-08
+2025-08-04,123456789012,Production,Amazon EC2,eu-west-1,16.94,USD,2025-08
+2025-08-04,123456789013,Development,Amazon EC2,us-west-2,15.96,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon EC2,ap-southeast-1,21.49,USD,2025-08
+2025-08-04,123456789012,Production,Amazon S3,us-west-2,7.76,USD,2025-08
+2025-08-04,123456789013,Development,Amazon S3,ap-southeast-1,7.83,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon S3,eu-west-1,5.51,USD,2025-08
+2025-08-04,123456789012,Production,Amazon RDS,us-west-2,13.09,USD,2025-08
+2025-08-04,123456789013,Development,Amazon RDS,us-east-1,10.0,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon RDS,ap-southeast-1,14.24,USD,2025-08
+2025-08-04,123456789012,Production,AWS Lambda,ap-southeast-1,3.03,USD,2025-08
+2025-08-04,123456789013,Development,AWS Lambda,ap-southeast-1,2.7,USD,2025-08
+2025-08-04,123456789014,Testing,AWS Lambda,us-west-2,3.01,USD,2025-08
+2025-08-04,123456789012,Production,Amazon CloudFront,ap-southeast-1,12.93,USD,2025-08
+2025-08-04,123456789013,Development,Amazon CloudFront,us-east-1,9.08,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon CloudFront,ap-southeast-1,11.15,USD,2025-08
+2025-08-04,123456789012,Production,Amazon DynamoDB,us-west-2,3.9,USD,2025-08
+2025-08-04,123456789013,Development,Amazon DynamoDB,us-west-2,4.78,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon DynamoDB,us-east-1,4.43,USD,2025-08
+2025-08-04,123456789012,Production,Amazon ECS,us-west-2,12.57,USD,2025-08
+2025-08-04,123456789013,Development,Amazon ECS,us-west-2,15.21,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon ECS,us-west-2,15.02,USD,2025-08
+2025-08-04,123456789012,Production,Amazon VPC,us-west-2,1.59,USD,2025-08
+2025-08-04,123456789013,Development,Amazon VPC,eu-west-1,1.31,USD,2025-08
+2025-08-04,123456789014,Testing,Amazon VPC,ap-southeast-1,1.09,USD,2025-08
+2025-08-04,123456789012,Production,AWS Data Transfer,us-east-1,4.08,USD,2025-08
+2025-08-04,123456789013,Development,AWS Data Transfer,us-west-2,5.25,USD,2025-08
+2025-08-04,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.19,USD,2025-08
+2025-08-05,123456789012,Production,Amazon EC2,eu-west-1,18.14,USD,2025-08
+2025-08-05,123456789013,Development,Amazon EC2,eu-west-1,20.02,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon EC2,eu-west-1,21.37,USD,2025-08
+2025-08-05,123456789012,Production,Amazon S3,ap-southeast-1,6.71,USD,2025-08
+2025-08-05,123456789013,Development,Amazon S3,ap-southeast-1,6.39,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon S3,eu-west-1,5.31,USD,2025-08
+2025-08-05,123456789012,Production,Amazon RDS,ap-southeast-1,15.7,USD,2025-08
+2025-08-05,123456789013,Development,Amazon RDS,eu-west-1,12.71,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon RDS,ap-southeast-1,12.29,USD,2025-08
+2025-08-05,123456789012,Production,AWS Lambda,ap-southeast-1,2.03,USD,2025-08
+2025-08-05,123456789013,Development,AWS Lambda,us-east-1,3.02,USD,2025-08
+2025-08-05,123456789014,Testing,AWS Lambda,eu-west-1,3.15,USD,2025-08
+2025-08-05,123456789012,Production,Amazon CloudFront,us-east-1,12.58,USD,2025-08
+2025-08-05,123456789013,Development,Amazon CloudFront,us-east-1,9.49,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon CloudFront,eu-west-1,12.93,USD,2025-08
+2025-08-05,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.4,USD,2025-08
+2025-08-05,123456789013,Development,Amazon DynamoDB,eu-west-1,4.1,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon DynamoDB,us-east-1,3.53,USD,2025-08
+2025-08-05,123456789012,Production,Amazon ECS,us-east-1,13.84,USD,2025-08
+2025-08-05,123456789013,Development,Amazon ECS,us-west-2,17.74,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon ECS,ap-southeast-1,16.32,USD,2025-08
+2025-08-05,123456789012,Production,Amazon VPC,eu-west-1,1.39,USD,2025-08
+2025-08-05,123456789013,Development,Amazon VPC,us-west-2,1.2,USD,2025-08
+2025-08-05,123456789014,Testing,Amazon VPC,eu-west-1,1.47,USD,2025-08
+2025-08-05,123456789012,Production,AWS Data Transfer,eu-west-1,5.7,USD,2025-08
+2025-08-05,123456789013,Development,AWS Data Transfer,us-east-1,4.26,USD,2025-08
+2025-08-05,123456789014,Testing,AWS Data Transfer,eu-west-1,5.84,USD,2025-08
+2025-08-06,123456789012,Production,Amazon EC2,us-east-1,21.05,USD,2025-08
+2025-08-06,123456789013,Development,Amazon EC2,us-west-2,16.99,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon EC2,us-west-2,22.81,USD,2025-08
+2025-08-06,123456789012,Production,Amazon S3,us-east-1,6.53,USD,2025-08
+2025-08-06,123456789013,Development,Amazon S3,ap-southeast-1,5.6,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon S3,eu-west-1,6.1,USD,2025-08
+2025-08-06,123456789012,Production,Amazon RDS,eu-west-1,11.23,USD,2025-08
+2025-08-06,123456789013,Development,Amazon RDS,ap-southeast-1,15.04,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon RDS,ap-southeast-1,13.76,USD,2025-08
+2025-08-06,123456789012,Production,AWS Lambda,us-east-1,2.61,USD,2025-08
+2025-08-06,123456789013,Development,AWS Lambda,ap-southeast-1,3.08,USD,2025-08
+2025-08-06,123456789014,Testing,AWS Lambda,ap-southeast-1,2.51,USD,2025-08
+2025-08-06,123456789012,Production,Amazon CloudFront,us-east-1,9.34,USD,2025-08
+2025-08-06,123456789013,Development,Amazon CloudFront,us-east-1,8.71,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon CloudFront,us-west-2,9.66,USD,2025-08
+2025-08-06,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.45,USD,2025-08
+2025-08-06,123456789013,Development,Amazon DynamoDB,us-west-2,3.76,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.48,USD,2025-08
+2025-08-06,123456789012,Production,Amazon ECS,eu-west-1,17.87,USD,2025-08
+2025-08-06,123456789013,Development,Amazon ECS,eu-west-1,18.26,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon ECS,ap-southeast-1,14.69,USD,2025-08
+2025-08-06,123456789012,Production,Amazon VPC,us-east-1,1.14,USD,2025-08
+2025-08-06,123456789013,Development,Amazon VPC,ap-southeast-1,1.29,USD,2025-08
+2025-08-06,123456789014,Testing,Amazon VPC,ap-southeast-1,1.08,USD,2025-08
+2025-08-06,123456789012,Production,AWS Data Transfer,us-west-2,6.03,USD,2025-08
+2025-08-06,123456789013,Development,AWS Data Transfer,eu-west-1,5.78,USD,2025-08
+2025-08-06,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.37,USD,2025-08
+2025-08-07,123456789012,Production,Amazon EC2,ap-southeast-1,19.59,USD,2025-08
+2025-08-07,123456789013,Development,Amazon EC2,us-west-2,15.48,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon EC2,ap-southeast-1,17.54,USD,2025-08
+2025-08-07,123456789012,Production,Amazon S3,us-east-1,7.76,USD,2025-08
+2025-08-07,123456789013,Development,Amazon S3,eu-west-1,5.78,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon S3,eu-west-1,5.32,USD,2025-08
+2025-08-07,123456789012,Production,Amazon RDS,us-east-1,13.59,USD,2025-08
+2025-08-07,123456789013,Development,Amazon RDS,us-west-2,11.9,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon RDS,us-west-2,11.06,USD,2025-08
+2025-08-07,123456789012,Production,AWS Lambda,us-east-1,2.89,USD,2025-08
+2025-08-07,123456789013,Development,AWS Lambda,us-west-2,2.24,USD,2025-08
+2025-08-07,123456789014,Testing,AWS Lambda,ap-southeast-1,2.95,USD,2025-08
+2025-08-07,123456789012,Production,Amazon CloudFront,ap-southeast-1,12.89,USD,2025-08
+2025-08-07,123456789013,Development,Amazon CloudFront,us-east-1,11.57,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon CloudFront,eu-west-1,12.76,USD,2025-08
+2025-08-07,123456789012,Production,Amazon DynamoDB,us-west-2,3.5,USD,2025-08
+2025-08-07,123456789013,Development,Amazon DynamoDB,us-west-2,4.13,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon DynamoDB,us-east-1,3.54,USD,2025-08
+2025-08-07,123456789012,Production,Amazon ECS,us-east-1,19.07,USD,2025-08
+2025-08-07,123456789013,Development,Amazon ECS,us-east-1,18.95,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon ECS,us-east-1,17.3,USD,2025-08
+2025-08-07,123456789012,Production,Amazon VPC,eu-west-1,1.2,USD,2025-08
+2025-08-07,123456789013,Development,Amazon VPC,us-west-2,1.58,USD,2025-08
+2025-08-07,123456789014,Testing,Amazon VPC,eu-west-1,1.03,USD,2025-08
+2025-08-07,123456789012,Production,AWS Data Transfer,us-west-2,4.85,USD,2025-08
+2025-08-07,123456789013,Development,AWS Data Transfer,eu-west-1,6.29,USD,2025-08
+2025-08-07,123456789014,Testing,AWS Data Transfer,eu-west-1,4.37,USD,2025-08
+2025-08-08,123456789012,Production,Amazon EC2,us-west-2,15.42,USD,2025-08
+2025-08-08,123456789013,Development,Amazon EC2,eu-west-1,19.81,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon EC2,eu-west-1,16.49,USD,2025-08
+2025-08-08,123456789012,Production,Amazon S3,ap-southeast-1,7.72,USD,2025-08
+2025-08-08,123456789013,Development,Amazon S3,ap-southeast-1,5.23,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon S3,ap-southeast-1,6.98,USD,2025-08
+2025-08-08,123456789012,Production,Amazon RDS,eu-west-1,15.05,USD,2025-08
+2025-08-08,123456789013,Development,Amazon RDS,eu-west-1,13.01,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon RDS,us-west-2,10.36,USD,2025-08
+2025-08-08,123456789012,Production,AWS Lambda,eu-west-1,2.17,USD,2025-08
+2025-08-08,123456789013,Development,AWS Lambda,us-east-1,2.24,USD,2025-08
+2025-08-08,123456789014,Testing,AWS Lambda,us-east-1,2.7,USD,2025-08
+2025-08-08,123456789012,Production,Amazon CloudFront,us-east-1,9.14,USD,2025-08
+2025-08-08,123456789013,Development,Amazon CloudFront,us-west-2,9.3,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon CloudFront,us-west-2,9.02,USD,2025-08
+2025-08-08,123456789012,Production,Amazon DynamoDB,us-west-2,4.13,USD,2025-08
+2025-08-08,123456789013,Development,Amazon DynamoDB,eu-west-1,3.19,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.74,USD,2025-08
+2025-08-08,123456789012,Production,Amazon ECS,us-west-2,14.31,USD,2025-08
+2025-08-08,123456789013,Development,Amazon ECS,eu-west-1,17.91,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon ECS,ap-southeast-1,16.34,USD,2025-08
+2025-08-08,123456789012,Production,Amazon VPC,eu-west-1,1.14,USD,2025-08
+2025-08-08,123456789013,Development,Amazon VPC,ap-southeast-1,1.05,USD,2025-08
+2025-08-08,123456789014,Testing,Amazon VPC,us-east-1,1.04,USD,2025-08
+2025-08-08,123456789012,Production,AWS Data Transfer,eu-west-1,5.57,USD,2025-08
+2025-08-08,123456789013,Development,AWS Data Transfer,us-east-1,6.35,USD,2025-08
+2025-08-08,123456789014,Testing,AWS Data Transfer,eu-west-1,5.37,USD,2025-08
+2025-08-09,123456789012,Production,Amazon EC2,ap-southeast-1,11.77,USD,2025-08
+2025-08-09,123456789013,Development,Amazon EC2,us-east-1,7.65,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon EC2,eu-west-1,9.17,USD,2025-08
+2025-08-09,123456789012,Production,Amazon S3,us-west-2,2.62,USD,2025-08
+2025-08-09,123456789013,Development,Amazon S3,eu-west-1,3.32,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon S3,eu-west-1,3.5,USD,2025-08
+2025-08-09,123456789012,Production,Amazon RDS,us-west-2,6.18,USD,2025-08
+2025-08-09,123456789013,Development,Amazon RDS,us-west-2,6.3,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon RDS,us-west-2,7.07,USD,2025-08
+2025-08-09,123456789012,Production,AWS Lambda,us-east-1,1.47,USD,2025-08
+2025-08-09,123456789013,Development,AWS Lambda,eu-west-1,1.08,USD,2025-08
+2025-08-09,123456789014,Testing,AWS Lambda,eu-west-1,1.35,USD,2025-08
+2025-08-09,123456789012,Production,Amazon CloudFront,us-west-2,5.58,USD,2025-08
+2025-08-09,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.16,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon CloudFront,us-east-1,4.12,USD,2025-08
+2025-08-09,123456789012,Production,Amazon DynamoDB,eu-west-1,2.26,USD,2025-08
+2025-08-09,123456789013,Development,Amazon DynamoDB,us-west-2,2.09,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon DynamoDB,eu-west-1,2.09,USD,2025-08
+2025-08-09,123456789012,Production,Amazon ECS,eu-west-1,7.08,USD,2025-08
+2025-08-09,123456789013,Development,Amazon ECS,eu-west-1,8.9,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon ECS,ap-southeast-1,7.22,USD,2025-08
+2025-08-09,123456789012,Production,Amazon VPC,eu-west-1,0.56,USD,2025-08
+2025-08-09,123456789013,Development,Amazon VPC,us-east-1,0.77,USD,2025-08
+2025-08-09,123456789014,Testing,Amazon VPC,us-east-1,0.55,USD,2025-08
+2025-08-09,123456789012,Production,AWS Data Transfer,us-east-1,2.56,USD,2025-08
+2025-08-09,123456789013,Development,AWS Data Transfer,us-east-1,2.76,USD,2025-08
+2025-08-09,123456789014,Testing,AWS Data Transfer,eu-west-1,3.21,USD,2025-08
+2025-08-10,123456789012,Production,Amazon EC2,eu-west-1,8.37,USD,2025-08
+2025-08-10,123456789013,Development,Amazon EC2,us-west-2,11.94,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon EC2,ap-southeast-1,8.73,USD,2025-08
+2025-08-10,123456789012,Production,Amazon S3,us-west-2,2.83,USD,2025-08
+2025-08-10,123456789013,Development,Amazon S3,us-east-1,2.66,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon S3,ap-southeast-1,3.18,USD,2025-08
+2025-08-10,123456789012,Production,Amazon RDS,us-east-1,6.81,USD,2025-08
+2025-08-10,123456789013,Development,Amazon RDS,us-east-1,6.04,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon RDS,us-east-1,6.38,USD,2025-08
+2025-08-10,123456789012,Production,AWS Lambda,ap-southeast-1,1.25,USD,2025-08
+2025-08-10,123456789013,Development,AWS Lambda,us-west-2,1.43,USD,2025-08
+2025-08-10,123456789014,Testing,AWS Lambda,ap-southeast-1,1.05,USD,2025-08
+2025-08-10,123456789012,Production,Amazon CloudFront,eu-west-1,6.06,USD,2025-08
+2025-08-10,123456789013,Development,Amazon CloudFront,us-east-1,5.0,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon CloudFront,us-west-2,5.57,USD,2025-08
+2025-08-10,123456789012,Production,Amazon DynamoDB,ap-southeast-1,1.79,USD,2025-08
+2025-08-10,123456789013,Development,Amazon DynamoDB,us-east-1,1.68,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon DynamoDB,us-west-2,1.61,USD,2025-08
+2025-08-10,123456789012,Production,Amazon ECS,ap-southeast-1,8.37,USD,2025-08
+2025-08-10,123456789013,Development,Amazon ECS,eu-west-1,7.24,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon ECS,eu-west-1,9.05,USD,2025-08
+2025-08-10,123456789012,Production,Amazon VPC,us-west-2,0.68,USD,2025-08
+2025-08-10,123456789013,Development,Amazon VPC,ap-southeast-1,0.8,USD,2025-08
+2025-08-10,123456789014,Testing,Amazon VPC,ap-southeast-1,0.62,USD,2025-08
+2025-08-10,123456789012,Production,AWS Data Transfer,ap-southeast-1,2.17,USD,2025-08
+2025-08-10,123456789013,Development,AWS Data Transfer,us-west-2,2.96,USD,2025-08
+2025-08-10,123456789014,Testing,AWS Data Transfer,eu-west-1,3.07,USD,2025-08
+2025-08-11,123456789012,Production,Amazon EC2,us-west-2,23.42,USD,2025-08
+2025-08-11,123456789013,Development,Amazon EC2,eu-west-1,19.59,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon EC2,ap-southeast-1,18.33,USD,2025-08
+2025-08-11,123456789012,Production,Amazon S3,us-west-2,7.6,USD,2025-08
+2025-08-11,123456789013,Development,Amazon S3,us-west-2,7.52,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon S3,eu-west-1,5.04,USD,2025-08
+2025-08-11,123456789012,Production,Amazon RDS,ap-southeast-1,15.27,USD,2025-08
+2025-08-11,123456789013,Development,Amazon RDS,eu-west-1,12.92,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon RDS,us-east-1,15.3,USD,2025-08
+2025-08-11,123456789012,Production,AWS Lambda,eu-west-1,3.15,USD,2025-08
+2025-08-11,123456789013,Development,AWS Lambda,us-east-1,3.2,USD,2025-08
+2025-08-11,123456789014,Testing,AWS Lambda,eu-west-1,2.32,USD,2025-08
+2025-08-11,123456789012,Production,Amazon CloudFront,eu-west-1,9.04,USD,2025-08
+2025-08-11,123456789013,Development,Amazon CloudFront,us-east-1,10.1,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon CloudFront,eu-west-1,11.69,USD,2025-08
+2025-08-11,123456789012,Production,Amazon DynamoDB,eu-west-1,4.09,USD,2025-08
+2025-08-11,123456789013,Development,Amazon DynamoDB,us-east-1,4.23,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon DynamoDB,eu-west-1,3.2,USD,2025-08
+2025-08-11,123456789012,Production,Amazon ECS,us-west-2,12.95,USD,2025-08
+2025-08-11,123456789013,Development,Amazon ECS,us-west-2,17.69,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon ECS,us-west-2,18.66,USD,2025-08
+2025-08-11,123456789012,Production,Amazon VPC,us-west-2,1.04,USD,2025-08
+2025-08-11,123456789013,Development,Amazon VPC,ap-southeast-1,1.02,USD,2025-08
+2025-08-11,123456789014,Testing,Amazon VPC,eu-west-1,1.15,USD,2025-08
+2025-08-11,123456789012,Production,AWS Data Transfer,ap-southeast-1,6.49,USD,2025-08
+2025-08-11,123456789013,Development,AWS Data Transfer,eu-west-1,6.09,USD,2025-08
+2025-08-11,123456789014,Testing,AWS Data Transfer,eu-west-1,4.19,USD,2025-08
+2025-08-12,123456789012,Production,Amazon EC2,ap-southeast-1,21.83,USD,2025-08
+2025-08-12,123456789013,Development,Amazon EC2,eu-west-1,23.39,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon EC2,ap-southeast-1,18.69,USD,2025-08
+2025-08-12,123456789012,Production,Amazon S3,us-east-1,6.84,USD,2025-08
+2025-08-12,123456789013,Development,Amazon S3,eu-west-1,6.09,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon S3,ap-southeast-1,7.71,USD,2025-08
+2025-08-12,123456789012,Production,Amazon RDS,eu-west-1,13.21,USD,2025-08
+2025-08-12,123456789013,Development,Amazon RDS,eu-west-1,13.88,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon RDS,ap-southeast-1,10.85,USD,2025-08
+2025-08-12,123456789012,Production,AWS Lambda,eu-west-1,3.13,USD,2025-08
+2025-08-12,123456789013,Development,AWS Lambda,us-east-1,2.05,USD,2025-08
+2025-08-12,123456789014,Testing,AWS Lambda,us-west-2,2.75,USD,2025-08
+2025-08-12,123456789012,Production,Amazon CloudFront,us-west-2,11.88,USD,2025-08
+2025-08-12,123456789013,Development,Amazon CloudFront,us-west-2,11.98,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon CloudFront,us-east-1,9.11,USD,2025-08
+2025-08-12,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.57,USD,2025-08
+2025-08-12,123456789013,Development,Amazon DynamoDB,us-east-1,4.71,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.43,USD,2025-08
+2025-08-12,123456789012,Production,Amazon ECS,eu-west-1,15.3,USD,2025-08
+2025-08-12,123456789013,Development,Amazon ECS,ap-southeast-1,17.53,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon ECS,eu-west-1,18.87,USD,2025-08
+2025-08-12,123456789012,Production,Amazon VPC,us-west-2,1.16,USD,2025-08
+2025-08-12,123456789013,Development,Amazon VPC,eu-west-1,1.11,USD,2025-08
+2025-08-12,123456789014,Testing,Amazon VPC,eu-west-1,1.61,USD,2025-08
+2025-08-12,123456789012,Production,AWS Data Transfer,eu-west-1,4.16,USD,2025-08
+2025-08-12,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.43,USD,2025-08
+2025-08-12,123456789014,Testing,AWS Data Transfer,us-west-2,5.03,USD,2025-08
+2025-08-13,123456789012,Production,Amazon EC2,ap-southeast-1,15.32,USD,2025-08
+2025-08-13,123456789013,Development,Amazon EC2,eu-west-1,20.72,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon EC2,eu-west-1,15.18,USD,2025-08
+2025-08-13,123456789012,Production,Amazon S3,ap-southeast-1,6.71,USD,2025-08
+2025-08-13,123456789013,Development,Amazon S3,us-west-2,5.63,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon S3,eu-west-1,6.51,USD,2025-08
+2025-08-13,123456789012,Production,Amazon RDS,us-west-2,11.83,USD,2025-08
+2025-08-13,123456789013,Development,Amazon RDS,us-west-2,10.41,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon RDS,us-east-1,14.69,USD,2025-08
+2025-08-13,123456789012,Production,AWS Lambda,eu-west-1,2.58,USD,2025-08
+2025-08-13,123456789013,Development,AWS Lambda,ap-southeast-1,2.64,USD,2025-08
+2025-08-13,123456789014,Testing,AWS Lambda,us-east-1,3.19,USD,2025-08
+2025-08-13,123456789012,Production,Amazon CloudFront,eu-west-1,8.19,USD,2025-08
+2025-08-13,123456789013,Development,Amazon CloudFront,us-west-2,10.67,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon CloudFront,us-east-1,12.81,USD,2025-08
+2025-08-13,123456789012,Production,Amazon DynamoDB,us-west-2,3.98,USD,2025-08
+2025-08-13,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.32,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.11,USD,2025-08
+2025-08-13,123456789012,Production,Amazon ECS,us-east-1,14.24,USD,2025-08
+2025-08-13,123456789013,Development,Amazon ECS,ap-southeast-1,16.73,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon ECS,us-east-1,18.08,USD,2025-08
+2025-08-13,123456789012,Production,Amazon VPC,us-east-1,1.58,USD,2025-08
+2025-08-13,123456789013,Development,Amazon VPC,ap-southeast-1,1.54,USD,2025-08
+2025-08-13,123456789014,Testing,Amazon VPC,eu-west-1,1.05,USD,2025-08
+2025-08-13,123456789012,Production,AWS Data Transfer,us-east-1,4.86,USD,2025-08
+2025-08-13,123456789013,Development,AWS Data Transfer,eu-west-1,4.64,USD,2025-08
+2025-08-13,123456789014,Testing,AWS Data Transfer,us-west-2,6.08,USD,2025-08
+2025-08-14,123456789012,Production,Amazon EC2,eu-west-1,20.13,USD,2025-08
+2025-08-14,123456789013,Development,Amazon EC2,ap-southeast-1,16.33,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon EC2,us-west-2,17.98,USD,2025-08
+2025-08-14,123456789012,Production,Amazon S3,ap-southeast-1,8.14,USD,2025-08
+2025-08-14,123456789013,Development,Amazon S3,us-west-2,6.31,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon S3,ap-southeast-1,5.14,USD,2025-08
+2025-08-14,123456789012,Production,Amazon RDS,ap-southeast-1,10.45,USD,2025-08
+2025-08-14,123456789013,Development,Amazon RDS,us-west-2,12.59,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon RDS,eu-west-1,16.12,USD,2025-08
+2025-08-14,123456789012,Production,AWS Lambda,eu-west-1,2.67,USD,2025-08
+2025-08-14,123456789013,Development,AWS Lambda,us-west-2,2.68,USD,2025-08
+2025-08-14,123456789014,Testing,AWS Lambda,us-west-2,2.38,USD,2025-08
+2025-08-14,123456789012,Production,Amazon CloudFront,ap-southeast-1,11.25,USD,2025-08
+2025-08-14,123456789013,Development,Amazon CloudFront,ap-southeast-1,8.32,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon CloudFront,us-west-2,9.72,USD,2025-08
+2025-08-14,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.16,USD,2025-08
+2025-08-14,123456789013,Development,Amazon DynamoDB,us-east-1,4.47,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.79,USD,2025-08
+2025-08-14,123456789012,Production,Amazon ECS,us-west-2,16.26,USD,2025-08
+2025-08-14,123456789013,Development,Amazon ECS,us-east-1,19.48,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon ECS,ap-southeast-1,18.51,USD,2025-08
+2025-08-14,123456789012,Production,Amazon VPC,eu-west-1,1.37,USD,2025-08
+2025-08-14,123456789013,Development,Amazon VPC,ap-southeast-1,1.13,USD,2025-08
+2025-08-14,123456789014,Testing,Amazon VPC,eu-west-1,1.6,USD,2025-08
+2025-08-14,123456789012,Production,AWS Data Transfer,us-east-1,4.96,USD,2025-08
+2025-08-14,123456789013,Development,AWS Data Transfer,eu-west-1,6.3,USD,2025-08
+2025-08-14,123456789014,Testing,AWS Data Transfer,eu-west-1,4.43,USD,2025-08
+2025-08-15,123456789012,Production,Amazon EC2,ap-southeast-1,15.35,USD,2025-08
+2025-08-15,123456789013,Development,Amazon EC2,us-east-1,20.99,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon EC2,eu-west-1,23.83,USD,2025-08
+2025-08-15,123456789012,Production,Amazon S3,ap-southeast-1,7.35,USD,2025-08
+2025-08-15,123456789013,Development,Amazon S3,us-east-1,6.97,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon S3,us-east-1,6.21,USD,2025-08
+2025-08-15,123456789012,Production,Amazon RDS,ap-southeast-1,13.33,USD,2025-08
+2025-08-15,123456789013,Development,Amazon RDS,us-west-2,10.97,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon RDS,us-east-1,11.79,USD,2025-08
+2025-08-15,123456789012,Production,AWS Lambda,ap-southeast-1,2.2,USD,2025-08
+2025-08-15,123456789013,Development,AWS Lambda,ap-southeast-1,2.48,USD,2025-08
+2025-08-15,123456789014,Testing,AWS Lambda,us-west-2,2.3,USD,2025-08
+2025-08-15,123456789012,Production,Amazon CloudFront,eu-west-1,10.21,USD,2025-08
+2025-08-15,123456789013,Development,Amazon CloudFront,us-west-2,8.87,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon CloudFront,us-east-1,10.05,USD,2025-08
+2025-08-15,123456789012,Production,Amazon DynamoDB,eu-west-1,4.79,USD,2025-08
+2025-08-15,123456789013,Development,Amazon DynamoDB,us-west-2,3.13,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon DynamoDB,us-west-2,3.2,USD,2025-08
+2025-08-15,123456789012,Production,Amazon ECS,ap-southeast-1,12.67,USD,2025-08
+2025-08-15,123456789013,Development,Amazon ECS,us-east-1,12.52,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon ECS,us-east-1,14.8,USD,2025-08
+2025-08-15,123456789012,Production,Amazon VPC,us-west-2,1.35,USD,2025-08
+2025-08-15,123456789013,Development,Amazon VPC,us-east-1,1.15,USD,2025-08
+2025-08-15,123456789014,Testing,Amazon VPC,us-east-1,1.07,USD,2025-08
+2025-08-15,123456789012,Production,AWS Data Transfer,eu-west-1,4.2,USD,2025-08
+2025-08-15,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.61,USD,2025-08
+2025-08-15,123456789014,Testing,AWS Data Transfer,us-west-2,5.78,USD,2025-08
+2025-08-16,123456789012,Production,Amazon EC2,ap-southeast-1,10.27,USD,2025-08
+2025-08-16,123456789013,Development,Amazon EC2,us-east-1,12.23,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon EC2,eu-west-1,9.75,USD,2025-08
+2025-08-16,123456789012,Production,Amazon S3,eu-west-1,3.55,USD,2025-08
+2025-08-16,123456789013,Development,Amazon S3,us-east-1,3.03,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon S3,us-west-2,2.62,USD,2025-08
+2025-08-16,123456789012,Production,Amazon RDS,ap-southeast-1,6.62,USD,2025-08
+2025-08-16,123456789013,Development,Amazon RDS,us-east-1,7.79,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon RDS,eu-west-1,6.47,USD,2025-08
+2025-08-16,123456789012,Production,AWS Lambda,us-west-2,1.03,USD,2025-08
+2025-08-16,123456789013,Development,AWS Lambda,ap-southeast-1,1.14,USD,2025-08
+2025-08-16,123456789014,Testing,AWS Lambda,us-west-2,1.01,USD,2025-08
+2025-08-16,123456789012,Production,Amazon CloudFront,us-east-1,4.8,USD,2025-08
+2025-08-16,123456789013,Development,Amazon CloudFront,us-east-1,5.71,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon CloudFront,us-west-2,5.81,USD,2025-08
+2025-08-16,123456789012,Production,Amazon DynamoDB,ap-southeast-1,2.35,USD,2025-08
+2025-08-16,123456789013,Development,Amazon DynamoDB,eu-west-1,1.67,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon DynamoDB,eu-west-1,2.35,USD,2025-08
+2025-08-16,123456789012,Production,Amazon ECS,us-east-1,6.11,USD,2025-08
+2025-08-16,123456789013,Development,Amazon ECS,us-west-2,8.43,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon ECS,eu-west-1,7.33,USD,2025-08
+2025-08-16,123456789012,Production,Amazon VPC,eu-west-1,0.53,USD,2025-08
+2025-08-16,123456789013,Development,Amazon VPC,ap-southeast-1,0.76,USD,2025-08
+2025-08-16,123456789014,Testing,Amazon VPC,us-west-2,0.72,USD,2025-08
+2025-08-16,123456789012,Production,AWS Data Transfer,ap-southeast-1,2.38,USD,2025-08
+2025-08-16,123456789013,Development,AWS Data Transfer,us-east-1,2.37,USD,2025-08
+2025-08-16,123456789014,Testing,AWS Data Transfer,us-east-1,2.83,USD,2025-08
+2025-08-17,123456789012,Production,Amazon EC2,us-east-1,7.59,USD,2025-08
+2025-08-17,123456789013,Development,Amazon EC2,us-west-2,7.86,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon EC2,us-east-1,11.09,USD,2025-08
+2025-08-17,123456789012,Production,Amazon S3,ap-southeast-1,2.57,USD,2025-08
+2025-08-17,123456789013,Development,Amazon S3,ap-southeast-1,2.54,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon S3,us-east-1,3.02,USD,2025-08
+2025-08-17,123456789012,Production,Amazon RDS,ap-southeast-1,7.19,USD,2025-08
+2025-08-17,123456789013,Development,Amazon RDS,us-west-2,7.99,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon RDS,us-east-1,6.33,USD,2025-08
+2025-08-17,123456789012,Production,AWS Lambda,eu-west-1,1.39,USD,2025-08
+2025-08-17,123456789013,Development,AWS Lambda,us-east-1,1.61,USD,2025-08
+2025-08-17,123456789014,Testing,AWS Lambda,eu-west-1,1.57,USD,2025-08
+2025-08-17,123456789012,Production,Amazon CloudFront,ap-southeast-1,4.37,USD,2025-08
+2025-08-17,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.81,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon CloudFront,us-east-1,5.88,USD,2025-08
+2025-08-17,123456789012,Production,Amazon DynamoDB,eu-west-1,2.17,USD,2025-08
+2025-08-17,123456789013,Development,Amazon DynamoDB,us-east-1,2.41,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon DynamoDB,eu-west-1,1.82,USD,2025-08
+2025-08-17,123456789012,Production,Amazon ECS,us-west-2,9.02,USD,2025-08
+2025-08-17,123456789013,Development,Amazon ECS,us-west-2,9.8,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon ECS,us-west-2,9.82,USD,2025-08
+2025-08-17,123456789012,Production,Amazon VPC,us-east-1,0.81,USD,2025-08
+2025-08-17,123456789013,Development,Amazon VPC,eu-west-1,0.57,USD,2025-08
+2025-08-17,123456789014,Testing,Amazon VPC,us-east-1,0.6,USD,2025-08
+2025-08-17,123456789012,Production,AWS Data Transfer,eu-west-1,3.17,USD,2025-08
+2025-08-17,123456789013,Development,AWS Data Transfer,us-east-1,2.18,USD,2025-08
+2025-08-17,123456789014,Testing,AWS Data Transfer,eu-west-1,2.71,USD,2025-08
+2025-08-18,123456789012,Production,Amazon EC2,eu-west-1,22.18,USD,2025-08
+2025-08-18,123456789013,Development,Amazon EC2,us-east-1,24.11,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon EC2,ap-southeast-1,16.23,USD,2025-08
+2025-08-18,123456789012,Production,Amazon S3,eu-west-1,7.24,USD,2025-08
+2025-08-18,123456789013,Development,Amazon S3,us-west-2,6.73,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon S3,ap-southeast-1,7.74,USD,2025-08
+2025-08-18,123456789012,Production,Amazon RDS,us-west-2,15.57,USD,2025-08
+2025-08-18,123456789013,Development,Amazon RDS,eu-west-1,14.06,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon RDS,eu-west-1,12.53,USD,2025-08
+2025-08-18,123456789012,Production,AWS Lambda,us-east-1,3.2,USD,2025-08
+2025-08-18,123456789013,Development,AWS Lambda,eu-west-1,2.49,USD,2025-08
+2025-08-18,123456789014,Testing,AWS Lambda,us-east-1,2.69,USD,2025-08
+2025-08-18,123456789012,Production,Amazon CloudFront,ap-southeast-1,8.8,USD,2025-08
+2025-08-18,123456789013,Development,Amazon CloudFront,us-west-2,12.08,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon CloudFront,us-west-2,11.87,USD,2025-08
+2025-08-18,123456789012,Production,Amazon DynamoDB,eu-west-1,3.7,USD,2025-08
+2025-08-18,123456789013,Development,Amazon DynamoDB,us-east-1,3.21,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.11,USD,2025-08
+2025-08-18,123456789012,Production,Amazon ECS,us-east-1,14.79,USD,2025-08
+2025-08-18,123456789013,Development,Amazon ECS,eu-west-1,16.08,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon ECS,us-west-2,18.65,USD,2025-08
+2025-08-18,123456789012,Production,Amazon VPC,eu-west-1,1.18,USD,2025-08
+2025-08-18,123456789013,Development,Amazon VPC,us-west-2,1.05,USD,2025-08
+2025-08-18,123456789014,Testing,Amazon VPC,ap-southeast-1,1.34,USD,2025-08
+2025-08-18,123456789012,Production,AWS Data Transfer,us-east-1,5.15,USD,2025-08
+2025-08-18,123456789013,Development,AWS Data Transfer,us-west-2,6.38,USD,2025-08
+2025-08-18,123456789014,Testing,AWS Data Transfer,eu-west-1,4.37,USD,2025-08
+2025-08-19,123456789012,Production,Amazon EC2,eu-west-1,20.89,USD,2025-08
+2025-08-19,123456789013,Development,Amazon EC2,ap-southeast-1,17.81,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon EC2,eu-west-1,18.97,USD,2025-08
+2025-08-19,123456789012,Production,Amazon S3,ap-southeast-1,5.45,USD,2025-08
+2025-08-19,123456789013,Development,Amazon S3,us-west-2,5.45,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon S3,us-east-1,8.14,USD,2025-08
+2025-08-19,123456789012,Production,Amazon RDS,ap-southeast-1,14.32,USD,2025-08
+2025-08-19,123456789013,Development,Amazon RDS,ap-southeast-1,11.82,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon RDS,eu-west-1,15.37,USD,2025-08
+2025-08-19,123456789012,Production,AWS Lambda,eu-west-1,2.05,USD,2025-08
+2025-08-19,123456789013,Development,AWS Lambda,eu-west-1,2.51,USD,2025-08
+2025-08-19,123456789014,Testing,AWS Lambda,us-east-1,2.93,USD,2025-08
+2025-08-19,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.66,USD,2025-08
+2025-08-19,123456789013,Development,Amazon CloudFront,ap-southeast-1,10.85,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon CloudFront,ap-southeast-1,10.18,USD,2025-08
+2025-08-19,123456789012,Production,Amazon DynamoDB,us-east-1,4.77,USD,2025-08
+2025-08-19,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.51,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon DynamoDB,us-east-1,3.95,USD,2025-08
+2025-08-19,123456789012,Production,Amazon ECS,us-west-2,18.81,USD,2025-08
+2025-08-19,123456789013,Development,Amazon ECS,eu-west-1,19.25,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon ECS,us-west-2,16.07,USD,2025-08
+2025-08-19,123456789012,Production,Amazon VPC,ap-southeast-1,1.22,USD,2025-08
+2025-08-19,123456789013,Development,Amazon VPC,us-east-1,1.29,USD,2025-08
+2025-08-19,123456789014,Testing,Amazon VPC,us-west-2,1.4,USD,2025-08
+2025-08-19,123456789012,Production,AWS Data Transfer,us-west-2,6.35,USD,2025-08
+2025-08-19,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.13,USD,2025-08
+2025-08-19,123456789014,Testing,AWS Data Transfer,eu-west-1,6.13,USD,2025-08
+2025-08-20,123456789012,Production,Amazon EC2,ap-southeast-1,15.85,USD,2025-08
+2025-08-20,123456789013,Development,Amazon EC2,ap-southeast-1,15.37,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon EC2,us-west-2,15.34,USD,2025-08
+2025-08-20,123456789012,Production,Amazon S3,ap-southeast-1,6.27,USD,2025-08
+2025-08-20,123456789013,Development,Amazon S3,us-east-1,6.95,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon S3,ap-southeast-1,6.76,USD,2025-08
+2025-08-20,123456789012,Production,Amazon RDS,eu-west-1,13.01,USD,2025-08
+2025-08-20,123456789013,Development,Amazon RDS,eu-west-1,12.51,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon RDS,ap-southeast-1,12.03,USD,2025-08
+2025-08-20,123456789012,Production,AWS Lambda,us-east-1,3.14,USD,2025-08
+2025-08-20,123456789013,Development,AWS Lambda,us-east-1,2.05,USD,2025-08
+2025-08-20,123456789014,Testing,AWS Lambda,us-east-1,2.07,USD,2025-08
+2025-08-20,123456789012,Production,Amazon CloudFront,us-east-1,10.32,USD,2025-08
+2025-08-20,123456789013,Development,Amazon CloudFront,us-east-1,10.35,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon CloudFront,ap-southeast-1,10.47,USD,2025-08
+2025-08-20,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.44,USD,2025-08
+2025-08-20,123456789013,Development,Amazon DynamoDB,us-east-1,3.71,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.84,USD,2025-08
+2025-08-20,123456789012,Production,Amazon ECS,us-west-2,14.17,USD,2025-08
+2025-08-20,123456789013,Development,Amazon ECS,eu-west-1,16.8,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon ECS,us-west-2,15.73,USD,2025-08
+2025-08-20,123456789012,Production,Amazon VPC,ap-southeast-1,1.63,USD,2025-08
+2025-08-20,123456789013,Development,Amazon VPC,us-west-2,1.59,USD,2025-08
+2025-08-20,123456789014,Testing,Amazon VPC,ap-southeast-1,1.12,USD,2025-08
+2025-08-20,123456789012,Production,AWS Data Transfer,ap-southeast-1,4.17,USD,2025-08
+2025-08-20,123456789013,Development,AWS Data Transfer,us-east-1,4.42,USD,2025-08
+2025-08-20,123456789014,Testing,AWS Data Transfer,us-east-1,5.58,USD,2025-08
+2025-08-21,123456789012,Production,Amazon EC2,eu-west-1,17.68,USD,2025-08
+2025-08-21,123456789013,Development,Amazon EC2,eu-west-1,18.57,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon EC2,ap-southeast-1,17.54,USD,2025-08
+2025-08-21,123456789012,Production,Amazon S3,us-east-1,6.44,USD,2025-08
+2025-08-21,123456789013,Development,Amazon S3,ap-southeast-1,6.21,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon S3,us-west-2,5.09,USD,2025-08
+2025-08-21,123456789012,Production,Amazon RDS,us-east-1,14.89,USD,2025-08
+2025-08-21,123456789013,Development,Amazon RDS,eu-west-1,13.32,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon RDS,us-east-1,11.95,USD,2025-08
+2025-08-21,123456789012,Production,AWS Lambda,us-east-1,2.77,USD,2025-08
+2025-08-21,123456789013,Development,AWS Lambda,us-west-2,2.16,USD,2025-08
+2025-08-21,123456789014,Testing,AWS Lambda,ap-southeast-1,3.13,USD,2025-08
+2025-08-21,123456789012,Production,Amazon CloudFront,eu-west-1,10.74,USD,2025-08
+2025-08-21,123456789013,Development,Amazon CloudFront,eu-west-1,12.08,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon CloudFront,ap-southeast-1,9.71,USD,2025-08
+2025-08-21,123456789012,Production,Amazon DynamoDB,us-west-2,3.6,USD,2025-08
+2025-08-21,123456789013,Development,Amazon DynamoDB,eu-west-1,4.59,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.18,USD,2025-08
+2025-08-21,123456789012,Production,Amazon ECS,us-east-1,13.44,USD,2025-08
+2025-08-21,123456789013,Development,Amazon ECS,us-east-1,13.61,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon ECS,eu-west-1,16.23,USD,2025-08
+2025-08-21,123456789012,Production,Amazon VPC,ap-southeast-1,1.59,USD,2025-08
+2025-08-21,123456789013,Development,Amazon VPC,us-west-2,1.35,USD,2025-08
+2025-08-21,123456789014,Testing,Amazon VPC,us-west-2,1.5,USD,2025-08
+2025-08-21,123456789012,Production,AWS Data Transfer,us-west-2,6.04,USD,2025-08
+2025-08-21,123456789013,Development,AWS Data Transfer,us-east-1,5.34,USD,2025-08
+2025-08-21,123456789014,Testing,AWS Data Transfer,ap-southeast-1,4.9,USD,2025-08
+2025-08-22,123456789012,Production,Amazon EC2,us-west-2,18.87,USD,2025-08
+2025-08-22,123456789013,Development,Amazon EC2,us-east-1,22.7,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon EC2,us-east-1,17.13,USD,2025-08
+2025-08-22,123456789012,Production,Amazon S3,eu-west-1,7.06,USD,2025-08
+2025-08-22,123456789013,Development,Amazon S3,eu-west-1,7.3,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon S3,eu-west-1,5.09,USD,2025-08
+2025-08-22,123456789012,Production,Amazon RDS,eu-west-1,12.89,USD,2025-08
+2025-08-22,123456789013,Development,Amazon RDS,us-east-1,15.75,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon RDS,eu-west-1,15.65,USD,2025-08
+2025-08-22,123456789012,Production,AWS Lambda,us-east-1,2.1,USD,2025-08
+2025-08-22,123456789013,Development,AWS Lambda,ap-southeast-1,2.59,USD,2025-08
+2025-08-22,123456789014,Testing,AWS Lambda,ap-southeast-1,2.72,USD,2025-08
+2025-08-22,123456789012,Production,Amazon CloudFront,us-west-2,12.44,USD,2025-08
+2025-08-22,123456789013,Development,Amazon CloudFront,eu-west-1,9.88,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon CloudFront,us-east-1,11.41,USD,2025-08
+2025-08-22,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.65,USD,2025-08
+2025-08-22,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.71,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.79,USD,2025-08
+2025-08-22,123456789012,Production,Amazon ECS,eu-west-1,14.91,USD,2025-08
+2025-08-22,123456789013,Development,Amazon ECS,us-west-2,17.82,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon ECS,us-west-2,16.05,USD,2025-08
+2025-08-22,123456789012,Production,Amazon VPC,us-west-2,1.36,USD,2025-08
+2025-08-22,123456789013,Development,Amazon VPC,us-east-1,1.32,USD,2025-08
+2025-08-22,123456789014,Testing,Amazon VPC,us-west-2,1.15,USD,2025-08
+2025-08-22,123456789012,Production,AWS Data Transfer,us-west-2,6.54,USD,2025-08
+2025-08-22,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.58,USD,2025-08
+2025-08-22,123456789014,Testing,AWS Data Transfer,ap-southeast-1,4.52,USD,2025-08
+2025-08-23,123456789012,Production,Amazon EC2,us-west-2,12.2,USD,2025-08
+2025-08-23,123456789013,Development,Amazon EC2,us-west-2,8.31,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon EC2,us-east-1,11.76,USD,2025-08
+2025-08-23,123456789012,Production,Amazon S3,ap-southeast-1,4.09,USD,2025-08
+2025-08-23,123456789013,Development,Amazon S3,eu-west-1,4.12,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon S3,us-west-2,2.65,USD,2025-08
+2025-08-23,123456789012,Production,Amazon RDS,us-west-2,7.75,USD,2025-08
+2025-08-23,123456789013,Development,Amazon RDS,ap-southeast-1,6.75,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon RDS,us-west-2,6.91,USD,2025-08
+2025-08-23,123456789012,Production,AWS Lambda,us-east-1,1.31,USD,2025-08
+2025-08-23,123456789013,Development,AWS Lambda,eu-west-1,1.55,USD,2025-08
+2025-08-23,123456789014,Testing,AWS Lambda,ap-southeast-1,1.05,USD,2025-08
+2025-08-23,123456789012,Production,Amazon CloudFront,ap-southeast-1,6.08,USD,2025-08
+2025-08-23,123456789013,Development,Amazon CloudFront,eu-west-1,6.17,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon CloudFront,us-west-2,6.34,USD,2025-08
+2025-08-23,123456789012,Production,Amazon DynamoDB,us-west-2,2.45,USD,2025-08
+2025-08-23,123456789013,Development,Amazon DynamoDB,us-east-1,2.2,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon DynamoDB,us-west-2,1.82,USD,2025-08
+2025-08-23,123456789012,Production,Amazon ECS,us-west-2,8.99,USD,2025-08
+2025-08-23,123456789013,Development,Amazon ECS,us-west-2,9.34,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon ECS,eu-west-1,9.7,USD,2025-08
+2025-08-23,123456789012,Production,Amazon VPC,eu-west-1,0.6,USD,2025-08
+2025-08-23,123456789013,Development,Amazon VPC,eu-west-1,0.61,USD,2025-08
+2025-08-23,123456789014,Testing,Amazon VPC,ap-southeast-1,0.63,USD,2025-08
+2025-08-23,123456789012,Production,AWS Data Transfer,ap-southeast-1,2.9,USD,2025-08
+2025-08-23,123456789013,Development,AWS Data Transfer,eu-west-1,2.51,USD,2025-08
+2025-08-23,123456789014,Testing,AWS Data Transfer,eu-west-1,2.65,USD,2025-08
+2025-08-24,123456789012,Production,Amazon EC2,us-west-2,8.3,USD,2025-08
+2025-08-24,123456789013,Development,Amazon EC2,ap-southeast-1,8.49,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon EC2,eu-west-1,9.85,USD,2025-08
+2025-08-24,123456789012,Production,Amazon S3,eu-west-1,3.94,USD,2025-08
+2025-08-24,123456789013,Development,Amazon S3,eu-west-1,3.51,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon S3,us-east-1,3.15,USD,2025-08
+2025-08-24,123456789012,Production,Amazon RDS,us-west-2,5.87,USD,2025-08
+2025-08-24,123456789013,Development,Amazon RDS,us-west-2,7.96,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon RDS,us-east-1,7.09,USD,2025-08
+2025-08-24,123456789012,Production,AWS Lambda,eu-west-1,1.63,USD,2025-08
+2025-08-24,123456789013,Development,AWS Lambda,us-west-2,1.35,USD,2025-08
+2025-08-24,123456789014,Testing,AWS Lambda,eu-west-1,1.18,USD,2025-08
+2025-08-24,123456789012,Production,Amazon CloudFront,eu-west-1,4.14,USD,2025-08
+2025-08-24,123456789013,Development,Amazon CloudFront,us-west-2,5.76,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon CloudFront,us-east-1,5.81,USD,2025-08
+2025-08-24,123456789012,Production,Amazon DynamoDB,us-west-2,2.36,USD,2025-08
+2025-08-24,123456789013,Development,Amazon DynamoDB,ap-southeast-1,2.02,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon DynamoDB,us-west-2,1.61,USD,2025-08
+2025-08-24,123456789012,Production,Amazon ECS,us-west-2,9.34,USD,2025-08
+2025-08-24,123456789013,Development,Amazon ECS,ap-southeast-1,8.7,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon ECS,us-west-2,7.14,USD,2025-08
+2025-08-24,123456789012,Production,Amazon VPC,ap-southeast-1,0.54,USD,2025-08
+2025-08-24,123456789013,Development,Amazon VPC,ap-southeast-1,0.75,USD,2025-08
+2025-08-24,123456789014,Testing,Amazon VPC,us-west-2,0.57,USD,2025-08
+2025-08-24,123456789012,Production,AWS Data Transfer,us-west-2,2.15,USD,2025-08
+2025-08-24,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.84,USD,2025-08
+2025-08-24,123456789014,Testing,AWS Data Transfer,ap-southeast-1,2.56,USD,2025-08
+2025-08-25,123456789012,Production,Amazon EC2,us-east-1,24.28,USD,2025-08
+2025-08-25,123456789013,Development,Amazon EC2,us-west-2,23.03,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon EC2,eu-west-1,18.1,USD,2025-08
+2025-08-25,123456789012,Production,Amazon S3,us-east-1,6.63,USD,2025-08
+2025-08-25,123456789013,Development,Amazon S3,ap-southeast-1,7.16,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon S3,ap-southeast-1,7.64,USD,2025-08
+2025-08-25,123456789012,Production,Amazon RDS,eu-west-1,12.24,USD,2025-08
+2025-08-25,123456789013,Development,Amazon RDS,us-west-2,11.34,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon RDS,us-west-2,16.0,USD,2025-08
+2025-08-25,123456789012,Production,AWS Lambda,us-east-1,2.67,USD,2025-08
+2025-08-25,123456789013,Development,AWS Lambda,us-west-2,2.4,USD,2025-08
+2025-08-25,123456789014,Testing,AWS Lambda,ap-southeast-1,2.19,USD,2025-08
+2025-08-25,123456789012,Production,Amazon CloudFront,us-west-2,11.05,USD,2025-08
+2025-08-25,123456789013,Development,Amazon CloudFront,ap-southeast-1,12.45,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon CloudFront,eu-west-1,10.8,USD,2025-08
+2025-08-25,123456789012,Production,Amazon DynamoDB,eu-west-1,3.28,USD,2025-08
+2025-08-25,123456789013,Development,Amazon DynamoDB,eu-west-1,3.56,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon DynamoDB,us-west-2,4.91,USD,2025-08
+2025-08-25,123456789012,Production,Amazon ECS,eu-west-1,16.07,USD,2025-08
+2025-08-25,123456789013,Development,Amazon ECS,ap-southeast-1,14.56,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon ECS,us-east-1,15.49,USD,2025-08
+2025-08-25,123456789012,Production,Amazon VPC,us-west-2,1.24,USD,2025-08
+2025-08-25,123456789013,Development,Amazon VPC,ap-southeast-1,1.15,USD,2025-08
+2025-08-25,123456789014,Testing,Amazon VPC,eu-west-1,1.39,USD,2025-08
+2025-08-25,123456789012,Production,AWS Data Transfer,ap-southeast-1,4.1,USD,2025-08
+2025-08-25,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.16,USD,2025-08
+2025-08-25,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.18,USD,2025-08
+2025-08-26,123456789012,Production,Amazon EC2,ap-southeast-1,23.97,USD,2025-08
+2025-08-26,123456789013,Development,Amazon EC2,us-east-1,24.21,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon EC2,ap-southeast-1,23.95,USD,2025-08
+2025-08-26,123456789012,Production,Amazon S3,us-west-2,6.86,USD,2025-08
+2025-08-26,123456789013,Development,Amazon S3,us-west-2,8.23,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon S3,us-west-2,6.72,USD,2025-08
+2025-08-26,123456789012,Production,Amazon RDS,us-east-1,14.28,USD,2025-08
+2025-08-26,123456789013,Development,Amazon RDS,us-west-2,15.74,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon RDS,us-east-1,14.58,USD,2025-08
+2025-08-26,123456789012,Production,AWS Lambda,ap-southeast-1,2.45,USD,2025-08
+2025-08-26,123456789013,Development,AWS Lambda,us-west-2,2.58,USD,2025-08
+2025-08-26,123456789014,Testing,AWS Lambda,us-west-2,2.07,USD,2025-08
+2025-08-26,123456789012,Production,Amazon CloudFront,us-east-1,8.86,USD,2025-08
+2025-08-26,123456789013,Development,Amazon CloudFront,us-west-2,10.51,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon CloudFront,eu-west-1,9.0,USD,2025-08
+2025-08-26,123456789012,Production,Amazon DynamoDB,us-west-2,4.83,USD,2025-08
+2025-08-26,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.53,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.65,USD,2025-08
+2025-08-26,123456789012,Production,Amazon ECS,us-east-1,12.25,USD,2025-08
+2025-08-26,123456789013,Development,Amazon ECS,eu-west-1,18.32,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon ECS,us-west-2,14.19,USD,2025-08
+2025-08-26,123456789012,Production,Amazon VPC,ap-southeast-1,1.26,USD,2025-08
+2025-08-26,123456789013,Development,Amazon VPC,ap-southeast-1,1.63,USD,2025-08
+2025-08-26,123456789014,Testing,Amazon VPC,us-east-1,1.23,USD,2025-08
+2025-08-26,123456789012,Production,AWS Data Transfer,eu-west-1,5.05,USD,2025-08
+2025-08-26,123456789013,Development,AWS Data Transfer,eu-west-1,4.1,USD,2025-08
+2025-08-26,123456789014,Testing,AWS Data Transfer,ap-southeast-1,4.89,USD,2025-08
+2025-08-27,123456789012,Production,Amazon EC2,ap-southeast-1,23.54,USD,2025-08
+2025-08-27,123456789013,Development,Amazon EC2,us-east-1,19.34,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon EC2,us-east-1,20.13,USD,2025-08
+2025-08-27,123456789012,Production,Amazon S3,eu-west-1,6.87,USD,2025-08
+2025-08-27,123456789013,Development,Amazon S3,ap-southeast-1,5.44,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon S3,eu-west-1,6.97,USD,2025-08
+2025-08-27,123456789012,Production,Amazon RDS,ap-southeast-1,12.06,USD,2025-08
+2025-08-27,123456789013,Development,Amazon RDS,eu-west-1,11.8,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon RDS,ap-southeast-1,13.43,USD,2025-08
+2025-08-27,123456789012,Production,AWS Lambda,eu-west-1,3.29,USD,2025-08
+2025-08-27,123456789013,Development,AWS Lambda,us-west-2,3.16,USD,2025-08
+2025-08-27,123456789014,Testing,AWS Lambda,eu-west-1,2.11,USD,2025-08
+2025-08-27,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.44,USD,2025-08
+2025-08-27,123456789013,Development,Amazon CloudFront,ap-southeast-1,10.81,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon CloudFront,us-west-2,10.27,USD,2025-08
+2025-08-27,123456789012,Production,Amazon DynamoDB,eu-west-1,3.28,USD,2025-08
+2025-08-27,123456789013,Development,Amazon DynamoDB,us-west-2,4.66,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon DynamoDB,us-west-2,4.42,USD,2025-08
+2025-08-27,123456789012,Production,Amazon ECS,us-west-2,17.58,USD,2025-08
+2025-08-27,123456789013,Development,Amazon ECS,eu-west-1,13.9,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon ECS,us-west-2,15.39,USD,2025-08
+2025-08-27,123456789012,Production,Amazon VPC,us-east-1,1.51,USD,2025-08
+2025-08-27,123456789013,Development,Amazon VPC,ap-southeast-1,1.65,USD,2025-08
+2025-08-27,123456789014,Testing,Amazon VPC,ap-southeast-1,1.26,USD,2025-08
+2025-08-27,123456789012,Production,AWS Data Transfer,ap-southeast-1,6.48,USD,2025-08
+2025-08-27,123456789013,Development,AWS Data Transfer,us-east-1,5.94,USD,2025-08
+2025-08-27,123456789014,Testing,AWS Data Transfer,eu-west-1,5.5,USD,2025-08
+2025-08-28,123456789012,Production,Amazon EC2,eu-west-1,22.91,USD,2025-08
+2025-08-28,123456789013,Development,Amazon EC2,us-west-2,18.28,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon EC2,us-west-2,22.07,USD,2025-08
+2025-08-28,123456789012,Production,Amazon S3,us-west-2,6.16,USD,2025-08
+2025-08-28,123456789013,Development,Amazon S3,eu-west-1,5.95,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon S3,us-east-1,5.1,USD,2025-08
+2025-08-28,123456789012,Production,Amazon RDS,us-east-1,13.81,USD,2025-08
+2025-08-28,123456789013,Development,Amazon RDS,eu-west-1,15.65,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon RDS,us-east-1,10.38,USD,2025-08
+2025-08-28,123456789012,Production,AWS Lambda,us-east-1,2.81,USD,2025-08
+2025-08-28,123456789013,Development,AWS Lambda,eu-west-1,3.18,USD,2025-08
+2025-08-28,123456789014,Testing,AWS Lambda,ap-southeast-1,3.07,USD,2025-08
+2025-08-28,123456789012,Production,Amazon CloudFront,us-west-2,11.79,USD,2025-08
+2025-08-28,123456789013,Development,Amazon CloudFront,us-east-1,10.2,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon CloudFront,ap-southeast-1,9.21,USD,2025-08
+2025-08-28,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.77,USD,2025-08
+2025-08-28,123456789013,Development,Amazon DynamoDB,us-east-1,3.31,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon DynamoDB,us-west-2,4.22,USD,2025-08
+2025-08-28,123456789012,Production,Amazon ECS,eu-west-1,15.42,USD,2025-08
+2025-08-28,123456789013,Development,Amazon ECS,eu-west-1,18.49,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon ECS,eu-west-1,19.74,USD,2025-08
+2025-08-28,123456789012,Production,Amazon VPC,us-east-1,1.49,USD,2025-08
+2025-08-28,123456789013,Development,Amazon VPC,ap-southeast-1,1.27,USD,2025-08
+2025-08-28,123456789014,Testing,Amazon VPC,us-east-1,1.52,USD,2025-08
+2025-08-28,123456789012,Production,AWS Data Transfer,us-west-2,4.71,USD,2025-08
+2025-08-28,123456789013,Development,AWS Data Transfer,us-east-1,5.97,USD,2025-08
+2025-08-28,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.89,USD,2025-08
+2025-08-29,123456789012,Production,Amazon EC2,us-west-2,20.59,USD,2025-08
+2025-08-29,123456789013,Development,Amazon EC2,us-west-2,17.24,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon EC2,us-west-2,15.67,USD,2025-08
+2025-08-29,123456789012,Production,Amazon S3,ap-southeast-1,7.12,USD,2025-08
+2025-08-29,123456789013,Development,Amazon S3,eu-west-1,6.64,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon S3,eu-west-1,6.38,USD,2025-08
+2025-08-29,123456789012,Production,Amazon RDS,eu-west-1,12.73,USD,2025-08
+2025-08-29,123456789013,Development,Amazon RDS,us-east-1,11.54,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon RDS,us-east-1,13.75,USD,2025-08
+2025-08-29,123456789012,Production,AWS Lambda,us-west-2,2.81,USD,2025-08
+2025-08-29,123456789013,Development,AWS Lambda,us-east-1,2.08,USD,2025-08
+2025-08-29,123456789014,Testing,AWS Lambda,eu-west-1,2.41,USD,2025-08
+2025-08-29,123456789012,Production,Amazon CloudFront,eu-west-1,10.01,USD,2025-08
+2025-08-29,123456789013,Development,Amazon CloudFront,us-west-2,12.42,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon CloudFront,us-west-2,9.45,USD,2025-08
+2025-08-29,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.38,USD,2025-08
+2025-08-29,123456789013,Development,Amazon DynamoDB,us-east-1,4.14,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon DynamoDB,us-east-1,4.8,USD,2025-08
+2025-08-29,123456789012,Production,Amazon ECS,us-east-1,15.94,USD,2025-08
+2025-08-29,123456789013,Development,Amazon ECS,us-east-1,13.24,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon ECS,ap-southeast-1,14.43,USD,2025-08
+2025-08-29,123456789012,Production,Amazon VPC,us-west-2,1.19,USD,2025-08
+2025-08-29,123456789013,Development,Amazon VPC,eu-west-1,1.04,USD,2025-08
+2025-08-29,123456789014,Testing,Amazon VPC,ap-southeast-1,1.5,USD,2025-08
+2025-08-29,123456789012,Production,AWS Data Transfer,us-west-2,4.19,USD,2025-08
+2025-08-29,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.76,USD,2025-08
+2025-08-29,123456789014,Testing,AWS Data Transfer,eu-west-1,5.88,USD,2025-08
+2025-08-30,123456789012,Production,Amazon EC2,eu-west-1,10.08,USD,2025-08
+2025-08-30,123456789013,Development,Amazon EC2,us-west-2,9.25,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon EC2,us-east-1,12.22,USD,2025-08
+2025-08-30,123456789012,Production,Amazon S3,eu-west-1,4.04,USD,2025-08
+2025-08-30,123456789013,Development,Amazon S3,ap-southeast-1,3.36,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon S3,us-west-2,2.93,USD,2025-08
+2025-08-30,123456789012,Production,Amazon RDS,us-east-1,7.87,USD,2025-08
+2025-08-30,123456789013,Development,Amazon RDS,eu-west-1,8.11,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon RDS,eu-west-1,5.48,USD,2025-08
+2025-08-30,123456789012,Production,AWS Lambda,us-west-2,1.51,USD,2025-08
+2025-08-30,123456789013,Development,AWS Lambda,ap-southeast-1,1.48,USD,2025-08
+2025-08-30,123456789014,Testing,AWS Lambda,ap-southeast-1,1.53,USD,2025-08
+2025-08-30,123456789012,Production,Amazon CloudFront,eu-west-1,4.45,USD,2025-08
+2025-08-30,123456789013,Development,Amazon CloudFront,eu-west-1,4.98,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon CloudFront,eu-west-1,4.71,USD,2025-08
+2025-08-30,123456789012,Production,Amazon DynamoDB,us-east-1,1.85,USD,2025-08
+2025-08-30,123456789013,Development,Amazon DynamoDB,us-east-1,2.38,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon DynamoDB,us-west-2,2.36,USD,2025-08
+2025-08-30,123456789012,Production,Amazon ECS,us-east-1,8.62,USD,2025-08
+2025-08-30,123456789013,Development,Amazon ECS,us-east-1,6.81,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon ECS,ap-southeast-1,8.03,USD,2025-08
+2025-08-30,123456789012,Production,Amazon VPC,us-east-1,0.66,USD,2025-08
+2025-08-30,123456789013,Development,Amazon VPC,ap-southeast-1,0.57,USD,2025-08
+2025-08-30,123456789014,Testing,Amazon VPC,us-west-2,0.81,USD,2025-08
+2025-08-30,123456789012,Production,AWS Data Transfer,us-east-1,2.25,USD,2025-08
+2025-08-30,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.12,USD,2025-08
+2025-08-30,123456789014,Testing,AWS Data Transfer,us-east-1,2.42,USD,2025-08
+2025-08-31,123456789012,Production,Amazon EC2,eu-west-1,11.54,USD,2025-08
+2025-08-31,123456789013,Development,Amazon EC2,ap-southeast-1,10.91,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon EC2,us-east-1,12.16,USD,2025-08
+2025-08-31,123456789012,Production,Amazon S3,us-west-2,3.66,USD,2025-08
+2025-08-31,123456789013,Development,Amazon S3,ap-southeast-1,3.22,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon S3,us-west-2,3.61,USD,2025-08
+2025-08-31,123456789012,Production,Amazon RDS,us-east-1,7.22,USD,2025-08
+2025-08-31,123456789013,Development,Amazon RDS,ap-southeast-1,6.35,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon RDS,us-west-2,6.73,USD,2025-08
+2025-08-31,123456789012,Production,AWS Lambda,us-east-1,1.54,USD,2025-08
+2025-08-31,123456789013,Development,AWS Lambda,eu-west-1,1.37,USD,2025-08
+2025-08-31,123456789014,Testing,AWS Lambda,eu-west-1,1.65,USD,2025-08
+2025-08-31,123456789012,Production,Amazon CloudFront,ap-southeast-1,4.41,USD,2025-08
+2025-08-31,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.72,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon CloudFront,us-west-2,4.75,USD,2025-08
+2025-08-31,123456789012,Production,Amazon DynamoDB,eu-west-1,1.87,USD,2025-08
+2025-08-31,123456789013,Development,Amazon DynamoDB,us-east-1,1.84,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon DynamoDB,eu-west-1,1.95,USD,2025-08
+2025-08-31,123456789012,Production,Amazon ECS,us-east-1,9.22,USD,2025-08
+2025-08-31,123456789013,Development,Amazon ECS,us-west-2,9.0,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon ECS,eu-west-1,7.84,USD,2025-08
+2025-08-31,123456789012,Production,Amazon VPC,ap-southeast-1,0.68,USD,2025-08
+2025-08-31,123456789013,Development,Amazon VPC,eu-west-1,0.63,USD,2025-08
+2025-08-31,123456789014,Testing,Amazon VPC,us-west-2,0.62,USD,2025-08
+2025-08-31,123456789012,Production,AWS Data Transfer,us-west-2,2.7,USD,2025-08
+2025-08-31,123456789013,Development,AWS Data Transfer,us-east-1,2.45,USD,2025-08
+2025-08-31,123456789014,Testing,AWS Data Transfer,ap-southeast-1,2.47,USD,2025-08
+2025-09-01,123456789012,Production,Amazon EC2,eu-west-1,18.38,USD,2025-09
+2025-09-01,123456789013,Development,Amazon EC2,us-east-1,24.91,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon EC2,us-east-1,18.33,USD,2025-09
+2025-09-01,123456789012,Production,Amazon S3,us-east-1,7.18,USD,2025-09
+2025-09-01,123456789013,Development,Amazon S3,us-east-1,7.89,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon S3,us-east-1,7.17,USD,2025-09
+2025-09-01,123456789012,Production,Amazon RDS,us-west-2,15.61,USD,2025-09
+2025-09-01,123456789013,Development,Amazon RDS,us-west-2,10.57,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon RDS,us-east-1,11.35,USD,2025-09
+2025-09-01,123456789012,Production,AWS Lambda,eu-west-1,2.17,USD,2025-09
+2025-09-01,123456789013,Development,AWS Lambda,ap-southeast-1,2.62,USD,2025-09
+2025-09-01,123456789014,Testing,AWS Lambda,us-west-2,2.25,USD,2025-09
+2025-09-01,123456789012,Production,Amazon CloudFront,us-east-1,13.24,USD,2025-09
+2025-09-01,123456789013,Development,Amazon CloudFront,ap-southeast-1,12.71,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon CloudFront,us-west-2,10.11,USD,2025-09
+2025-09-01,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.02,USD,2025-09
+2025-09-01,123456789013,Development,Amazon DynamoDB,us-east-1,4.37,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.5,USD,2025-09
+2025-09-01,123456789012,Production,Amazon ECS,ap-southeast-1,19.78,USD,2025-09
+2025-09-01,123456789013,Development,Amazon ECS,ap-southeast-1,17.85,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon ECS,ap-southeast-1,16.88,USD,2025-09
+2025-09-01,123456789012,Production,Amazon VPC,ap-southeast-1,1.25,USD,2025-09
+2025-09-01,123456789013,Development,Amazon VPC,us-west-2,1.1,USD,2025-09
+2025-09-01,123456789014,Testing,Amazon VPC,us-west-2,1.55,USD,2025-09
+2025-09-01,123456789012,Production,AWS Data Transfer,us-west-2,5.54,USD,2025-09
+2025-09-01,123456789013,Development,AWS Data Transfer,us-west-2,5.12,USD,2025-09
+2025-09-01,123456789014,Testing,AWS Data Transfer,us-east-1,6.2,USD,2025-09
+2025-09-02,123456789012,Production,Amazon EC2,us-west-2,15.71,USD,2025-09
+2025-09-02,123456789013,Development,Amazon EC2,us-east-1,16.95,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon EC2,eu-west-1,18.78,USD,2025-09
+2025-09-02,123456789012,Production,Amazon S3,us-west-2,6.16,USD,2025-09
+2025-09-02,123456789013,Development,Amazon S3,us-west-2,5.35,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon S3,ap-southeast-1,7.66,USD,2025-09
+2025-09-02,123456789012,Production,Amazon RDS,us-west-2,11.25,USD,2025-09
+2025-09-02,123456789013,Development,Amazon RDS,us-east-1,13.76,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon RDS,us-west-2,15.15,USD,2025-09
+2025-09-02,123456789012,Production,AWS Lambda,eu-west-1,2.25,USD,2025-09
+2025-09-02,123456789013,Development,AWS Lambda,ap-southeast-1,2.18,USD,2025-09
+2025-09-02,123456789014,Testing,AWS Lambda,ap-southeast-1,2.7,USD,2025-09
+2025-09-02,123456789012,Production,Amazon CloudFront,ap-southeast-1,10.64,USD,2025-09
+2025-09-02,123456789013,Development,Amazon CloudFront,ap-southeast-1,12.31,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon CloudFront,us-east-1,10.59,USD,2025-09
+2025-09-02,123456789012,Production,Amazon DynamoDB,us-east-1,4.74,USD,2025-09
+2025-09-02,123456789013,Development,Amazon DynamoDB,us-west-2,3.46,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.68,USD,2025-09
+2025-09-02,123456789012,Production,Amazon ECS,ap-southeast-1,17.81,USD,2025-09
+2025-09-02,123456789013,Development,Amazon ECS,us-west-2,13.35,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon ECS,eu-west-1,13.01,USD,2025-09
+2025-09-02,123456789012,Production,Amazon VPC,us-west-2,1.61,USD,2025-09
+2025-09-02,123456789013,Development,Amazon VPC,us-west-2,1.51,USD,2025-09
+2025-09-02,123456789014,Testing,Amazon VPC,eu-west-1,1.26,USD,2025-09
+2025-09-02,123456789012,Production,AWS Data Transfer,eu-west-1,6.65,USD,2025-09
+2025-09-02,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.99,USD,2025-09
+2025-09-02,123456789014,Testing,AWS Data Transfer,eu-west-1,4.49,USD,2025-09
+2025-09-03,123456789012,Production,Amazon EC2,ap-southeast-1,24.89,USD,2025-09
+2025-09-03,123456789013,Development,Amazon EC2,us-west-2,22.1,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon EC2,us-west-2,24.33,USD,2025-09
+2025-09-03,123456789012,Production,Amazon S3,eu-west-1,8.25,USD,2025-09
+2025-09-03,123456789013,Development,Amazon S3,eu-west-1,5.91,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon S3,us-west-2,6.21,USD,2025-09
+2025-09-03,123456789012,Production,Amazon RDS,eu-west-1,15.61,USD,2025-09
+2025-09-03,123456789013,Development,Amazon RDS,us-east-1,10.3,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon RDS,us-west-2,12.71,USD,2025-09
+2025-09-03,123456789012,Production,AWS Lambda,eu-west-1,2.09,USD,2025-09
+2025-09-03,123456789013,Development,AWS Lambda,us-east-1,2.12,USD,2025-09
+2025-09-03,123456789014,Testing,AWS Lambda,ap-southeast-1,2.2,USD,2025-09
+2025-09-03,123456789012,Production,Amazon CloudFront,eu-west-1,10.14,USD,2025-09
+2025-09-03,123456789013,Development,Amazon CloudFront,us-east-1,9.35,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon CloudFront,eu-west-1,10.16,USD,2025-09
+2025-09-03,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.36,USD,2025-09
+2025-09-03,123456789013,Development,Amazon DynamoDB,us-west-2,3.68,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.61,USD,2025-09
+2025-09-03,123456789012,Production,Amazon ECS,us-east-1,17.86,USD,2025-09
+2025-09-03,123456789013,Development,Amazon ECS,eu-west-1,16.88,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon ECS,eu-west-1,12.72,USD,2025-09
+2025-09-03,123456789012,Production,Amazon VPC,us-west-2,1.39,USD,2025-09
+2025-09-03,123456789013,Development,Amazon VPC,us-east-1,1.51,USD,2025-09
+2025-09-03,123456789014,Testing,Amazon VPC,eu-west-1,1.41,USD,2025-09
+2025-09-03,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.38,USD,2025-09
+2025-09-03,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.6,USD,2025-09
+2025-09-03,123456789014,Testing,AWS Data Transfer,us-west-2,5.78,USD,2025-09
+2025-09-04,123456789012,Production,Amazon EC2,us-west-2,18.33,USD,2025-09
+2025-09-04,123456789013,Development,Amazon EC2,ap-southeast-1,16.8,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon EC2,us-west-2,18.88,USD,2025-09
+2025-09-04,123456789012,Production,Amazon S3,ap-southeast-1,6.24,USD,2025-09
+2025-09-04,123456789013,Development,Amazon S3,us-west-2,5.32,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon S3,eu-west-1,5.81,USD,2025-09
+2025-09-04,123456789012,Production,Amazon RDS,us-east-1,12.46,USD,2025-09
+2025-09-04,123456789013,Development,Amazon RDS,ap-southeast-1,12.77,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon RDS,us-west-2,11.86,USD,2025-09
+2025-09-04,123456789012,Production,AWS Lambda,us-east-1,2.94,USD,2025-09
+2025-09-04,123456789013,Development,AWS Lambda,us-west-2,2.34,USD,2025-09
+2025-09-04,123456789014,Testing,AWS Lambda,ap-southeast-1,2.13,USD,2025-09
+2025-09-04,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.1,USD,2025-09
+2025-09-04,123456789013,Development,Amazon CloudFront,ap-southeast-1,9.21,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon CloudFront,eu-west-1,8.53,USD,2025-09
+2025-09-04,123456789012,Production,Amazon DynamoDB,us-west-2,4.79,USD,2025-09
+2025-09-04,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.22,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon DynamoDB,us-west-2,4.91,USD,2025-09
+2025-09-04,123456789012,Production,Amazon ECS,us-west-2,14.55,USD,2025-09
+2025-09-04,123456789013,Development,Amazon ECS,eu-west-1,13.98,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon ECS,us-west-2,17.51,USD,2025-09
+2025-09-04,123456789012,Production,Amazon VPC,us-east-1,1.56,USD,2025-09
+2025-09-04,123456789013,Development,Amazon VPC,us-west-2,1.54,USD,2025-09
+2025-09-04,123456789014,Testing,Amazon VPC,eu-west-1,1.17,USD,2025-09
+2025-09-04,123456789012,Production,AWS Data Transfer,us-west-2,5.23,USD,2025-09
+2025-09-04,123456789013,Development,AWS Data Transfer,us-west-2,5.35,USD,2025-09
+2025-09-04,123456789014,Testing,AWS Data Transfer,eu-west-1,5.28,USD,2025-09
+2025-09-05,123456789012,Production,Amazon EC2,us-west-2,15.94,USD,2025-09
+2025-09-05,123456789013,Development,Amazon EC2,ap-southeast-1,16.45,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon EC2,eu-west-1,18.68,USD,2025-09
+2025-09-05,123456789012,Production,Amazon S3,eu-west-1,6.62,USD,2025-09
+2025-09-05,123456789013,Development,Amazon S3,us-west-2,6.69,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon S3,eu-west-1,6.57,USD,2025-09
+2025-09-05,123456789012,Production,Amazon RDS,us-west-2,16.51,USD,2025-09
+2025-09-05,123456789013,Development,Amazon RDS,eu-west-1,13.68,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon RDS,ap-southeast-1,12.61,USD,2025-09
+2025-09-05,123456789012,Production,AWS Lambda,us-west-2,2.37,USD,2025-09
+2025-09-05,123456789013,Development,AWS Lambda,us-east-1,3.09,USD,2025-09
+2025-09-05,123456789014,Testing,AWS Lambda,ap-southeast-1,2.48,USD,2025-09
+2025-09-05,123456789012,Production,Amazon CloudFront,eu-west-1,8.25,USD,2025-09
+2025-09-05,123456789013,Development,Amazon CloudFront,us-east-1,11.32,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon CloudFront,eu-west-1,10.68,USD,2025-09
+2025-09-05,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.16,USD,2025-09
+2025-09-05,123456789013,Development,Amazon DynamoDB,us-west-2,4.75,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.36,USD,2025-09
+2025-09-05,123456789012,Production,Amazon ECS,us-east-1,12.57,USD,2025-09
+2025-09-05,123456789013,Development,Amazon ECS,eu-west-1,17.57,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon ECS,eu-west-1,17.26,USD,2025-09
+2025-09-05,123456789012,Production,Amazon VPC,us-west-2,1.13,USD,2025-09
+2025-09-05,123456789013,Development,Amazon VPC,ap-southeast-1,1.54,USD,2025-09
+2025-09-05,123456789014,Testing,Amazon VPC,us-west-2,1.36,USD,2025-09
+2025-09-05,123456789012,Production,AWS Data Transfer,us-east-1,6.35,USD,2025-09
+2025-09-05,123456789013,Development,AWS Data Transfer,eu-west-1,6.22,USD,2025-09
+2025-09-05,123456789014,Testing,AWS Data Transfer,us-west-2,6.42,USD,2025-09
+2025-09-06,123456789012,Production,Amazon EC2,us-east-1,8.79,USD,2025-09
+2025-09-06,123456789013,Development,Amazon EC2,us-west-2,12.07,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon EC2,eu-west-1,11.62,USD,2025-09
+2025-09-06,123456789012,Production,Amazon S3,ap-southeast-1,3.15,USD,2025-09
+2025-09-06,123456789013,Development,Amazon S3,ap-southeast-1,2.68,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon S3,ap-southeast-1,3.92,USD,2025-09
+2025-09-06,123456789012,Production,Amazon RDS,eu-west-1,6.21,USD,2025-09
+2025-09-06,123456789013,Development,Amazon RDS,ap-southeast-1,7.94,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon RDS,ap-southeast-1,8.26,USD,2025-09
+2025-09-06,123456789012,Production,AWS Lambda,eu-west-1,1.26,USD,2025-09
+2025-09-06,123456789013,Development,AWS Lambda,us-west-2,1.57,USD,2025-09
+2025-09-06,123456789014,Testing,AWS Lambda,ap-southeast-1,1.54,USD,2025-09
+2025-09-06,123456789012,Production,Amazon CloudFront,us-east-1,5.15,USD,2025-09
+2025-09-06,123456789013,Development,Amazon CloudFront,us-west-2,5.49,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon CloudFront,us-west-2,6.16,USD,2025-09
+2025-09-06,123456789012,Production,Amazon DynamoDB,us-east-1,2.2,USD,2025-09
+2025-09-06,123456789013,Development,Amazon DynamoDB,us-east-1,2.15,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon DynamoDB,eu-west-1,1.57,USD,2025-09
+2025-09-06,123456789012,Production,Amazon ECS,eu-west-1,8.56,USD,2025-09
+2025-09-06,123456789013,Development,Amazon ECS,us-west-2,9.2,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon ECS,us-east-1,6.84,USD,2025-09
+2025-09-06,123456789012,Production,Amazon VPC,us-east-1,0.61,USD,2025-09
+2025-09-06,123456789013,Development,Amazon VPC,eu-west-1,0.59,USD,2025-09
+2025-09-06,123456789014,Testing,Amazon VPC,us-east-1,0.6,USD,2025-09
+2025-09-06,123456789012,Production,AWS Data Transfer,us-west-2,2.74,USD,2025-09
+2025-09-06,123456789013,Development,AWS Data Transfer,us-east-1,2.12,USD,2025-09
+2025-09-06,123456789014,Testing,AWS Data Transfer,us-west-2,2.56,USD,2025-09
+2025-09-07,123456789012,Production,Amazon EC2,us-east-1,8.35,USD,2025-09
+2025-09-07,123456789013,Development,Amazon EC2,us-west-2,11.29,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon EC2,ap-southeast-1,9.98,USD,2025-09
+2025-09-07,123456789012,Production,Amazon S3,eu-west-1,3.84,USD,2025-09
+2025-09-07,123456789013,Development,Amazon S3,eu-west-1,3.22,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon S3,eu-west-1,3.49,USD,2025-09
+2025-09-07,123456789012,Production,Amazon RDS,us-west-2,6.26,USD,2025-09
+2025-09-07,123456789013,Development,Amazon RDS,us-west-2,7.4,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon RDS,eu-west-1,6.05,USD,2025-09
+2025-09-07,123456789012,Production,AWS Lambda,us-east-1,1.42,USD,2025-09
+2025-09-07,123456789013,Development,AWS Lambda,us-west-2,1.14,USD,2025-09
+2025-09-07,123456789014,Testing,AWS Lambda,eu-west-1,1.47,USD,2025-09
+2025-09-07,123456789012,Production,Amazon CloudFront,ap-southeast-1,5.26,USD,2025-09
+2025-09-07,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.48,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon CloudFront,us-west-2,5.19,USD,2025-09
+2025-09-07,123456789012,Production,Amazon DynamoDB,eu-west-1,2.06,USD,2025-09
+2025-09-07,123456789013,Development,Amazon DynamoDB,us-east-1,2.23,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon DynamoDB,us-west-2,2.09,USD,2025-09
+2025-09-07,123456789012,Production,Amazon ECS,eu-west-1,6.2,USD,2025-09
+2025-09-07,123456789013,Development,Amazon ECS,ap-southeast-1,7.4,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon ECS,us-west-2,9.32,USD,2025-09
+2025-09-07,123456789012,Production,Amazon VPC,ap-southeast-1,0.57,USD,2025-09
+2025-09-07,123456789013,Development,Amazon VPC,us-east-1,0.67,USD,2025-09
+2025-09-07,123456789014,Testing,Amazon VPC,ap-southeast-1,0.71,USD,2025-09
+2025-09-07,123456789012,Production,AWS Data Transfer,us-east-1,2.14,USD,2025-09
+2025-09-07,123456789013,Development,AWS Data Transfer,eu-west-1,2.81,USD,2025-09
+2025-09-07,123456789014,Testing,AWS Data Transfer,ap-southeast-1,2.06,USD,2025-09
+2025-09-08,123456789012,Production,Amazon EC2,us-west-2,15.9,USD,2025-09
+2025-09-08,123456789013,Development,Amazon EC2,eu-west-1,16.13,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon EC2,us-west-2,22.49,USD,2025-09
+2025-09-08,123456789012,Production,Amazon S3,ap-southeast-1,7.39,USD,2025-09
+2025-09-08,123456789013,Development,Amazon S3,eu-west-1,6.17,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon S3,us-east-1,6.1,USD,2025-09
+2025-09-08,123456789012,Production,Amazon RDS,us-west-2,14.34,USD,2025-09
+2025-09-08,123456789013,Development,Amazon RDS,ap-southeast-1,13.34,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon RDS,us-west-2,12.53,USD,2025-09
+2025-09-08,123456789012,Production,AWS Lambda,eu-west-1,2.9,USD,2025-09
+2025-09-08,123456789013,Development,AWS Lambda,eu-west-1,2.14,USD,2025-09
+2025-09-08,123456789014,Testing,AWS Lambda,us-east-1,2.07,USD,2025-09
+2025-09-08,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.47,USD,2025-09
+2025-09-08,123456789013,Development,Amazon CloudFront,eu-west-1,12.99,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon CloudFront,eu-west-1,11.98,USD,2025-09
+2025-09-08,123456789012,Production,Amazon DynamoDB,us-west-2,4.98,USD,2025-09
+2025-09-08,123456789013,Development,Amazon DynamoDB,us-east-1,3.12,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon DynamoDB,us-west-2,3.68,USD,2025-09
+2025-09-08,123456789012,Production,Amazon ECS,eu-west-1,16.71,USD,2025-09
+2025-09-08,123456789013,Development,Amazon ECS,us-east-1,17.56,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon ECS,eu-west-1,18.15,USD,2025-09
+2025-09-08,123456789012,Production,Amazon VPC,eu-west-1,1.11,USD,2025-09
+2025-09-08,123456789013,Development,Amazon VPC,us-west-2,1.31,USD,2025-09
+2025-09-08,123456789014,Testing,Amazon VPC,us-east-1,1.66,USD,2025-09
+2025-09-08,123456789012,Production,AWS Data Transfer,eu-west-1,5.76,USD,2025-09
+2025-09-08,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.96,USD,2025-09
+2025-09-08,123456789014,Testing,AWS Data Transfer,us-west-2,6.27,USD,2025-09
+2025-09-09,123456789012,Production,Amazon EC2,us-east-1,23.76,USD,2025-09
+2025-09-09,123456789013,Development,Amazon EC2,us-east-1,23.75,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon EC2,us-east-1,17.77,USD,2025-09
+2025-09-09,123456789012,Production,Amazon S3,us-east-1,7.8,USD,2025-09
+2025-09-09,123456789013,Development,Amazon S3,us-west-2,7.06,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon S3,us-east-1,6.74,USD,2025-09
+2025-09-09,123456789012,Production,Amazon RDS,us-east-1,12.17,USD,2025-09
+2025-09-09,123456789013,Development,Amazon RDS,eu-west-1,10.99,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon RDS,us-east-1,16.5,USD,2025-09
+2025-09-09,123456789012,Production,AWS Lambda,eu-west-1,2.43,USD,2025-09
+2025-09-09,123456789013,Development,AWS Lambda,us-west-2,3.02,USD,2025-09
+2025-09-09,123456789014,Testing,AWS Lambda,eu-west-1,2.25,USD,2025-09
+2025-09-09,123456789012,Production,Amazon CloudFront,us-west-2,10.54,USD,2025-09
+2025-09-09,123456789013,Development,Amazon CloudFront,us-west-2,10.23,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon CloudFront,us-east-1,10.9,USD,2025-09
+2025-09-09,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.45,USD,2025-09
+2025-09-09,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.24,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon DynamoDB,us-east-1,3.66,USD,2025-09
+2025-09-09,123456789012,Production,Amazon ECS,eu-west-1,16.58,USD,2025-09
+2025-09-09,123456789013,Development,Amazon ECS,ap-southeast-1,16.0,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon ECS,eu-west-1,18.69,USD,2025-09
+2025-09-09,123456789012,Production,Amazon VPC,eu-west-1,1.39,USD,2025-09
+2025-09-09,123456789013,Development,Amazon VPC,us-west-2,1.32,USD,2025-09
+2025-09-09,123456789014,Testing,Amazon VPC,us-east-1,1.26,USD,2025-09
+2025-09-09,123456789012,Production,AWS Data Transfer,us-east-1,4.3,USD,2025-09
+2025-09-09,123456789013,Development,AWS Data Transfer,us-west-2,4.15,USD,2025-09
+2025-09-09,123456789014,Testing,AWS Data Transfer,us-west-2,6.16,USD,2025-09
+2025-09-10,123456789012,Production,Amazon EC2,us-east-1,17.54,USD,2025-09
+2025-09-10,123456789013,Development,Amazon EC2,eu-west-1,15.75,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon EC2,ap-southeast-1,17.52,USD,2025-09
+2025-09-10,123456789012,Production,Amazon S3,us-west-2,7.29,USD,2025-09
+2025-09-10,123456789013,Development,Amazon S3,ap-southeast-1,5.25,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon S3,us-east-1,5.29,USD,2025-09
+2025-09-10,123456789012,Production,Amazon RDS,eu-west-1,16.2,USD,2025-09
+2025-09-10,123456789013,Development,Amazon RDS,ap-southeast-1,15.31,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon RDS,us-east-1,16.27,USD,2025-09
+2025-09-10,123456789012,Production,AWS Lambda,us-west-2,2.76,USD,2025-09
+2025-09-10,123456789013,Development,AWS Lambda,ap-southeast-1,3.09,USD,2025-09
+2025-09-10,123456789014,Testing,AWS Lambda,ap-southeast-1,2.88,USD,2025-09
+2025-09-10,123456789012,Production,Amazon CloudFront,us-west-2,9.19,USD,2025-09
+2025-09-10,123456789013,Development,Amazon CloudFront,ap-southeast-1,13.0,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon CloudFront,us-east-1,11.62,USD,2025-09
+2025-09-10,123456789012,Production,Amazon DynamoDB,us-east-1,3.36,USD,2025-09
+2025-09-10,123456789013,Development,Amazon DynamoDB,us-east-1,4.95,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.4,USD,2025-09
+2025-09-10,123456789012,Production,Amazon ECS,us-east-1,18.94,USD,2025-09
+2025-09-10,123456789013,Development,Amazon ECS,eu-west-1,15.04,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon ECS,us-east-1,16.17,USD,2025-09
+2025-09-10,123456789012,Production,Amazon VPC,eu-west-1,1.41,USD,2025-09
+2025-09-10,123456789013,Development,Amazon VPC,ap-southeast-1,1.06,USD,2025-09
+2025-09-10,123456789014,Testing,Amazon VPC,us-east-1,1.29,USD,2025-09
+2025-09-10,123456789012,Production,AWS Data Transfer,ap-southeast-1,6.56,USD,2025-09
+2025-09-10,123456789013,Development,AWS Data Transfer,us-west-2,4.91,USD,2025-09
+2025-09-10,123456789014,Testing,AWS Data Transfer,eu-west-1,6.25,USD,2025-09
+2025-09-11,123456789012,Production,Amazon EC2,eu-west-1,18.17,USD,2025-09
+2025-09-11,123456789013,Development,Amazon EC2,us-east-1,16.73,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon EC2,us-west-2,20.28,USD,2025-09
+2025-09-11,123456789012,Production,Amazon S3,us-west-2,8.29,USD,2025-09
+2025-09-11,123456789013,Development,Amazon S3,ap-southeast-1,5.74,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon S3,eu-west-1,5.85,USD,2025-09
+2025-09-11,123456789012,Production,Amazon RDS,us-west-2,11.21,USD,2025-09
+2025-09-11,123456789013,Development,Amazon RDS,us-east-1,11.11,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon RDS,us-west-2,13.49,USD,2025-09
+2025-09-11,123456789012,Production,AWS Lambda,ap-southeast-1,3.13,USD,2025-09
+2025-09-11,123456789013,Development,AWS Lambda,us-east-1,2.5,USD,2025-09
+2025-09-11,123456789014,Testing,AWS Lambda,us-east-1,3.1,USD,2025-09
+2025-09-11,123456789012,Production,Amazon CloudFront,us-east-1,8.83,USD,2025-09
+2025-09-11,123456789013,Development,Amazon CloudFront,ap-southeast-1,10.15,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon CloudFront,ap-southeast-1,12.47,USD,2025-09
+2025-09-11,123456789012,Production,Amazon DynamoDB,eu-west-1,4.02,USD,2025-09
+2025-09-11,123456789013,Development,Amazon DynamoDB,us-east-1,4.05,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon DynamoDB,us-east-1,4.01,USD,2025-09
+2025-09-11,123456789012,Production,Amazon ECS,eu-west-1,18.94,USD,2025-09
+2025-09-11,123456789013,Development,Amazon ECS,us-east-1,16.71,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon ECS,eu-west-1,16.77,USD,2025-09
+2025-09-11,123456789012,Production,Amazon VPC,us-west-2,1.59,USD,2025-09
+2025-09-11,123456789013,Development,Amazon VPC,us-west-2,1.62,USD,2025-09
+2025-09-11,123456789014,Testing,Amazon VPC,us-west-2,1.19,USD,2025-09
+2025-09-11,123456789012,Production,AWS Data Transfer,us-east-1,5.35,USD,2025-09
+2025-09-11,123456789013,Development,AWS Data Transfer,us-west-2,4.96,USD,2025-09
+2025-09-11,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.75,USD,2025-09
+2025-09-12,123456789012,Production,Amazon EC2,us-west-2,21.0,USD,2025-09
+2025-09-12,123456789013,Development,Amazon EC2,us-west-2,16.14,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon EC2,ap-southeast-1,25.09,USD,2025-09
+2025-09-12,123456789012,Production,Amazon S3,us-east-1,6.09,USD,2025-09
+2025-09-12,123456789013,Development,Amazon S3,us-east-1,6.62,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon S3,ap-southeast-1,7.16,USD,2025-09
+2025-09-12,123456789012,Production,Amazon RDS,us-west-2,15.6,USD,2025-09
+2025-09-12,123456789013,Development,Amazon RDS,us-west-2,11.97,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon RDS,us-east-1,15.84,USD,2025-09
+2025-09-12,123456789012,Production,AWS Lambda,eu-west-1,2.42,USD,2025-09
+2025-09-12,123456789013,Development,AWS Lambda,us-west-2,3.16,USD,2025-09
+2025-09-12,123456789014,Testing,AWS Lambda,eu-west-1,2.83,USD,2025-09
+2025-09-12,123456789012,Production,Amazon CloudFront,us-east-1,11.49,USD,2025-09
+2025-09-12,123456789013,Development,Amazon CloudFront,eu-west-1,8.45,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon CloudFront,us-west-2,12.65,USD,2025-09
+2025-09-12,123456789012,Production,Amazon DynamoDB,eu-west-1,3.97,USD,2025-09
+2025-09-12,123456789013,Development,Amazon DynamoDB,us-east-1,3.57,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.25,USD,2025-09
+2025-09-12,123456789012,Production,Amazon ECS,eu-west-1,12.77,USD,2025-09
+2025-09-12,123456789013,Development,Amazon ECS,us-east-1,18.72,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon ECS,us-west-2,14.1,USD,2025-09
+2025-09-12,123456789012,Production,Amazon VPC,ap-southeast-1,1.35,USD,2025-09
+2025-09-12,123456789013,Development,Amazon VPC,us-west-2,1.5,USD,2025-09
+2025-09-12,123456789014,Testing,Amazon VPC,us-east-1,1.13,USD,2025-09
+2025-09-12,123456789012,Production,AWS Data Transfer,ap-southeast-1,4.17,USD,2025-09
+2025-09-12,123456789013,Development,AWS Data Transfer,us-east-1,6.46,USD,2025-09
+2025-09-12,123456789014,Testing,AWS Data Transfer,eu-west-1,4.68,USD,2025-09
+2025-09-13,123456789012,Production,Amazon EC2,us-west-2,10.47,USD,2025-09
+2025-09-13,123456789013,Development,Amazon EC2,us-west-2,11.95,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon EC2,ap-southeast-1,9.2,USD,2025-09
+2025-09-13,123456789012,Production,Amazon S3,eu-west-1,3.49,USD,2025-09
+2025-09-13,123456789013,Development,Amazon S3,ap-southeast-1,3.03,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon S3,us-west-2,2.73,USD,2025-09
+2025-09-13,123456789012,Production,Amazon RDS,ap-southeast-1,6.33,USD,2025-09
+2025-09-13,123456789013,Development,Amazon RDS,us-east-1,7.58,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon RDS,ap-southeast-1,7.54,USD,2025-09
+2025-09-13,123456789012,Production,AWS Lambda,ap-southeast-1,1.57,USD,2025-09
+2025-09-13,123456789013,Development,AWS Lambda,us-east-1,1.67,USD,2025-09
+2025-09-13,123456789014,Testing,AWS Lambda,ap-southeast-1,1.47,USD,2025-09
+2025-09-13,123456789012,Production,Amazon CloudFront,us-east-1,5.26,USD,2025-09
+2025-09-13,123456789013,Development,Amazon CloudFront,ap-southeast-1,4.71,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon CloudFront,eu-west-1,5.37,USD,2025-09
+2025-09-13,123456789012,Production,Amazon DynamoDB,us-west-2,1.99,USD,2025-09
+2025-09-13,123456789013,Development,Amazon DynamoDB,us-west-2,2.48,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon DynamoDB,us-east-1,2.26,USD,2025-09
+2025-09-13,123456789012,Production,Amazon ECS,ap-southeast-1,9.99,USD,2025-09
+2025-09-13,123456789013,Development,Amazon ECS,us-east-1,8.22,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon ECS,eu-west-1,6.58,USD,2025-09
+2025-09-13,123456789012,Production,Amazon VPC,ap-southeast-1,0.76,USD,2025-09
+2025-09-13,123456789013,Development,Amazon VPC,us-west-2,0.58,USD,2025-09
+2025-09-13,123456789014,Testing,Amazon VPC,ap-southeast-1,0.63,USD,2025-09
+2025-09-13,123456789012,Production,AWS Data Transfer,us-east-1,3.08,USD,2025-09
+2025-09-13,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.33,USD,2025-09
+2025-09-13,123456789014,Testing,AWS Data Transfer,us-west-2,2.98,USD,2025-09
+2025-09-14,123456789012,Production,Amazon EC2,ap-southeast-1,9.7,USD,2025-09
+2025-09-14,123456789013,Development,Amazon EC2,us-east-1,9.01,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon EC2,us-west-2,8.01,USD,2025-09
+2025-09-14,123456789012,Production,Amazon S3,us-east-1,2.85,USD,2025-09
+2025-09-14,123456789013,Development,Amazon S3,us-east-1,3.76,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon S3,us-east-1,3.21,USD,2025-09
+2025-09-14,123456789012,Production,Amazon RDS,ap-southeast-1,6.62,USD,2025-09
+2025-09-14,123456789013,Development,Amazon RDS,eu-west-1,6.03,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon RDS,eu-west-1,7.44,USD,2025-09
+2025-09-14,123456789012,Production,AWS Lambda,eu-west-1,1.09,USD,2025-09
+2025-09-14,123456789013,Development,AWS Lambda,us-west-2,1.31,USD,2025-09
+2025-09-14,123456789014,Testing,AWS Lambda,us-east-1,1.1,USD,2025-09
+2025-09-14,123456789012,Production,Amazon CloudFront,ap-southeast-1,5.62,USD,2025-09
+2025-09-14,123456789013,Development,Amazon CloudFront,us-east-1,5.54,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon CloudFront,us-west-2,5.81,USD,2025-09
+2025-09-14,123456789012,Production,Amazon DynamoDB,us-east-1,2.48,USD,2025-09
+2025-09-14,123456789013,Development,Amazon DynamoDB,us-east-1,2.49,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon DynamoDB,eu-west-1,2.09,USD,2025-09
+2025-09-14,123456789012,Production,Amazon ECS,us-east-1,6.67,USD,2025-09
+2025-09-14,123456789013,Development,Amazon ECS,eu-west-1,6.69,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon ECS,us-west-2,7.58,USD,2025-09
+2025-09-14,123456789012,Production,Amazon VPC,eu-west-1,0.59,USD,2025-09
+2025-09-14,123456789013,Development,Amazon VPC,ap-southeast-1,0.69,USD,2025-09
+2025-09-14,123456789014,Testing,Amazon VPC,us-west-2,0.69,USD,2025-09
+2025-09-14,123456789012,Production,AWS Data Transfer,ap-southeast-1,3.21,USD,2025-09
+2025-09-14,123456789013,Development,AWS Data Transfer,us-west-2,2.9,USD,2025-09
+2025-09-14,123456789014,Testing,AWS Data Transfer,eu-west-1,2.46,USD,2025-09
+2025-09-15,123456789012,Production,Amazon EC2,us-west-2,21.12,USD,2025-09
+2025-09-15,123456789013,Development,Amazon EC2,eu-west-1,25.23,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon EC2,us-east-1,17.85,USD,2025-09
+2025-09-15,123456789012,Production,Amazon S3,ap-southeast-1,6.45,USD,2025-09
+2025-09-15,123456789013,Development,Amazon S3,eu-west-1,7.4,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon S3,us-west-2,8.29,USD,2025-09
+2025-09-15,123456789012,Production,Amazon RDS,us-west-2,14.85,USD,2025-09
+2025-09-15,123456789013,Development,Amazon RDS,ap-southeast-1,14.59,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon RDS,ap-southeast-1,13.23,USD,2025-09
+2025-09-15,123456789012,Production,AWS Lambda,us-west-2,2.18,USD,2025-09
+2025-09-15,123456789013,Development,AWS Lambda,ap-southeast-1,2.12,USD,2025-09
+2025-09-15,123456789014,Testing,AWS Lambda,us-west-2,2.1,USD,2025-09
+2025-09-15,123456789012,Production,Amazon CloudFront,ap-southeast-1,12.52,USD,2025-09
+2025-09-15,123456789013,Development,Amazon CloudFront,eu-west-1,10.6,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon CloudFront,us-east-1,13.12,USD,2025-09
+2025-09-15,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.03,USD,2025-09
+2025-09-15,123456789013,Development,Amazon DynamoDB,us-east-1,3.91,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon DynamoDB,us-west-2,4.69,USD,2025-09
+2025-09-15,123456789012,Production,Amazon ECS,eu-west-1,18.23,USD,2025-09
+2025-09-15,123456789013,Development,Amazon ECS,ap-southeast-1,19.19,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon ECS,ap-southeast-1,13.84,USD,2025-09
+2025-09-15,123456789012,Production,Amazon VPC,eu-west-1,1.6,USD,2025-09
+2025-09-15,123456789013,Development,Amazon VPC,us-east-1,1.47,USD,2025-09
+2025-09-15,123456789014,Testing,Amazon VPC,us-west-2,1.14,USD,2025-09
+2025-09-15,123456789012,Production,AWS Data Transfer,us-east-1,6.13,USD,2025-09
+2025-09-15,123456789013,Development,AWS Data Transfer,ap-southeast-1,6.36,USD,2025-09
+2025-09-15,123456789014,Testing,AWS Data Transfer,eu-west-1,6.72,USD,2025-09
+2025-09-16,123456789012,Production,Amazon EC2,us-east-1,17.76,USD,2025-09
+2025-09-16,123456789013,Development,Amazon EC2,ap-southeast-1,23.41,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon EC2,eu-west-1,18.97,USD,2025-09
+2025-09-16,123456789012,Production,Amazon S3,us-east-1,5.32,USD,2025-09
+2025-09-16,123456789013,Development,Amazon S3,ap-southeast-1,5.66,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon S3,us-east-1,7.12,USD,2025-09
+2025-09-16,123456789012,Production,Amazon RDS,ap-southeast-1,14.26,USD,2025-09
+2025-09-16,123456789013,Development,Amazon RDS,us-west-2,12.67,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon RDS,eu-west-1,15.77,USD,2025-09
+2025-09-16,123456789012,Production,AWS Lambda,us-west-2,3.13,USD,2025-09
+2025-09-16,123456789013,Development,AWS Lambda,eu-west-1,2.55,USD,2025-09
+2025-09-16,123456789014,Testing,AWS Lambda,us-west-2,3.23,USD,2025-09
+2025-09-16,123456789012,Production,Amazon CloudFront,us-west-2,10.1,USD,2025-09
+2025-09-16,123456789013,Development,Amazon CloudFront,ap-southeast-1,9.41,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon CloudFront,ap-southeast-1,12.88,USD,2025-09
+2025-09-16,123456789012,Production,Amazon DynamoDB,eu-west-1,3.83,USD,2025-09
+2025-09-16,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.63,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon DynamoDB,eu-west-1,3.89,USD,2025-09
+2025-09-16,123456789012,Production,Amazon ECS,us-east-1,14.36,USD,2025-09
+2025-09-16,123456789013,Development,Amazon ECS,ap-southeast-1,16.67,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon ECS,us-west-2,17.98,USD,2025-09
+2025-09-16,123456789012,Production,Amazon VPC,ap-southeast-1,1.36,USD,2025-09
+2025-09-16,123456789013,Development,Amazon VPC,us-west-2,1.3,USD,2025-09
+2025-09-16,123456789014,Testing,Amazon VPC,us-west-2,1.58,USD,2025-09
+2025-09-16,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.51,USD,2025-09
+2025-09-16,123456789013,Development,AWS Data Transfer,us-east-1,4.85,USD,2025-09
+2025-09-16,123456789014,Testing,AWS Data Transfer,us-east-1,4.26,USD,2025-09
+2025-09-17,123456789012,Production,Amazon EC2,ap-southeast-1,22.62,USD,2025-09
+2025-09-17,123456789013,Development,Amazon EC2,us-west-2,20.81,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon EC2,eu-west-1,18.28,USD,2025-09
+2025-09-17,123456789012,Production,Amazon S3,eu-west-1,6.02,USD,2025-09
+2025-09-17,123456789013,Development,Amazon S3,ap-southeast-1,6.69,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon S3,ap-southeast-1,6.31,USD,2025-09
+2025-09-17,123456789012,Production,Amazon RDS,ap-southeast-1,13.4,USD,2025-09
+2025-09-17,123456789013,Development,Amazon RDS,eu-west-1,12.0,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon RDS,eu-west-1,11.66,USD,2025-09
+2025-09-17,123456789012,Production,AWS Lambda,us-west-2,2.13,USD,2025-09
+2025-09-17,123456789013,Development,AWS Lambda,eu-west-1,3.35,USD,2025-09
+2025-09-17,123456789014,Testing,AWS Lambda,eu-west-1,2.75,USD,2025-09
+2025-09-17,123456789012,Production,Amazon CloudFront,ap-southeast-1,11.74,USD,2025-09
+2025-09-17,123456789013,Development,Amazon CloudFront,ap-southeast-1,9.22,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon CloudFront,us-west-2,8.55,USD,2025-09
+2025-09-17,123456789012,Production,Amazon DynamoDB,us-east-1,4.29,USD,2025-09
+2025-09-17,123456789013,Development,Amazon DynamoDB,us-east-1,4.16,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.84,USD,2025-09
+2025-09-17,123456789012,Production,Amazon ECS,eu-west-1,17.74,USD,2025-09
+2025-09-17,123456789013,Development,Amazon ECS,us-west-2,18.38,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon ECS,us-east-1,12.6,USD,2025-09
+2025-09-17,123456789012,Production,Amazon VPC,us-east-1,1.51,USD,2025-09
+2025-09-17,123456789013,Development,Amazon VPC,eu-west-1,1.49,USD,2025-09
+2025-09-17,123456789014,Testing,Amazon VPC,us-west-2,1.47,USD,2025-09
+2025-09-17,123456789012,Production,AWS Data Transfer,us-west-2,6.35,USD,2025-09
+2025-09-17,123456789013,Development,AWS Data Transfer,eu-west-1,4.97,USD,2025-09
+2025-09-17,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.12,USD,2025-09
+2025-09-18,123456789012,Production,Amazon EC2,ap-southeast-1,22.59,USD,2025-09
+2025-09-18,123456789013,Development,Amazon EC2,us-west-2,18.68,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon EC2,eu-west-1,17.29,USD,2025-09
+2025-09-18,123456789012,Production,Amazon S3,eu-west-1,5.39,USD,2025-09
+2025-09-18,123456789013,Development,Amazon S3,us-west-2,6.62,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon S3,us-east-1,6.81,USD,2025-09
+2025-09-18,123456789012,Production,Amazon RDS,us-west-2,16.01,USD,2025-09
+2025-09-18,123456789013,Development,Amazon RDS,us-east-1,13.55,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon RDS,ap-southeast-1,13.44,USD,2025-09
+2025-09-18,123456789012,Production,AWS Lambda,eu-west-1,3.19,USD,2025-09
+2025-09-18,123456789013,Development,AWS Lambda,ap-southeast-1,2.39,USD,2025-09
+2025-09-18,123456789014,Testing,AWS Lambda,us-west-2,2.86,USD,2025-09
+2025-09-18,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.71,USD,2025-09
+2025-09-18,123456789013,Development,Amazon CloudFront,us-west-2,11.99,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon CloudFront,eu-west-1,10.03,USD,2025-09
+2025-09-18,123456789012,Production,Amazon DynamoDB,eu-west-1,4.21,USD,2025-09
+2025-09-18,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.27,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.61,USD,2025-09
+2025-09-18,123456789012,Production,Amazon ECS,us-east-1,14.22,USD,2025-09
+2025-09-18,123456789013,Development,Amazon ECS,eu-west-1,13.35,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon ECS,eu-west-1,12.6,USD,2025-09
+2025-09-18,123456789012,Production,Amazon VPC,us-east-1,1.36,USD,2025-09
+2025-09-18,123456789013,Development,Amazon VPC,ap-southeast-1,1.42,USD,2025-09
+2025-09-18,123456789014,Testing,Amazon VPC,ap-southeast-1,1.64,USD,2025-09
+2025-09-18,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.17,USD,2025-09
+2025-09-18,123456789013,Development,AWS Data Transfer,us-east-1,6.32,USD,2025-09
+2025-09-18,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.92,USD,2025-09
+2025-09-19,123456789012,Production,Amazon EC2,eu-west-1,24.74,USD,2025-09
+2025-09-19,123456789013,Development,Amazon EC2,ap-southeast-1,19.01,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon EC2,us-west-2,16.89,USD,2025-09
+2025-09-19,123456789012,Production,Amazon S3,us-west-2,6.25,USD,2025-09
+2025-09-19,123456789013,Development,Amazon S3,eu-west-1,7.21,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon S3,us-west-2,6.92,USD,2025-09
+2025-09-19,123456789012,Production,Amazon RDS,eu-west-1,13.28,USD,2025-09
+2025-09-19,123456789013,Development,Amazon RDS,us-east-1,11.5,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon RDS,us-west-2,15.57,USD,2025-09
+2025-09-19,123456789012,Production,AWS Lambda,ap-southeast-1,3.27,USD,2025-09
+2025-09-19,123456789013,Development,AWS Lambda,eu-west-1,3.15,USD,2025-09
+2025-09-19,123456789014,Testing,AWS Lambda,eu-west-1,2.69,USD,2025-09
+2025-09-19,123456789012,Production,Amazon CloudFront,ap-southeast-1,11.74,USD,2025-09
+2025-09-19,123456789013,Development,Amazon CloudFront,ap-southeast-1,9.19,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon CloudFront,us-east-1,11.51,USD,2025-09
+2025-09-19,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.66,USD,2025-09
+2025-09-19,123456789013,Development,Amazon DynamoDB,us-east-1,5.0,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon DynamoDB,us-east-1,4.88,USD,2025-09
+2025-09-19,123456789012,Production,Amazon ECS,eu-west-1,18.36,USD,2025-09
+2025-09-19,123456789013,Development,Amazon ECS,eu-west-1,17.78,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon ECS,us-west-2,13.68,USD,2025-09
+2025-09-19,123456789012,Production,Amazon VPC,us-west-2,1.34,USD,2025-09
+2025-09-19,123456789013,Development,Amazon VPC,us-east-1,1.34,USD,2025-09
+2025-09-19,123456789014,Testing,Amazon VPC,us-west-2,1.29,USD,2025-09
+2025-09-19,123456789012,Production,AWS Data Transfer,us-east-1,5.62,USD,2025-09
+2025-09-19,123456789013,Development,AWS Data Transfer,eu-west-1,5.22,USD,2025-09
+2025-09-19,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.68,USD,2025-09
+2025-09-20,123456789012,Production,Amazon EC2,ap-southeast-1,9.24,USD,2025-09
+2025-09-20,123456789013,Development,Amazon EC2,us-west-2,9.59,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon EC2,us-west-2,7.98,USD,2025-09
+2025-09-20,123456789012,Production,Amazon S3,eu-west-1,3.31,USD,2025-09
+2025-09-20,123456789013,Development,Amazon S3,us-east-1,4.22,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon S3,us-east-1,2.93,USD,2025-09
+2025-09-20,123456789012,Production,Amazon RDS,us-west-2,8.24,USD,2025-09
+2025-09-20,123456789013,Development,Amazon RDS,ap-southeast-1,5.97,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon RDS,ap-southeast-1,5.49,USD,2025-09
+2025-09-20,123456789012,Production,AWS Lambda,eu-west-1,1.07,USD,2025-09
+2025-09-20,123456789013,Development,AWS Lambda,ap-southeast-1,1.37,USD,2025-09
+2025-09-20,123456789014,Testing,AWS Lambda,ap-southeast-1,1.63,USD,2025-09
+2025-09-20,123456789012,Production,Amazon CloudFront,eu-west-1,5.06,USD,2025-09
+2025-09-20,123456789013,Development,Amazon CloudFront,eu-west-1,4.95,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon CloudFront,us-east-1,5.26,USD,2025-09
+2025-09-20,123456789012,Production,Amazon DynamoDB,ap-southeast-1,2.04,USD,2025-09
+2025-09-20,123456789013,Development,Amazon DynamoDB,us-east-1,1.73,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon DynamoDB,us-east-1,2.21,USD,2025-09
+2025-09-20,123456789012,Production,Amazon ECS,us-west-2,9.81,USD,2025-09
+2025-09-20,123456789013,Development,Amazon ECS,us-west-2,7.97,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon ECS,us-east-1,7.84,USD,2025-09
+2025-09-20,123456789012,Production,Amazon VPC,us-east-1,0.65,USD,2025-09
+2025-09-20,123456789013,Development,Amazon VPC,us-east-1,0.67,USD,2025-09
+2025-09-20,123456789014,Testing,Amazon VPC,ap-southeast-1,0.58,USD,2025-09
+2025-09-20,123456789012,Production,AWS Data Transfer,us-west-2,3.18,USD,2025-09
+2025-09-20,123456789013,Development,AWS Data Transfer,us-east-1,2.36,USD,2025-09
+2025-09-20,123456789014,Testing,AWS Data Transfer,us-west-2,2.79,USD,2025-09
+2025-09-21,123456789012,Production,Amazon EC2,us-west-2,9.31,USD,2025-09
+2025-09-21,123456789013,Development,Amazon EC2,us-east-1,7.97,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon EC2,eu-west-1,8.53,USD,2025-09
+2025-09-21,123456789012,Production,Amazon S3,ap-southeast-1,3.94,USD,2025-09
+2025-09-21,123456789013,Development,Amazon S3,eu-west-1,3.62,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon S3,eu-west-1,2.81,USD,2025-09
+2025-09-21,123456789012,Production,Amazon RDS,eu-west-1,5.62,USD,2025-09
+2025-09-21,123456789013,Development,Amazon RDS,ap-southeast-1,7.06,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon RDS,eu-west-1,6.07,USD,2025-09
+2025-09-21,123456789012,Production,AWS Lambda,us-east-1,1.15,USD,2025-09
+2025-09-21,123456789013,Development,AWS Lambda,ap-southeast-1,1.51,USD,2025-09
+2025-09-21,123456789014,Testing,AWS Lambda,ap-southeast-1,1.39,USD,2025-09
+2025-09-21,123456789012,Production,Amazon CloudFront,eu-west-1,6.58,USD,2025-09
+2025-09-21,123456789013,Development,Amazon CloudFront,us-west-2,6.0,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon CloudFront,us-west-2,5.47,USD,2025-09
+2025-09-21,123456789012,Production,Amazon DynamoDB,ap-southeast-1,1.85,USD,2025-09
+2025-09-21,123456789013,Development,Amazon DynamoDB,us-east-1,1.66,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon DynamoDB,eu-west-1,2.16,USD,2025-09
+2025-09-21,123456789012,Production,Amazon ECS,us-east-1,6.7,USD,2025-09
+2025-09-21,123456789013,Development,Amazon ECS,eu-west-1,9.69,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon ECS,eu-west-1,8.62,USD,2025-09
+2025-09-21,123456789012,Production,Amazon VPC,us-east-1,0.74,USD,2025-09
+2025-09-21,123456789013,Development,Amazon VPC,eu-west-1,0.7,USD,2025-09
+2025-09-21,123456789014,Testing,Amazon VPC,us-west-2,0.69,USD,2025-09
+2025-09-21,123456789012,Production,AWS Data Transfer,ap-southeast-1,2.55,USD,2025-09
+2025-09-21,123456789013,Development,AWS Data Transfer,ap-southeast-1,3.11,USD,2025-09
+2025-09-21,123456789014,Testing,AWS Data Transfer,us-east-1,2.9,USD,2025-09
+2025-09-22,123456789012,Production,Amazon EC2,ap-southeast-1,23.05,USD,2025-09
+2025-09-22,123456789013,Development,Amazon EC2,ap-southeast-1,23.62,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon EC2,us-east-1,20.59,USD,2025-09
+2025-09-22,123456789012,Production,Amazon S3,eu-west-1,7.99,USD,2025-09
+2025-09-22,123456789013,Development,Amazon S3,us-east-1,7.35,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon S3,ap-southeast-1,7.42,USD,2025-09
+2025-09-22,123456789012,Production,Amazon RDS,ap-southeast-1,15.26,USD,2025-09
+2025-09-22,123456789013,Development,Amazon RDS,us-east-1,12.86,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon RDS,us-west-2,11.3,USD,2025-09
+2025-09-22,123456789012,Production,AWS Lambda,us-east-1,2.91,USD,2025-09
+2025-09-22,123456789013,Development,AWS Lambda,us-east-1,2.82,USD,2025-09
+2025-09-22,123456789014,Testing,AWS Lambda,us-east-1,2.32,USD,2025-09
+2025-09-22,123456789012,Production,Amazon CloudFront,ap-southeast-1,8.85,USD,2025-09
+2025-09-22,123456789013,Development,Amazon CloudFront,eu-west-1,9.83,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon CloudFront,us-west-2,12.36,USD,2025-09
+2025-09-22,123456789012,Production,Amazon DynamoDB,us-west-2,5.08,USD,2025-09
+2025-09-22,123456789013,Development,Amazon DynamoDB,us-west-2,4.55,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon DynamoDB,us-west-2,4.77,USD,2025-09
+2025-09-22,123456789012,Production,Amazon ECS,eu-west-1,13.61,USD,2025-09
+2025-09-22,123456789013,Development,Amazon ECS,eu-west-1,19.5,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon ECS,us-west-2,16.04,USD,2025-09
+2025-09-22,123456789012,Production,Amazon VPC,eu-west-1,1.08,USD,2025-09
+2025-09-22,123456789013,Development,Amazon VPC,ap-southeast-1,1.2,USD,2025-09
+2025-09-22,123456789014,Testing,Amazon VPC,ap-southeast-1,1.19,USD,2025-09
+2025-09-22,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.38,USD,2025-09
+2025-09-22,123456789013,Development,AWS Data Transfer,ap-southeast-1,5.22,USD,2025-09
+2025-09-22,123456789014,Testing,AWS Data Transfer,us-west-2,5.2,USD,2025-09
+2025-09-23,123456789012,Production,Amazon EC2,ap-southeast-1,20.79,USD,2025-09
+2025-09-23,123456789013,Development,Amazon EC2,ap-southeast-1,23.0,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon EC2,us-east-1,23.8,USD,2025-09
+2025-09-23,123456789012,Production,Amazon S3,eu-west-1,7.33,USD,2025-09
+2025-09-23,123456789013,Development,Amazon S3,us-west-2,5.41,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon S3,eu-west-1,5.28,USD,2025-09
+2025-09-23,123456789012,Production,Amazon RDS,ap-southeast-1,15.75,USD,2025-09
+2025-09-23,123456789013,Development,Amazon RDS,ap-southeast-1,15.57,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon RDS,us-east-1,11.67,USD,2025-09
+2025-09-23,123456789012,Production,AWS Lambda,ap-southeast-1,2.73,USD,2025-09
+2025-09-23,123456789013,Development,AWS Lambda,ap-southeast-1,2.2,USD,2025-09
+2025-09-23,123456789014,Testing,AWS Lambda,us-east-1,3.29,USD,2025-09
+2025-09-23,123456789012,Production,Amazon CloudFront,us-east-1,9.51,USD,2025-09
+2025-09-23,123456789013,Development,Amazon CloudFront,ap-southeast-1,8.74,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon CloudFront,us-east-1,9.66,USD,2025-09
+2025-09-23,123456789012,Production,Amazon DynamoDB,us-west-2,3.53,USD,2025-09
+2025-09-23,123456789013,Development,Amazon DynamoDB,us-west-2,5.01,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.06,USD,2025-09
+2025-09-23,123456789012,Production,Amazon ECS,us-east-1,20.0,USD,2025-09
+2025-09-23,123456789013,Development,Amazon ECS,eu-west-1,18.0,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon ECS,ap-southeast-1,15.25,USD,2025-09
+2025-09-23,123456789012,Production,Amazon VPC,us-east-1,1.51,USD,2025-09
+2025-09-23,123456789013,Development,Amazon VPC,ap-southeast-1,1.67,USD,2025-09
+2025-09-23,123456789014,Testing,Amazon VPC,ap-southeast-1,1.12,USD,2025-09
+2025-09-23,123456789012,Production,AWS Data Transfer,us-west-2,5.33,USD,2025-09
+2025-09-23,123456789013,Development,AWS Data Transfer,eu-west-1,6.47,USD,2025-09
+2025-09-23,123456789014,Testing,AWS Data Transfer,us-west-2,6.22,USD,2025-09
+2025-09-24,123456789012,Production,Amazon EC2,us-west-2,20.33,USD,2025-09
+2025-09-24,123456789013,Development,Amazon EC2,us-west-2,24.81,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon EC2,ap-southeast-1,17.89,USD,2025-09
+2025-09-24,123456789012,Production,Amazon S3,ap-southeast-1,8.16,USD,2025-09
+2025-09-24,123456789013,Development,Amazon S3,us-east-1,5.84,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon S3,us-west-2,6.56,USD,2025-09
+2025-09-24,123456789012,Production,Amazon RDS,ap-southeast-1,11.61,USD,2025-09
+2025-09-24,123456789013,Development,Amazon RDS,us-west-2,13.45,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon RDS,ap-southeast-1,11.58,USD,2025-09
+2025-09-24,123456789012,Production,AWS Lambda,eu-west-1,3.01,USD,2025-09
+2025-09-24,123456789013,Development,AWS Lambda,ap-southeast-1,2.29,USD,2025-09
+2025-09-24,123456789014,Testing,AWS Lambda,us-west-2,2.53,USD,2025-09
+2025-09-24,123456789012,Production,Amazon CloudFront,eu-west-1,10.31,USD,2025-09
+2025-09-24,123456789013,Development,Amazon CloudFront,us-west-2,12.59,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon CloudFront,eu-west-1,12.96,USD,2025-09
+2025-09-24,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.57,USD,2025-09
+2025-09-24,123456789013,Development,Amazon DynamoDB,us-east-1,4.89,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,3.59,USD,2025-09
+2025-09-24,123456789012,Production,Amazon ECS,ap-southeast-1,14.71,USD,2025-09
+2025-09-24,123456789013,Development,Amazon ECS,eu-west-1,17.87,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon ECS,eu-west-1,15.21,USD,2025-09
+2025-09-24,123456789012,Production,Amazon VPC,us-west-2,1.69,USD,2025-09
+2025-09-24,123456789013,Development,Amazon VPC,us-west-2,1.35,USD,2025-09
+2025-09-24,123456789014,Testing,Amazon VPC,us-west-2,1.16,USD,2025-09
+2025-09-24,123456789012,Production,AWS Data Transfer,us-east-1,4.25,USD,2025-09
+2025-09-24,123456789013,Development,AWS Data Transfer,us-east-1,4.73,USD,2025-09
+2025-09-24,123456789014,Testing,AWS Data Transfer,us-west-2,5.01,USD,2025-09
+2025-09-25,123456789012,Production,Amazon EC2,ap-southeast-1,19.47,USD,2025-09
+2025-09-25,123456789013,Development,Amazon EC2,us-west-2,21.53,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon EC2,us-east-1,18.3,USD,2025-09
+2025-09-25,123456789012,Production,Amazon S3,ap-southeast-1,8.48,USD,2025-09
+2025-09-25,123456789013,Development,Amazon S3,ap-southeast-1,6.27,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon S3,ap-southeast-1,7.9,USD,2025-09
+2025-09-25,123456789012,Production,Amazon RDS,us-east-1,16.02,USD,2025-09
+2025-09-25,123456789013,Development,Amazon RDS,ap-southeast-1,15.89,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon RDS,eu-west-1,14.04,USD,2025-09
+2025-09-25,123456789012,Production,AWS Lambda,ap-southeast-1,2.59,USD,2025-09
+2025-09-25,123456789013,Development,AWS Lambda,eu-west-1,2.17,USD,2025-09
+2025-09-25,123456789014,Testing,AWS Lambda,eu-west-1,2.94,USD,2025-09
+2025-09-25,123456789012,Production,Amazon CloudFront,us-west-2,12.48,USD,2025-09
+2025-09-25,123456789013,Development,Amazon CloudFront,eu-west-1,10.93,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon CloudFront,eu-west-1,11.8,USD,2025-09
+2025-09-25,123456789012,Production,Amazon DynamoDB,us-west-2,4.1,USD,2025-09
+2025-09-25,123456789013,Development,Amazon DynamoDB,ap-southeast-1,4.31,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon DynamoDB,us-west-2,3.73,USD,2025-09
+2025-09-25,123456789012,Production,Amazon ECS,us-east-1,12.82,USD,2025-09
+2025-09-25,123456789013,Development,Amazon ECS,us-west-2,13.93,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon ECS,ap-southeast-1,15.11,USD,2025-09
+2025-09-25,123456789012,Production,Amazon VPC,eu-west-1,1.41,USD,2025-09
+2025-09-25,123456789013,Development,Amazon VPC,eu-west-1,1.07,USD,2025-09
+2025-09-25,123456789014,Testing,Amazon VPC,eu-west-1,1.13,USD,2025-09
+2025-09-25,123456789012,Production,AWS Data Transfer,us-west-2,4.88,USD,2025-09
+2025-09-25,123456789013,Development,AWS Data Transfer,us-east-1,6.2,USD,2025-09
+2025-09-25,123456789014,Testing,AWS Data Transfer,eu-west-1,4.44,USD,2025-09
+2025-09-26,123456789012,Production,Amazon EC2,eu-west-1,17.6,USD,2025-09
+2025-09-26,123456789013,Development,Amazon EC2,us-west-2,25.35,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon EC2,ap-southeast-1,21.25,USD,2025-09
+2025-09-26,123456789012,Production,Amazon S3,eu-west-1,7.47,USD,2025-09
+2025-09-26,123456789013,Development,Amazon S3,us-west-2,5.69,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon S3,eu-west-1,6.15,USD,2025-09
+2025-09-26,123456789012,Production,Amazon RDS,eu-west-1,11.07,USD,2025-09
+2025-09-26,123456789013,Development,Amazon RDS,us-east-1,10.95,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon RDS,us-east-1,10.7,USD,2025-09
+2025-09-26,123456789012,Production,AWS Lambda,us-east-1,3.07,USD,2025-09
+2025-09-26,123456789013,Development,AWS Lambda,us-west-2,2.61,USD,2025-09
+2025-09-26,123456789014,Testing,AWS Lambda,eu-west-1,2.22,USD,2025-09
+2025-09-26,123456789012,Production,Amazon CloudFront,us-east-1,9.37,USD,2025-09
+2025-09-26,123456789013,Development,Amazon CloudFront,eu-west-1,8.82,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon CloudFront,us-west-2,9.04,USD,2025-09
+2025-09-26,123456789012,Production,Amazon DynamoDB,us-east-1,4.8,USD,2025-09
+2025-09-26,123456789013,Development,Amazon DynamoDB,eu-west-1,3.55,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon DynamoDB,us-west-2,4.63,USD,2025-09
+2025-09-26,123456789012,Production,Amazon ECS,ap-southeast-1,14.81,USD,2025-09
+2025-09-26,123456789013,Development,Amazon ECS,us-east-1,13.07,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon ECS,eu-west-1,13.71,USD,2025-09
+2025-09-26,123456789012,Production,Amazon VPC,us-west-2,1.67,USD,2025-09
+2025-09-26,123456789013,Development,Amazon VPC,us-east-1,1.28,USD,2025-09
+2025-09-26,123456789014,Testing,Amazon VPC,us-west-2,1.09,USD,2025-09
+2025-09-26,123456789012,Production,AWS Data Transfer,us-east-1,4.88,USD,2025-09
+2025-09-26,123456789013,Development,AWS Data Transfer,us-east-1,4.74,USD,2025-09
+2025-09-26,123456789014,Testing,AWS Data Transfer,eu-west-1,4.71,USD,2025-09
+2025-09-27,123456789012,Production,Amazon EC2,eu-west-1,7.92,USD,2025-09
+2025-09-27,123456789013,Development,Amazon EC2,eu-west-1,11.27,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon EC2,us-west-2,11.23,USD,2025-09
+2025-09-27,123456789012,Production,Amazon S3,us-east-1,4.23,USD,2025-09
+2025-09-27,123456789013,Development,Amazon S3,ap-southeast-1,4.24,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon S3,us-east-1,4.11,USD,2025-09
+2025-09-27,123456789012,Production,Amazon RDS,eu-west-1,7.35,USD,2025-09
+2025-09-27,123456789013,Development,Amazon RDS,ap-southeast-1,7.87,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon RDS,us-west-2,8.14,USD,2025-09
+2025-09-27,123456789012,Production,AWS Lambda,us-west-2,1.13,USD,2025-09
+2025-09-27,123456789013,Development,AWS Lambda,ap-southeast-1,1.32,USD,2025-09
+2025-09-27,123456789014,Testing,AWS Lambda,eu-west-1,1.09,USD,2025-09
+2025-09-27,123456789012,Production,Amazon CloudFront,ap-southeast-1,4.48,USD,2025-09
+2025-09-27,123456789013,Development,Amazon CloudFront,us-east-1,4.8,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon CloudFront,us-west-2,5.78,USD,2025-09
+2025-09-27,123456789012,Production,Amazon DynamoDB,us-west-2,1.67,USD,2025-09
+2025-09-27,123456789013,Development,Amazon DynamoDB,ap-southeast-1,2.17,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon DynamoDB,us-west-2,1.7,USD,2025-09
+2025-09-27,123456789012,Production,Amazon ECS,ap-southeast-1,7.91,USD,2025-09
+2025-09-27,123456789013,Development,Amazon ECS,us-west-2,6.58,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon ECS,eu-west-1,8.03,USD,2025-09
+2025-09-27,123456789012,Production,Amazon VPC,ap-southeast-1,0.83,USD,2025-09
+2025-09-27,123456789013,Development,Amazon VPC,us-east-1,0.59,USD,2025-09
+2025-09-27,123456789014,Testing,Amazon VPC,us-east-1,0.76,USD,2025-09
+2025-09-27,123456789012,Production,AWS Data Transfer,us-west-2,2.45,USD,2025-09
+2025-09-27,123456789013,Development,AWS Data Transfer,ap-southeast-1,3.09,USD,2025-09
+2025-09-27,123456789014,Testing,AWS Data Transfer,eu-west-1,2.64,USD,2025-09
+2025-09-28,123456789012,Production,Amazon EC2,ap-southeast-1,8.55,USD,2025-09
+2025-09-28,123456789013,Development,Amazon EC2,us-east-1,9.21,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon EC2,us-west-2,11.69,USD,2025-09
+2025-09-28,123456789012,Production,Amazon S3,eu-west-1,2.83,USD,2025-09
+2025-09-28,123456789013,Development,Amazon S3,ap-southeast-1,3.97,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon S3,ap-southeast-1,2.88,USD,2025-09
+2025-09-28,123456789012,Production,Amazon RDS,us-west-2,6.16,USD,2025-09
+2025-09-28,123456789013,Development,Amazon RDS,ap-southeast-1,7.05,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon RDS,us-west-2,6.83,USD,2025-09
+2025-09-28,123456789012,Production,AWS Lambda,us-east-1,1.39,USD,2025-09
+2025-09-28,123456789013,Development,AWS Lambda,us-east-1,1.21,USD,2025-09
+2025-09-28,123456789014,Testing,AWS Lambda,us-east-1,1.47,USD,2025-09
+2025-09-28,123456789012,Production,Amazon CloudFront,ap-southeast-1,4.57,USD,2025-09
+2025-09-28,123456789013,Development,Amazon CloudFront,us-east-1,6.3,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon CloudFront,us-west-2,6.62,USD,2025-09
+2025-09-28,123456789012,Production,Amazon DynamoDB,eu-west-1,2.43,USD,2025-09
+2025-09-28,123456789013,Development,Amazon DynamoDB,us-east-1,2.48,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon DynamoDB,us-east-1,2.31,USD,2025-09
+2025-09-28,123456789012,Production,Amazon ECS,eu-west-1,8.15,USD,2025-09
+2025-09-28,123456789013,Development,Amazon ECS,ap-southeast-1,9.82,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon ECS,us-east-1,8.09,USD,2025-09
+2025-09-28,123456789012,Production,Amazon VPC,us-east-1,0.82,USD,2025-09
+2025-09-28,123456789013,Development,Amazon VPC,us-west-2,0.81,USD,2025-09
+2025-09-28,123456789014,Testing,Amazon VPC,eu-west-1,0.83,USD,2025-09
+2025-09-28,123456789012,Production,AWS Data Transfer,us-east-1,2.66,USD,2025-09
+2025-09-28,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.85,USD,2025-09
+2025-09-28,123456789014,Testing,AWS Data Transfer,ap-southeast-1,2.17,USD,2025-09
+2025-09-29,123456789012,Production,Amazon EC2,us-west-2,17.88,USD,2025-09
+2025-09-29,123456789013,Development,Amazon EC2,eu-west-1,24.46,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon EC2,us-east-1,25.43,USD,2025-09
+2025-09-29,123456789012,Production,Amazon S3,us-east-1,5.32,USD,2025-09
+2025-09-29,123456789013,Development,Amazon S3,us-west-2,6.24,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon S3,eu-west-1,6.95,USD,2025-09
+2025-09-29,123456789012,Production,Amazon RDS,us-west-2,14.93,USD,2025-09
+2025-09-29,123456789013,Development,Amazon RDS,eu-west-1,13.6,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon RDS,us-west-2,15.54,USD,2025-09
+2025-09-29,123456789012,Production,AWS Lambda,us-east-1,3.16,USD,2025-09
+2025-09-29,123456789013,Development,AWS Lambda,us-east-1,2.55,USD,2025-09
+2025-09-29,123456789014,Testing,AWS Lambda,us-east-1,2.83,USD,2025-09
+2025-09-29,123456789012,Production,Amazon CloudFront,us-east-1,10.68,USD,2025-09
+2025-09-29,123456789013,Development,Amazon CloudFront,eu-west-1,12.53,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon CloudFront,us-west-2,12.35,USD,2025-09
+2025-09-29,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.06,USD,2025-09
+2025-09-29,123456789013,Development,Amazon DynamoDB,us-east-1,5.01,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.98,USD,2025-09
+2025-09-29,123456789012,Production,Amazon ECS,us-east-1,13.48,USD,2025-09
+2025-09-29,123456789013,Development,Amazon ECS,us-east-1,18.32,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon ECS,us-east-1,18.97,USD,2025-09
+2025-09-29,123456789012,Production,Amazon VPC,us-west-2,1.06,USD,2025-09
+2025-09-29,123456789013,Development,Amazon VPC,eu-west-1,1.35,USD,2025-09
+2025-09-29,123456789014,Testing,Amazon VPC,eu-west-1,1.19,USD,2025-09
+2025-09-29,123456789012,Production,AWS Data Transfer,us-west-2,6.69,USD,2025-09
+2025-09-29,123456789013,Development,AWS Data Transfer,eu-west-1,6.28,USD,2025-09
+2025-09-29,123456789014,Testing,AWS Data Transfer,us-west-2,5.11,USD,2025-09
+2025-09-30,123456789012,Production,Amazon EC2,eu-west-1,17.68,USD,2025-09
+2025-09-30,123456789013,Development,Amazon EC2,us-west-2,23.57,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon EC2,eu-west-1,23.45,USD,2025-09
+2025-09-30,123456789012,Production,Amazon S3,ap-southeast-1,8.52,USD,2025-09
+2025-09-30,123456789013,Development,Amazon S3,us-east-1,7.41,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon S3,us-east-1,7.04,USD,2025-09
+2025-09-30,123456789012,Production,Amazon RDS,ap-southeast-1,13.05,USD,2025-09
+2025-09-30,123456789013,Development,Amazon RDS,us-west-2,10.59,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon RDS,ap-southeast-1,15.56,USD,2025-09
+2025-09-30,123456789012,Production,AWS Lambda,us-west-2,2.66,USD,2025-09
+2025-09-30,123456789013,Development,AWS Lambda,eu-west-1,2.74,USD,2025-09
+2025-09-30,123456789014,Testing,AWS Lambda,eu-west-1,2.55,USD,2025-09
+2025-09-30,123456789012,Production,Amazon CloudFront,ap-southeast-1,9.13,USD,2025-09
+2025-09-30,123456789013,Development,Amazon CloudFront,us-east-1,10.22,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon CloudFront,us-west-2,13.08,USD,2025-09
+2025-09-30,123456789012,Production,Amazon DynamoDB,us-east-1,3.88,USD,2025-09
+2025-09-30,123456789013,Development,Amazon DynamoDB,eu-west-1,4.38,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.16,USD,2025-09
+2025-09-30,123456789012,Production,Amazon ECS,us-west-2,15.2,USD,2025-09
+2025-09-30,123456789013,Development,Amazon ECS,us-east-1,19.76,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon ECS,ap-southeast-1,14.03,USD,2025-09
+2025-09-30,123456789012,Production,Amazon VPC,us-east-1,1.43,USD,2025-09
+2025-09-30,123456789013,Development,Amazon VPC,eu-west-1,1.51,USD,2025-09
+2025-09-30,123456789014,Testing,Amazon VPC,us-east-1,1.17,USD,2025-09
+2025-09-30,123456789012,Production,AWS Data Transfer,eu-west-1,6.81,USD,2025-09
+2025-09-30,123456789013,Development,AWS Data Transfer,ap-southeast-1,6.47,USD,2025-09
+2025-09-30,123456789014,Testing,AWS Data Transfer,eu-west-1,4.23,USD,2025-09
+2025-10-01,123456789012,Production,Amazon EC2,ap-southeast-1,17.85,USD,2025-10
+2025-10-01,123456789013,Development,Amazon EC2,ap-southeast-1,17.07,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon EC2,us-east-1,24.77,USD,2025-10
+2025-10-01,123456789012,Production,Amazon S3,us-east-1,6.42,USD,2025-10
+2025-10-01,123456789013,Development,Amazon S3,ap-southeast-1,6.43,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon S3,ap-southeast-1,8.05,USD,2025-10
+2025-10-01,123456789012,Production,Amazon RDS,ap-southeast-1,14.58,USD,2025-10
+2025-10-01,123456789013,Development,Amazon RDS,us-west-2,13.76,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon RDS,ap-southeast-1,13.76,USD,2025-10
+2025-10-01,123456789012,Production,AWS Lambda,ap-southeast-1,3.4,USD,2025-10
+2025-10-01,123456789013,Development,AWS Lambda,us-west-2,2.98,USD,2025-10
+2025-10-01,123456789014,Testing,AWS Lambda,us-east-1,2.11,USD,2025-10
+2025-10-01,123456789012,Production,Amazon CloudFront,ap-southeast-1,12.97,USD,2025-10
+2025-10-01,123456789013,Development,Amazon CloudFront,us-east-1,11.9,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon CloudFront,us-west-2,12.08,USD,2025-10
+2025-10-01,123456789012,Production,Amazon DynamoDB,us-east-1,4.55,USD,2025-10
+2025-10-01,123456789013,Development,Amazon DynamoDB,eu-west-1,3.52,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.96,USD,2025-10
+2025-10-01,123456789012,Production,Amazon ECS,us-east-1,18.66,USD,2025-10
+2025-10-01,123456789013,Development,Amazon ECS,us-east-1,17.45,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon ECS,eu-west-1,19.71,USD,2025-10
+2025-10-01,123456789012,Production,Amazon VPC,ap-southeast-1,1.2,USD,2025-10
+2025-10-01,123456789013,Development,Amazon VPC,ap-southeast-1,1.43,USD,2025-10
+2025-10-01,123456789014,Testing,Amazon VPC,ap-southeast-1,1.23,USD,2025-10
+2025-10-01,123456789012,Production,AWS Data Transfer,eu-west-1,5.21,USD,2025-10
+2025-10-01,123456789013,Development,AWS Data Transfer,ap-southeast-1,5.92,USD,2025-10
+2025-10-01,123456789014,Testing,AWS Data Transfer,us-west-2,6.67,USD,2025-10
+2025-10-02,123456789012,Production,Amazon EC2,us-west-2,17.69,USD,2025-10
+2025-10-02,123456789013,Development,Amazon EC2,us-east-1,21.61,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon EC2,us-east-1,21.18,USD,2025-10
+2025-10-02,123456789012,Production,Amazon S3,eu-west-1,7.61,USD,2025-10
+2025-10-02,123456789013,Development,Amazon S3,eu-west-1,6.92,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon S3,us-west-2,5.34,USD,2025-10
+2025-10-02,123456789012,Production,Amazon RDS,us-west-2,13.63,USD,2025-10
+2025-10-02,123456789013,Development,Amazon RDS,us-west-2,15.0,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon RDS,us-west-2,13.21,USD,2025-10
+2025-10-02,123456789012,Production,AWS Lambda,eu-west-1,2.76,USD,2025-10
+2025-10-02,123456789013,Development,AWS Lambda,us-east-1,2.5,USD,2025-10
+2025-10-02,123456789014,Testing,AWS Lambda,eu-west-1,2.3,USD,2025-10
+2025-10-02,123456789012,Production,Amazon CloudFront,us-west-2,10.41,USD,2025-10
+2025-10-02,123456789013,Development,Amazon CloudFront,ap-southeast-1,8.69,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon CloudFront,us-east-1,12.34,USD,2025-10
+2025-10-02,123456789012,Production,Amazon DynamoDB,us-east-1,4.38,USD,2025-10
+2025-10-02,123456789013,Development,Amazon DynamoDB,us-west-2,3.72,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon DynamoDB,eu-west-1,5.11,USD,2025-10
+2025-10-02,123456789012,Production,Amazon ECS,eu-west-1,14.45,USD,2025-10
+2025-10-02,123456789013,Development,Amazon ECS,ap-southeast-1,16.41,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon ECS,ap-southeast-1,16.72,USD,2025-10
+2025-10-02,123456789012,Production,Amazon VPC,eu-west-1,1.49,USD,2025-10
+2025-10-02,123456789013,Development,Amazon VPC,us-east-1,1.24,USD,2025-10
+2025-10-02,123456789014,Testing,Amazon VPC,us-west-2,1.58,USD,2025-10
+2025-10-02,123456789012,Production,AWS Data Transfer,us-west-2,5.17,USD,2025-10
+2025-10-02,123456789013,Development,AWS Data Transfer,ap-southeast-1,4.89,USD,2025-10
+2025-10-02,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.22,USD,2025-10
+2025-10-03,123456789012,Production,Amazon EC2,eu-west-1,21.02,USD,2025-10
+2025-10-03,123456789013,Development,Amazon EC2,us-east-1,17.68,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon EC2,ap-southeast-1,23.21,USD,2025-10
+2025-10-03,123456789012,Production,Amazon S3,us-west-2,7.68,USD,2025-10
+2025-10-03,123456789013,Development,Amazon S3,eu-west-1,6.39,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon S3,us-east-1,8.0,USD,2025-10
+2025-10-03,123456789012,Production,Amazon RDS,us-west-2,13.58,USD,2025-10
+2025-10-03,123456789013,Development,Amazon RDS,us-east-1,10.6,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon RDS,eu-west-1,15.72,USD,2025-10
+2025-10-03,123456789012,Production,AWS Lambda,eu-west-1,3.35,USD,2025-10
+2025-10-03,123456789013,Development,AWS Lambda,us-east-1,3.4,USD,2025-10
+2025-10-03,123456789014,Testing,AWS Lambda,us-east-1,2.14,USD,2025-10
+2025-10-03,123456789012,Production,Amazon CloudFront,us-east-1,10.28,USD,2025-10
+2025-10-03,123456789013,Development,Amazon CloudFront,eu-west-1,8.75,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon CloudFront,us-west-2,10.62,USD,2025-10
+2025-10-03,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.31,USD,2025-10
+2025-10-03,123456789013,Development,Amazon DynamoDB,us-east-1,4.34,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.37,USD,2025-10
+2025-10-03,123456789012,Production,Amazon ECS,us-west-2,20.19,USD,2025-10
+2025-10-03,123456789013,Development,Amazon ECS,ap-southeast-1,17.56,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon ECS,us-east-1,19.84,USD,2025-10
+2025-10-03,123456789012,Production,Amazon VPC,us-east-1,1.31,USD,2025-10
+2025-10-03,123456789013,Development,Amazon VPC,ap-southeast-1,1.44,USD,2025-10
+2025-10-03,123456789014,Testing,Amazon VPC,ap-southeast-1,1.68,USD,2025-10
+2025-10-03,123456789012,Production,AWS Data Transfer,eu-west-1,6.41,USD,2025-10
+2025-10-03,123456789013,Development,AWS Data Transfer,eu-west-1,4.84,USD,2025-10
+2025-10-03,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.4,USD,2025-10
+2025-10-04,123456789012,Production,Amazon EC2,eu-west-1,12.44,USD,2025-10
+2025-10-04,123456789013,Development,Amazon EC2,eu-west-1,10.44,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon EC2,us-west-2,9.16,USD,2025-10
+2025-10-04,123456789012,Production,Amazon S3,ap-southeast-1,3.69,USD,2025-10
+2025-10-04,123456789013,Development,Amazon S3,eu-west-1,3.87,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon S3,ap-southeast-1,2.96,USD,2025-10
+2025-10-04,123456789012,Production,Amazon RDS,us-west-2,7.44,USD,2025-10
+2025-10-04,123456789013,Development,Amazon RDS,us-east-1,6.67,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon RDS,ap-southeast-1,8.19,USD,2025-10
+2025-10-04,123456789012,Production,AWS Lambda,eu-west-1,1.67,USD,2025-10
+2025-10-04,123456789013,Development,AWS Lambda,eu-west-1,1.37,USD,2025-10
+2025-10-04,123456789014,Testing,AWS Lambda,eu-west-1,1.64,USD,2025-10
+2025-10-04,123456789012,Production,Amazon CloudFront,ap-southeast-1,5.95,USD,2025-10
+2025-10-04,123456789013,Development,Amazon CloudFront,eu-west-1,5.15,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon CloudFront,us-east-1,5.64,USD,2025-10
+2025-10-04,123456789012,Production,Amazon DynamoDB,eu-west-1,1.71,USD,2025-10
+2025-10-04,123456789013,Development,Amazon DynamoDB,eu-west-1,1.94,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon DynamoDB,us-east-1,2.4,USD,2025-10
+2025-10-04,123456789012,Production,Amazon ECS,us-west-2,6.81,USD,2025-10
+2025-10-04,123456789013,Development,Amazon ECS,us-east-1,8.49,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon ECS,eu-west-1,6.81,USD,2025-10
+2025-10-04,123456789012,Production,Amazon VPC,us-east-1,0.83,USD,2025-10
+2025-10-04,123456789013,Development,Amazon VPC,ap-southeast-1,0.74,USD,2025-10
+2025-10-04,123456789014,Testing,Amazon VPC,us-west-2,0.76,USD,2025-10
+2025-10-04,123456789012,Production,AWS Data Transfer,eu-west-1,2.74,USD,2025-10
+2025-10-04,123456789013,Development,AWS Data Transfer,ap-southeast-1,2.22,USD,2025-10
+2025-10-04,123456789014,Testing,AWS Data Transfer,eu-west-1,3.38,USD,2025-10
+2025-10-05,123456789012,Production,Amazon EC2,us-west-2,12.65,USD,2025-10
+2025-10-05,123456789013,Development,Amazon EC2,ap-southeast-1,8.78,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon EC2,ap-southeast-1,9.35,USD,2025-10
+2025-10-05,123456789012,Production,Amazon S3,us-east-1,4.15,USD,2025-10
+2025-10-05,123456789013,Development,Amazon S3,us-east-1,3.44,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon S3,ap-southeast-1,3.78,USD,2025-10
+2025-10-05,123456789012,Production,Amazon RDS,ap-southeast-1,5.69,USD,2025-10
+2025-10-05,123456789013,Development,Amazon RDS,eu-west-1,7.62,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon RDS,ap-southeast-1,7.91,USD,2025-10
+2025-10-05,123456789012,Production,AWS Lambda,eu-west-1,1.54,USD,2025-10
+2025-10-05,123456789013,Development,AWS Lambda,ap-southeast-1,1.64,USD,2025-10
+2025-10-05,123456789014,Testing,AWS Lambda,ap-southeast-1,1.52,USD,2025-10
+2025-10-05,123456789012,Production,Amazon CloudFront,us-west-2,4.33,USD,2025-10
+2025-10-05,123456789013,Development,Amazon CloudFront,us-east-1,5.47,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon CloudFront,us-east-1,5.11,USD,2025-10
+2025-10-05,123456789012,Production,Amazon DynamoDB,us-east-1,1.88,USD,2025-10
+2025-10-05,123456789013,Development,Amazon DynamoDB,us-east-1,1.77,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon DynamoDB,us-west-2,2.47,USD,2025-10
+2025-10-05,123456789012,Production,Amazon ECS,ap-southeast-1,9.85,USD,2025-10
+2025-10-05,123456789013,Development,Amazon ECS,us-east-1,8.71,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon ECS,us-east-1,7.81,USD,2025-10
+2025-10-05,123456789012,Production,Amazon VPC,us-west-2,0.73,USD,2025-10
+2025-10-05,123456789013,Development,Amazon VPC,us-east-1,0.69,USD,2025-10
+2025-10-05,123456789014,Testing,Amazon VPC,us-east-1,0.58,USD,2025-10
+2025-10-05,123456789012,Production,AWS Data Transfer,ap-southeast-1,3.3,USD,2025-10
+2025-10-05,123456789013,Development,AWS Data Transfer,us-east-1,2.93,USD,2025-10
+2025-10-05,123456789014,Testing,AWS Data Transfer,us-east-1,2.91,USD,2025-10
+2025-10-06,123456789012,Production,Amazon EC2,ap-southeast-1,22.34,USD,2025-10
+2025-10-06,123456789013,Development,Amazon EC2,us-west-2,24.82,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon EC2,eu-west-1,16.67,USD,2025-10
+2025-10-06,123456789012,Production,Amazon S3,us-west-2,8.23,USD,2025-10
+2025-10-06,123456789013,Development,Amazon S3,ap-southeast-1,7.68,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon S3,ap-southeast-1,8.37,USD,2025-10
+2025-10-06,123456789012,Production,Amazon RDS,eu-west-1,12.57,USD,2025-10
+2025-10-06,123456789013,Development,Amazon RDS,us-west-2,11.3,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon RDS,ap-southeast-1,14.57,USD,2025-10
+2025-10-06,123456789012,Production,AWS Lambda,us-west-2,2.67,USD,2025-10
+2025-10-06,123456789013,Development,AWS Lambda,us-east-1,2.24,USD,2025-10
+2025-10-06,123456789014,Testing,AWS Lambda,us-east-1,3.31,USD,2025-10
+2025-10-06,123456789012,Production,Amazon CloudFront,us-east-1,12.5,USD,2025-10
+2025-10-06,123456789013,Development,Amazon CloudFront,us-west-2,12.41,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon CloudFront,eu-west-1,9.52,USD,2025-10
+2025-10-06,123456789012,Production,Amazon DynamoDB,ap-southeast-1,3.45,USD,2025-10
+2025-10-06,123456789013,Development,Amazon DynamoDB,us-west-2,4.03,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon DynamoDB,us-east-1,4.76,USD,2025-10
+2025-10-06,123456789012,Production,Amazon ECS,us-west-2,16.2,USD,2025-10
+2025-10-06,123456789013,Development,Amazon ECS,us-east-1,18.0,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon ECS,eu-west-1,14.16,USD,2025-10
+2025-10-06,123456789012,Production,Amazon VPC,us-east-1,1.42,USD,2025-10
+2025-10-06,123456789013,Development,Amazon VPC,ap-southeast-1,1.19,USD,2025-10
+2025-10-06,123456789014,Testing,Amazon VPC,us-west-2,1.32,USD,2025-10
+2025-10-06,123456789012,Production,AWS Data Transfer,us-west-2,4.32,USD,2025-10
+2025-10-06,123456789013,Development,AWS Data Transfer,us-east-1,5.71,USD,2025-10
+2025-10-06,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.4,USD,2025-10
+2025-10-07,123456789012,Production,Amazon EC2,us-east-1,16.89,USD,2025-10
+2025-10-07,123456789013,Development,Amazon EC2,ap-southeast-1,16.85,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon EC2,us-east-1,18.38,USD,2025-10
+2025-10-07,123456789012,Production,Amazon S3,us-west-2,8.34,USD,2025-10
+2025-10-07,123456789013,Development,Amazon S3,eu-west-1,5.71,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon S3,us-east-1,7.46,USD,2025-10
+2025-10-07,123456789012,Production,Amazon RDS,eu-west-1,17.03,USD,2025-10
+2025-10-07,123456789013,Development,Amazon RDS,us-east-1,16.64,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon RDS,us-west-2,15.28,USD,2025-10
+2025-10-07,123456789012,Production,AWS Lambda,ap-southeast-1,3.0,USD,2025-10
+2025-10-07,123456789013,Development,AWS Lambda,us-west-2,2.86,USD,2025-10
+2025-10-07,123456789014,Testing,AWS Lambda,eu-west-1,3.09,USD,2025-10
+2025-10-07,123456789012,Production,Amazon CloudFront,us-east-1,9.57,USD,2025-10
+2025-10-07,123456789013,Development,Amazon CloudFront,us-west-2,8.54,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon CloudFront,us-east-1,9.48,USD,2025-10
+2025-10-07,123456789012,Production,Amazon DynamoDB,us-east-1,4.01,USD,2025-10
+2025-10-07,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.97,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.71,USD,2025-10
+2025-10-07,123456789012,Production,Amazon ECS,us-west-2,16.21,USD,2025-10
+2025-10-07,123456789013,Development,Amazon ECS,eu-west-1,18.51,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon ECS,us-west-2,19.19,USD,2025-10
+2025-10-07,123456789012,Production,Amazon VPC,us-east-1,1.5,USD,2025-10
+2025-10-07,123456789013,Development,Amazon VPC,eu-west-1,1.52,USD,2025-10
+2025-10-07,123456789014,Testing,Amazon VPC,eu-west-1,1.62,USD,2025-10
+2025-10-07,123456789012,Production,AWS Data Transfer,eu-west-1,6.14,USD,2025-10
+2025-10-07,123456789013,Development,AWS Data Transfer,us-east-1,4.73,USD,2025-10
+2025-10-07,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.13,USD,2025-10
+2025-10-08,123456789012,Production,Amazon EC2,us-west-2,16.45,USD,2025-10
+2025-10-08,123456789013,Development,Amazon EC2,us-east-1,21.99,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon EC2,ap-southeast-1,19.18,USD,2025-10
+2025-10-08,123456789012,Production,Amazon S3,us-west-2,8.2,USD,2025-10
+2025-10-08,123456789013,Development,Amazon S3,eu-west-1,7.57,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon S3,us-west-2,5.89,USD,2025-10
+2025-10-08,123456789012,Production,Amazon RDS,ap-southeast-1,12.02,USD,2025-10
+2025-10-08,123456789013,Development,Amazon RDS,eu-west-1,10.98,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon RDS,us-west-2,16.13,USD,2025-10
+2025-10-08,123456789012,Production,AWS Lambda,eu-west-1,2.24,USD,2025-10
+2025-10-08,123456789013,Development,AWS Lambda,eu-west-1,2.59,USD,2025-10
+2025-10-08,123456789014,Testing,AWS Lambda,ap-southeast-1,3.02,USD,2025-10
+2025-10-08,123456789012,Production,Amazon CloudFront,us-west-2,12.43,USD,2025-10
+2025-10-08,123456789013,Development,Amazon CloudFront,eu-west-1,12.06,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon CloudFront,us-west-2,8.99,USD,2025-10
+2025-10-08,123456789012,Production,Amazon DynamoDB,us-east-1,5.13,USD,2025-10
+2025-10-08,123456789013,Development,Amazon DynamoDB,eu-west-1,4.21,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon DynamoDB,us-east-1,4.65,USD,2025-10
+2025-10-08,123456789012,Production,Amazon ECS,ap-southeast-1,19.8,USD,2025-10
+2025-10-08,123456789013,Development,Amazon ECS,ap-southeast-1,18.99,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon ECS,ap-southeast-1,16.23,USD,2025-10
+2025-10-08,123456789012,Production,Amazon VPC,us-west-2,1.07,USD,2025-10
+2025-10-08,123456789013,Development,Amazon VPC,us-east-1,1.17,USD,2025-10
+2025-10-08,123456789014,Testing,Amazon VPC,us-east-1,1.08,USD,2025-10
+2025-10-08,123456789012,Production,AWS Data Transfer,eu-west-1,4.84,USD,2025-10
+2025-10-08,123456789013,Development,AWS Data Transfer,us-west-2,5.63,USD,2025-10
+2025-10-08,123456789014,Testing,AWS Data Transfer,us-west-2,5.05,USD,2025-10
+2025-10-09,123456789012,Production,Amazon EC2,us-east-1,19.82,USD,2025-10
+2025-10-09,123456789013,Development,Amazon EC2,us-east-1,21.46,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon EC2,eu-west-1,23.17,USD,2025-10
+2025-10-09,123456789012,Production,Amazon S3,eu-west-1,7.5,USD,2025-10
+2025-10-09,123456789013,Development,Amazon S3,eu-west-1,7.49,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon S3,us-east-1,7.71,USD,2025-10
+2025-10-09,123456789012,Production,Amazon RDS,eu-west-1,15.67,USD,2025-10
+2025-10-09,123456789013,Development,Amazon RDS,eu-west-1,12.3,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon RDS,us-east-1,13.89,USD,2025-10
+2025-10-09,123456789012,Production,AWS Lambda,us-east-1,2.33,USD,2025-10
+2025-10-09,123456789013,Development,AWS Lambda,us-west-2,2.79,USD,2025-10
+2025-10-09,123456789014,Testing,AWS Lambda,ap-southeast-1,3.05,USD,2025-10
+2025-10-09,123456789012,Production,Amazon CloudFront,us-east-1,11.02,USD,2025-10
+2025-10-09,123456789013,Development,Amazon CloudFront,us-east-1,9.73,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon CloudFront,eu-west-1,11.22,USD,2025-10
+2025-10-09,123456789012,Production,Amazon DynamoDB,us-west-2,4.44,USD,2025-10
+2025-10-09,123456789013,Development,Amazon DynamoDB,us-west-2,4.31,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon DynamoDB,us-east-1,3.78,USD,2025-10
+2025-10-09,123456789012,Production,Amazon ECS,eu-west-1,18.33,USD,2025-10
+2025-10-09,123456789013,Development,Amazon ECS,eu-west-1,15.64,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon ECS,ap-southeast-1,18.01,USD,2025-10
+2025-10-09,123456789012,Production,Amazon VPC,eu-west-1,1.4,USD,2025-10
+2025-10-09,123456789013,Development,Amazon VPC,eu-west-1,1.11,USD,2025-10
+2025-10-09,123456789014,Testing,Amazon VPC,ap-southeast-1,1.68,USD,2025-10
+2025-10-09,123456789012,Production,AWS Data Transfer,us-west-2,6.52,USD,2025-10
+2025-10-09,123456789013,Development,AWS Data Transfer,us-east-1,6.34,USD,2025-10
+2025-10-09,123456789014,Testing,AWS Data Transfer,ap-southeast-1,6.66,USD,2025-10
+2025-10-10,123456789012,Production,Amazon EC2,ap-southeast-1,25.25,USD,2025-10
+2025-10-10,123456789013,Development,Amazon EC2,eu-west-1,22.53,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon EC2,us-west-2,21.33,USD,2025-10
+2025-10-10,123456789012,Production,Amazon S3,ap-southeast-1,7.59,USD,2025-10
+2025-10-10,123456789013,Development,Amazon S3,eu-west-1,6.51,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon S3,us-west-2,6.35,USD,2025-10
+2025-10-10,123456789012,Production,Amazon RDS,eu-west-1,16.47,USD,2025-10
+2025-10-10,123456789013,Development,Amazon RDS,us-east-1,14.52,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon RDS,eu-west-1,11.07,USD,2025-10
+2025-10-10,123456789012,Production,AWS Lambda,us-west-2,2.76,USD,2025-10
+2025-10-10,123456789013,Development,AWS Lambda,us-east-1,2.16,USD,2025-10
+2025-10-10,123456789014,Testing,AWS Lambda,eu-west-1,2.95,USD,2025-10
+2025-10-10,123456789012,Production,Amazon CloudFront,us-west-2,11.33,USD,2025-10
+2025-10-10,123456789013,Development,Amazon CloudFront,ap-southeast-1,8.71,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon CloudFront,us-east-1,13.76,USD,2025-10
+2025-10-10,123456789012,Production,Amazon DynamoDB,us-west-2,4.63,USD,2025-10
+2025-10-10,123456789013,Development,Amazon DynamoDB,us-east-1,4.57,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon DynamoDB,us-west-2,4.09,USD,2025-10
+2025-10-10,123456789012,Production,Amazon ECS,eu-west-1,19.52,USD,2025-10
+2025-10-10,123456789013,Development,Amazon ECS,us-east-1,18.46,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon ECS,eu-west-1,14.33,USD,2025-10
+2025-10-10,123456789012,Production,Amazon VPC,us-east-1,1.45,USD,2025-10
+2025-10-10,123456789013,Development,Amazon VPC,us-east-1,1.3,USD,2025-10
+2025-10-10,123456789014,Testing,Amazon VPC,us-east-1,1.21,USD,2025-10
+2025-10-10,123456789012,Production,AWS Data Transfer,us-west-2,5.4,USD,2025-10
+2025-10-10,123456789013,Development,AWS Data Transfer,eu-west-1,5.21,USD,2025-10
+2025-10-10,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.28,USD,2025-10
+2025-10-11,123456789012,Production,Amazon EC2,eu-west-1,11.47,USD,2025-10
+2025-10-11,123456789013,Development,Amazon EC2,us-east-1,12.73,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon EC2,eu-west-1,10.48,USD,2025-10
+2025-10-11,123456789012,Production,Amazon S3,us-west-2,3.61,USD,2025-10
+2025-10-11,123456789013,Development,Amazon S3,us-east-1,3.51,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon S3,us-east-1,3.14,USD,2025-10
+2025-10-11,123456789012,Production,Amazon RDS,ap-southeast-1,5.82,USD,2025-10
+2025-10-11,123456789013,Development,Amazon RDS,us-east-1,8.58,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon RDS,us-west-2,8.54,USD,2025-10
+2025-10-11,123456789012,Production,AWS Lambda,us-west-2,1.47,USD,2025-10
+2025-10-11,123456789013,Development,AWS Lambda,eu-west-1,1.57,USD,2025-10
+2025-10-11,123456789014,Testing,AWS Lambda,eu-west-1,1.47,USD,2025-10
+2025-10-11,123456789012,Production,Amazon CloudFront,eu-west-1,6.47,USD,2025-10
+2025-10-11,123456789013,Development,Amazon CloudFront,ap-southeast-1,4.45,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon CloudFront,us-west-2,6.19,USD,2025-10
+2025-10-11,123456789012,Production,Amazon DynamoDB,ap-southeast-1,2.12,USD,2025-10
+2025-10-11,123456789013,Development,Amazon DynamoDB,eu-west-1,2.03,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,2.19,USD,2025-10
+2025-10-11,123456789012,Production,Amazon ECS,eu-west-1,8.52,USD,2025-10
+2025-10-11,123456789013,Development,Amazon ECS,us-east-1,9.39,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon ECS,us-west-2,8.14,USD,2025-10
+2025-10-11,123456789012,Production,Amazon VPC,us-east-1,0.65,USD,2025-10
+2025-10-11,123456789013,Development,Amazon VPC,us-west-2,0.63,USD,2025-10
+2025-10-11,123456789014,Testing,Amazon VPC,us-east-1,0.55,USD,2025-10
+2025-10-11,123456789012,Production,AWS Data Transfer,us-west-2,2.87,USD,2025-10
+2025-10-11,123456789013,Development,AWS Data Transfer,eu-west-1,2.18,USD,2025-10
+2025-10-11,123456789014,Testing,AWS Data Transfer,ap-southeast-1,2.99,USD,2025-10
+2025-10-12,123456789012,Production,Amazon EC2,us-east-1,10.78,USD,2025-10
+2025-10-12,123456789013,Development,Amazon EC2,us-west-2,8.54,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon EC2,eu-west-1,9.61,USD,2025-10
+2025-10-12,123456789012,Production,Amazon S3,eu-west-1,3.04,USD,2025-10
+2025-10-12,123456789013,Development,Amazon S3,us-east-1,3.19,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon S3,us-west-2,4.25,USD,2025-10
+2025-10-12,123456789012,Production,Amazon RDS,eu-west-1,5.81,USD,2025-10
+2025-10-12,123456789013,Development,Amazon RDS,us-east-1,6.27,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon RDS,us-east-1,5.35,USD,2025-10
+2025-10-12,123456789012,Production,AWS Lambda,ap-southeast-1,1.07,USD,2025-10
+2025-10-12,123456789013,Development,AWS Lambda,us-west-2,1.53,USD,2025-10
+2025-10-12,123456789014,Testing,AWS Lambda,eu-west-1,1.56,USD,2025-10
+2025-10-12,123456789012,Production,Amazon CloudFront,eu-west-1,4.81,USD,2025-10
+2025-10-12,123456789013,Development,Amazon CloudFront,us-east-1,5.74,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon CloudFront,eu-west-1,6.23,USD,2025-10
+2025-10-12,123456789012,Production,Amazon DynamoDB,ap-southeast-1,2.01,USD,2025-10
+2025-10-12,123456789013,Development,Amazon DynamoDB,eu-west-1,2.01,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,2.06,USD,2025-10
+2025-10-12,123456789012,Production,Amazon ECS,ap-southeast-1,8.79,USD,2025-10
+2025-10-12,123456789013,Development,Amazon ECS,eu-west-1,8.63,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon ECS,us-east-1,7.12,USD,2025-10
+2025-10-12,123456789012,Production,Amazon VPC,us-east-1,0.6,USD,2025-10
+2025-10-12,123456789013,Development,Amazon VPC,us-west-2,0.58,USD,2025-10
+2025-10-12,123456789014,Testing,Amazon VPC,us-east-1,0.67,USD,2025-10
+2025-10-12,123456789012,Production,AWS Data Transfer,ap-southeast-1,2.38,USD,2025-10
+2025-10-12,123456789013,Development,AWS Data Transfer,us-east-1,2.52,USD,2025-10
+2025-10-12,123456789014,Testing,AWS Data Transfer,eu-west-1,3.13,USD,2025-10
+2025-10-13,123456789012,Production,Amazon EC2,us-east-1,20.26,USD,2025-10
+2025-10-13,123456789013,Development,Amazon EC2,us-west-2,24.75,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon EC2,ap-southeast-1,20.77,USD,2025-10
+2025-10-13,123456789012,Production,Amazon S3,us-west-2,6.34,USD,2025-10
+2025-10-13,123456789013,Development,Amazon S3,ap-southeast-1,6.54,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon S3,eu-west-1,6.98,USD,2025-10
+2025-10-13,123456789012,Production,Amazon RDS,ap-southeast-1,14.91,USD,2025-10
+2025-10-13,123456789013,Development,Amazon RDS,us-west-2,11.61,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon RDS,us-east-1,13.43,USD,2025-10
+2025-10-13,123456789012,Production,AWS Lambda,eu-west-1,3.32,USD,2025-10
+2025-10-13,123456789013,Development,AWS Lambda,us-west-2,2.82,USD,2025-10
+2025-10-13,123456789014,Testing,AWS Lambda,ap-southeast-1,2.79,USD,2025-10
+2025-10-13,123456789012,Production,Amazon CloudFront,eu-west-1,9.46,USD,2025-10
+2025-10-13,123456789013,Development,Amazon CloudFront,eu-west-1,8.94,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon CloudFront,eu-west-1,9.4,USD,2025-10
+2025-10-13,123456789012,Production,Amazon DynamoDB,eu-west-1,4.1,USD,2025-10
+2025-10-13,123456789013,Development,Amazon DynamoDB,ap-southeast-1,3.29,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon DynamoDB,eu-west-1,4.17,USD,2025-10
+2025-10-13,123456789012,Production,Amazon ECS,us-west-2,20.14,USD,2025-10
+2025-10-13,123456789013,Development,Amazon ECS,us-west-2,13.81,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon ECS,ap-southeast-1,20.25,USD,2025-10
+2025-10-13,123456789012,Production,Amazon VPC,ap-southeast-1,1.12,USD,2025-10
+2025-10-13,123456789013,Development,Amazon VPC,ap-southeast-1,1.59,USD,2025-10
+2025-10-13,123456789014,Testing,Amazon VPC,ap-southeast-1,1.12,USD,2025-10
+2025-10-13,123456789012,Production,AWS Data Transfer,us-east-1,5.77,USD,2025-10
+2025-10-13,123456789013,Development,AWS Data Transfer,eu-west-1,5.06,USD,2025-10
+2025-10-13,123456789014,Testing,AWS Data Transfer,us-west-2,4.35,USD,2025-10
+2025-10-14,123456789012,Production,Amazon EC2,eu-west-1,24.97,USD,2025-10
+2025-10-14,123456789013,Development,Amazon EC2,eu-west-1,22.28,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon EC2,eu-west-1,19.24,USD,2025-10
+2025-10-14,123456789012,Production,Amazon S3,eu-west-1,8.3,USD,2025-10
+2025-10-14,123456789013,Development,Amazon S3,ap-southeast-1,8.55,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon S3,ap-southeast-1,6.64,USD,2025-10
+2025-10-14,123456789012,Production,Amazon RDS,us-east-1,12.71,USD,2025-10
+2025-10-14,123456789013,Development,Amazon RDS,us-east-1,13.72,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon RDS,us-west-2,13.07,USD,2025-10
+2025-10-14,123456789012,Production,AWS Lambda,ap-southeast-1,2.54,USD,2025-10
+2025-10-14,123456789013,Development,AWS Lambda,ap-southeast-1,2.53,USD,2025-10
+2025-10-14,123456789014,Testing,AWS Lambda,us-west-2,3.08,USD,2025-10
+2025-10-14,123456789012,Production,Amazon CloudFront,eu-west-1,9.01,USD,2025-10
+2025-10-14,123456789013,Development,Amazon CloudFront,us-east-1,8.57,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon CloudFront,us-west-2,9.75,USD,2025-10
+2025-10-14,123456789012,Production,Amazon DynamoDB,us-east-1,4.19,USD,2025-10
+2025-10-14,123456789013,Development,Amazon DynamoDB,us-west-2,4.86,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon DynamoDB,eu-west-1,3.9,USD,2025-10
+2025-10-14,123456789012,Production,Amazon ECS,us-east-1,14.32,USD,2025-10
+2025-10-14,123456789013,Development,Amazon ECS,eu-west-1,17.51,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon ECS,eu-west-1,16.51,USD,2025-10
+2025-10-14,123456789012,Production,Amazon VPC,ap-southeast-1,1.57,USD,2025-10
+2025-10-14,123456789013,Development,Amazon VPC,us-west-2,1.15,USD,2025-10
+2025-10-14,123456789014,Testing,Amazon VPC,eu-west-1,1.24,USD,2025-10
+2025-10-14,123456789012,Production,AWS Data Transfer,us-west-2,5.7,USD,2025-10
+2025-10-14,123456789013,Development,AWS Data Transfer,us-east-1,5.59,USD,2025-10
+2025-10-14,123456789014,Testing,AWS Data Transfer,eu-west-1,6.23,USD,2025-10
+2025-10-15,123456789012,Production,Amazon EC2,ap-southeast-1,21.18,USD,2025-10
+2025-10-15,123456789013,Development,Amazon EC2,us-west-2,16.21,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon EC2,us-east-1,22.98,USD,2025-10
+2025-10-15,123456789012,Production,Amazon S3,us-east-1,5.39,USD,2025-10
+2025-10-15,123456789013,Development,Amazon S3,ap-southeast-1,6.69,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon S3,eu-west-1,5.84,USD,2025-10
+2025-10-15,123456789012,Production,Amazon RDS,us-west-2,16.26,USD,2025-10
+2025-10-15,123456789013,Development,Amazon RDS,ap-southeast-1,10.75,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon RDS,eu-west-1,15.44,USD,2025-10
+2025-10-15,123456789012,Production,AWS Lambda,us-east-1,2.93,USD,2025-10
+2025-10-15,123456789013,Development,AWS Lambda,ap-southeast-1,3.17,USD,2025-10
+2025-10-15,123456789014,Testing,AWS Lambda,us-east-1,3.24,USD,2025-10
+2025-10-15,123456789012,Production,Amazon CloudFront,eu-west-1,12.62,USD,2025-10
+2025-10-15,123456789013,Development,Amazon CloudFront,eu-west-1,12.21,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon CloudFront,ap-southeast-1,12.75,USD,2025-10
+2025-10-15,123456789012,Production,Amazon DynamoDB,us-east-1,3.46,USD,2025-10
+2025-10-15,123456789013,Development,Amazon DynamoDB,ap-southeast-1,5.09,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,4.87,USD,2025-10
+2025-10-15,123456789012,Production,Amazon ECS,us-west-2,19.55,USD,2025-10
+2025-10-15,123456789013,Development,Amazon ECS,ap-southeast-1,20.13,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon ECS,us-west-2,19.16,USD,2025-10
+2025-10-15,123456789012,Production,Amazon VPC,ap-southeast-1,1.22,USD,2025-10
+2025-10-15,123456789013,Development,Amazon VPC,us-east-1,1.11,USD,2025-10
+2025-10-15,123456789014,Testing,Amazon VPC,us-west-2,1.55,USD,2025-10
+2025-10-15,123456789012,Production,AWS Data Transfer,us-west-2,6.66,USD,2025-10
+2025-10-15,123456789013,Development,AWS Data Transfer,us-east-1,6.18,USD,2025-10
+2025-10-15,123456789014,Testing,AWS Data Transfer,us-west-2,4.3,USD,2025-10
+2025-10-16,123456789012,Production,Amazon EC2,us-west-2,24.11,USD,2025-10
+2025-10-16,123456789013,Development,Amazon EC2,ap-southeast-1,24.94,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon EC2,ap-southeast-1,23.56,USD,2025-10
+2025-10-16,123456789012,Production,Amazon S3,eu-west-1,6.52,USD,2025-10
+2025-10-16,123456789013,Development,Amazon S3,us-west-2,7.56,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon S3,us-west-2,7.83,USD,2025-10
+2025-10-16,123456789012,Production,Amazon RDS,eu-west-1,13.66,USD,2025-10
+2025-10-16,123456789013,Development,Amazon RDS,ap-southeast-1,12.35,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon RDS,ap-southeast-1,14.36,USD,2025-10
+2025-10-16,123456789012,Production,AWS Lambda,us-west-2,2.47,USD,2025-10
+2025-10-16,123456789013,Development,AWS Lambda,us-west-2,2.45,USD,2025-10
+2025-10-16,123456789014,Testing,AWS Lambda,ap-southeast-1,2.93,USD,2025-10
+2025-10-16,123456789012,Production,Amazon CloudFront,us-east-1,10.63,USD,2025-10
+2025-10-16,123456789013,Development,Amazon CloudFront,us-east-1,13.09,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon CloudFront,us-west-2,12.38,USD,2025-10
+2025-10-16,123456789012,Production,Amazon DynamoDB,us-west-2,4.24,USD,2025-10
+2025-10-16,123456789013,Development,Amazon DynamoDB,us-west-2,4.35,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon DynamoDB,us-east-1,4.83,USD,2025-10
+2025-10-16,123456789012,Production,Amazon ECS,us-east-1,13.3,USD,2025-10
+2025-10-16,123456789013,Development,Amazon ECS,us-east-1,20.39,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon ECS,eu-west-1,12.8,USD,2025-10
+2025-10-16,123456789012,Production,Amazon VPC,us-east-1,1.57,USD,2025-10
+2025-10-16,123456789013,Development,Amazon VPC,us-east-1,1.35,USD,2025-10
+2025-10-16,123456789014,Testing,Amazon VPC,eu-west-1,1.15,USD,2025-10
+2025-10-16,123456789012,Production,AWS Data Transfer,eu-west-1,5.65,USD,2025-10
+2025-10-16,123456789013,Development,AWS Data Transfer,ap-southeast-1,6.84,USD,2025-10
+2025-10-16,123456789014,Testing,AWS Data Transfer,us-west-2,5.85,USD,2025-10
+2025-10-17,123456789012,Production,Amazon EC2,us-east-1,21.82,USD,2025-10
+2025-10-17,123456789013,Development,Amazon EC2,us-east-1,25.8,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon EC2,ap-southeast-1,22.51,USD,2025-10
+2025-10-17,123456789012,Production,Amazon S3,us-west-2,7.93,USD,2025-10
+2025-10-17,123456789013,Development,Amazon S3,eu-west-1,6.71,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon S3,us-east-1,8.38,USD,2025-10
+2025-10-17,123456789012,Production,Amazon RDS,ap-southeast-1,14.28,USD,2025-10
+2025-10-17,123456789013,Development,Amazon RDS,us-west-2,16.58,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon RDS,eu-west-1,15.73,USD,2025-10
+2025-10-17,123456789012,Production,AWS Lambda,eu-west-1,2.58,USD,2025-10
+2025-10-17,123456789013,Development,AWS Lambda,us-east-1,3.29,USD,2025-10
+2025-10-17,123456789014,Testing,AWS Lambda,us-west-2,2.72,USD,2025-10
+2025-10-17,123456789012,Production,Amazon CloudFront,eu-west-1,13.84,USD,2025-10
+2025-10-17,123456789013,Development,Amazon CloudFront,us-east-1,13.21,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon CloudFront,ap-southeast-1,9.5,USD,2025-10
+2025-10-17,123456789012,Production,Amazon DynamoDB,ap-southeast-1,4.51,USD,2025-10
+2025-10-17,123456789013,Development,Amazon DynamoDB,us-west-2,3.7,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon DynamoDB,us-east-1,3.66,USD,2025-10
+2025-10-17,123456789012,Production,Amazon ECS,us-west-2,20.73,USD,2025-10
+2025-10-17,123456789013,Development,Amazon ECS,us-west-2,18.04,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon ECS,ap-southeast-1,20.49,USD,2025-10
+2025-10-17,123456789012,Production,Amazon VPC,eu-west-1,1.63,USD,2025-10
+2025-10-17,123456789013,Development,Amazon VPC,ap-southeast-1,1.63,USD,2025-10
+2025-10-17,123456789014,Testing,Amazon VPC,us-east-1,1.12,USD,2025-10
+2025-10-17,123456789012,Production,AWS Data Transfer,ap-southeast-1,6.05,USD,2025-10
+2025-10-17,123456789013,Development,AWS Data Transfer,us-west-2,5.55,USD,2025-10
+2025-10-17,123456789014,Testing,AWS Data Transfer,us-east-1,5.37,USD,2025-10
+2025-10-18,123456789012,Production,Amazon EC2,us-east-1,10.58,USD,2025-10
+2025-10-18,123456789013,Development,Amazon EC2,us-east-1,8.98,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon EC2,us-east-1,10.25,USD,2025-10
+2025-10-18,123456789012,Production,Amazon S3,us-west-2,3.53,USD,2025-10
+2025-10-18,123456789013,Development,Amazon S3,us-west-2,4.09,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon S3,us-east-1,2.96,USD,2025-10
+2025-10-18,123456789012,Production,Amazon RDS,eu-west-1,5.59,USD,2025-10
+2025-10-18,123456789013,Development,Amazon RDS,us-west-2,8.66,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon RDS,ap-southeast-1,5.35,USD,2025-10
+2025-10-18,123456789012,Production,AWS Lambda,us-west-2,1.3,USD,2025-10
+2025-10-18,123456789013,Development,AWS Lambda,ap-southeast-1,1.07,USD,2025-10
+2025-10-18,123456789014,Testing,AWS Lambda,eu-west-1,1.71,USD,2025-10
+2025-10-18,123456789012,Production,Amazon CloudFront,us-west-2,6.87,USD,2025-10
+2025-10-18,123456789013,Development,Amazon CloudFront,ap-southeast-1,5.75,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon CloudFront,ap-southeast-1,6.69,USD,2025-10
+2025-10-18,123456789012,Production,Amazon DynamoDB,us-west-2,1.98,USD,2025-10
+2025-10-18,123456789013,Development,Amazon DynamoDB,eu-west-1,2.51,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,1.86,USD,2025-10
+2025-10-18,123456789012,Production,Amazon ECS,ap-southeast-1,8.65,USD,2025-10
+2025-10-18,123456789013,Development,Amazon ECS,us-east-1,7.85,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon ECS,ap-southeast-1,10.39,USD,2025-10
+2025-10-18,123456789012,Production,Amazon VPC,us-west-2,0.6,USD,2025-10
+2025-10-18,123456789013,Development,Amazon VPC,us-east-1,0.67,USD,2025-10
+2025-10-18,123456789014,Testing,Amazon VPC,eu-west-1,0.75,USD,2025-10
+2025-10-18,123456789012,Production,AWS Data Transfer,us-west-2,2.66,USD,2025-10
+2025-10-18,123456789013,Development,AWS Data Transfer,us-west-2,3.18,USD,2025-10
+2025-10-18,123456789014,Testing,AWS Data Transfer,us-west-2,2.77,USD,2025-10
+2025-10-19,123456789012,Production,Amazon EC2,ap-southeast-1,8.16,USD,2025-10
+2025-10-19,123456789013,Development,Amazon EC2,us-east-1,8.89,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon EC2,ap-southeast-1,11.02,USD,2025-10
+2025-10-19,123456789012,Production,Amazon S3,eu-west-1,3.81,USD,2025-10
+2025-10-19,123456789013,Development,Amazon S3,us-east-1,3.91,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon S3,eu-west-1,3.52,USD,2025-10
+2025-10-19,123456789012,Production,Amazon RDS,us-east-1,7.02,USD,2025-10
+2025-10-19,123456789013,Development,Amazon RDS,us-west-2,7.1,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon RDS,us-west-2,6.96,USD,2025-10
+2025-10-19,123456789012,Production,AWS Lambda,us-west-2,1.48,USD,2025-10
+2025-10-19,123456789013,Development,AWS Lambda,eu-west-1,1.42,USD,2025-10
+2025-10-19,123456789014,Testing,AWS Lambda,ap-southeast-1,1.73,USD,2025-10
+2025-10-19,123456789012,Production,Amazon CloudFront,us-west-2,4.84,USD,2025-10
+2025-10-19,123456789013,Development,Amazon CloudFront,us-east-1,5.07,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon CloudFront,us-east-1,6.03,USD,2025-10
+2025-10-19,123456789012,Production,Amazon DynamoDB,us-west-2,1.93,USD,2025-10
+2025-10-19,123456789013,Development,Amazon DynamoDB,eu-west-1,2.6,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon DynamoDB,ap-southeast-1,2.5,USD,2025-10
+2025-10-19,123456789012,Production,Amazon ECS,eu-west-1,9.68,USD,2025-10
+2025-10-19,123456789013,Development,Amazon ECS,eu-west-1,6.7,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon ECS,eu-west-1,8.1,USD,2025-10
+2025-10-19,123456789012,Production,Amazon VPC,us-east-1,0.84,USD,2025-10
+2025-10-19,123456789013,Development,Amazon VPC,ap-southeast-1,0.7,USD,2025-10
+2025-10-19,123456789014,Testing,Amazon VPC,us-east-1,0.57,USD,2025-10
+2025-10-19,123456789012,Production,AWS Data Transfer,eu-west-1,3.4,USD,2025-10
+2025-10-19,123456789013,Development,AWS Data Transfer,us-west-2,2.45,USD,2025-10
+2025-10-19,123456789014,Testing,AWS Data Transfer,eu-west-1,2.49,USD,2025-10
+2025-10-20,123456789012,Production,Amazon EC2,ap-southeast-1,16.9,USD,2025-10
+2025-10-20,123456789013,Development,Amazon EC2,ap-southeast-1,17.2,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon EC2,ap-southeast-1,24.28,USD,2025-10
+2025-10-20,123456789012,Production,Amazon S3,us-east-1,7.28,USD,2025-10
+2025-10-20,123456789013,Development,Amazon S3,ap-southeast-1,6.59,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon S3,ap-southeast-1,7.48,USD,2025-10
+2025-10-20,123456789012,Production,Amazon RDS,us-east-1,12.72,USD,2025-10
+2025-10-20,123456789013,Development,Amazon RDS,ap-southeast-1,11.45,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon RDS,us-east-1,11.15,USD,2025-10
+2025-10-20,123456789012,Production,AWS Lambda,ap-southeast-1,2.64,USD,2025-10
+2025-10-20,123456789013,Development,AWS Lambda,ap-southeast-1,2.91,USD,2025-10
+2025-10-20,123456789014,Testing,AWS Lambda,us-east-1,2.21,USD,2025-10
+2025-10-20,123456789012,Production,Amazon CloudFront,ap-southeast-1,10.7,USD,2025-10
+2025-10-20,123456789013,Development,Amazon CloudFront,eu-west-1,10.07,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon CloudFront,eu-west-1,10.08,USD,2025-10
+2025-10-20,123456789012,Production,Amazon DynamoDB,us-west-2,4.81,USD,2025-10
+2025-10-20,123456789013,Development,Amazon DynamoDB,ap-southeast-1,5.19,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon DynamoDB,us-west-2,4.8,USD,2025-10
+2025-10-20,123456789012,Production,Amazon ECS,ap-southeast-1,16.17,USD,2025-10
+2025-10-20,123456789013,Development,Amazon ECS,us-east-1,15.31,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon ECS,us-west-2,13.23,USD,2025-10
+2025-10-20,123456789012,Production,Amazon VPC,us-west-2,1.46,USD,2025-10
+2025-10-20,123456789013,Development,Amazon VPC,ap-southeast-1,1.1,USD,2025-10
+2025-10-20,123456789014,Testing,Amazon VPC,us-west-2,1.36,USD,2025-10
+2025-10-20,123456789012,Production,AWS Data Transfer,us-west-2,4.47,USD,2025-10
+2025-10-20,123456789013,Development,AWS Data Transfer,eu-west-1,4.8,USD,2025-10
+2025-10-20,123456789014,Testing,AWS Data Transfer,us-west-2,6.19,USD,2025-10
+2025-10-21,123456789012,Production,Amazon EC2,us-east-1,24.61,USD,2025-10
+2025-10-21,123456789013,Development,Amazon EC2,us-east-1,16.39,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon EC2,us-west-2,18.39,USD,2025-10
+2025-10-21,123456789012,Production,Amazon S3,eu-west-1,8.43,USD,2025-10
+2025-10-21,123456789013,Development,Amazon S3,us-east-1,5.52,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon S3,eu-west-1,6.29,USD,2025-10
+2025-10-21,123456789012,Production,Amazon RDS,us-west-2,14.77,USD,2025-10
+2025-10-21,123456789013,Development,Amazon RDS,us-east-1,13.62,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon RDS,us-east-1,12.86,USD,2025-10
+2025-10-21,123456789012,Production,AWS Lambda,ap-southeast-1,3.3,USD,2025-10
+2025-10-21,123456789013,Development,AWS Lambda,us-west-2,2.15,USD,2025-10
+2025-10-21,123456789014,Testing,AWS Lambda,us-west-2,2.35,USD,2025-10
+2025-10-21,123456789012,Production,Amazon CloudFront,eu-west-1,11.75,USD,2025-10
+2025-10-21,123456789013,Development,Amazon CloudFront,ap-southeast-1,10.71,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon CloudFront,eu-west-1,8.76,USD,2025-10
+2025-10-21,123456789012,Production,Amazon DynamoDB,us-west-2,4.02,USD,2025-10
+2025-10-21,123456789013,Development,Amazon DynamoDB,us-west-2,3.34,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon DynamoDB,us-east-1,3.74,USD,2025-10
+2025-10-21,123456789012,Production,Amazon ECS,ap-southeast-1,16.43,USD,2025-10
+2025-10-21,123456789013,Development,Amazon ECS,eu-west-1,16.2,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon ECS,ap-southeast-1,20.46,USD,2025-10
+2025-10-21,123456789012,Production,Amazon VPC,ap-southeast-1,1.59,USD,2025-10
+2025-10-21,123456789013,Development,Amazon VPC,ap-southeast-1,1.25,USD,2025-10
+2025-10-21,123456789014,Testing,Amazon VPC,ap-southeast-1,1.69,USD,2025-10
+2025-10-21,123456789012,Production,AWS Data Transfer,us-west-2,5.97,USD,2025-10
+2025-10-21,123456789013,Development,AWS Data Transfer,eu-west-1,4.38,USD,2025-10
+2025-10-21,123456789014,Testing,AWS Data Transfer,us-east-1,5.55,USD,2025-10
+2025-10-22,123456789012,Production,Amazon EC2,eu-west-1,16.26,USD,2025-10
+2025-10-22,123456789013,Development,Amazon EC2,eu-west-1,20.83,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon EC2,eu-west-1,22.49,USD,2025-10
+2025-10-22,123456789012,Production,Amazon S3,ap-southeast-1,8.35,USD,2025-10
+2025-10-22,123456789013,Development,Amazon S3,us-east-1,7.11,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon S3,ap-southeast-1,6.72,USD,2025-10
+2025-10-22,123456789012,Production,Amazon RDS,us-west-2,11.12,USD,2025-10
+2025-10-22,123456789013,Development,Amazon RDS,ap-southeast-1,15.12,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon RDS,us-west-2,16.32,USD,2025-10
+2025-10-22,123456789012,Production,AWS Lambda,us-east-1,2.29,USD,2025-10
+2025-10-22,123456789013,Development,AWS Lambda,eu-west-1,2.71,USD,2025-10
+2025-10-22,123456789014,Testing,AWS Lambda,us-west-2,2.91,USD,2025-10
+2025-10-22,123456789012,Production,Amazon CloudFront,eu-west-1,13.34,USD,2025-10
+2025-10-22,123456789013,Development,Amazon CloudFront,us-west-2,9.94,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon CloudFront,us-east-1,12.32,USD,2025-10
+2025-10-22,123456789012,Production,Amazon DynamoDB,us-west-2,4.6,USD,2025-10
+2025-10-22,123456789013,Development,Amazon DynamoDB,eu-west-1,4.19,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon DynamoDB,us-west-2,4.71,USD,2025-10
+2025-10-22,123456789012,Production,Amazon ECS,ap-southeast-1,14.8,USD,2025-10
+2025-10-22,123456789013,Development,Amazon ECS,eu-west-1,15.92,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon ECS,eu-west-1,17.89,USD,2025-10
+2025-10-22,123456789012,Production,Amazon VPC,us-east-1,1.37,USD,2025-10
+2025-10-22,123456789013,Development,Amazon VPC,eu-west-1,1.71,USD,2025-10
+2025-10-22,123456789014,Testing,Amazon VPC,ap-southeast-1,1.72,USD,2025-10
+2025-10-22,123456789012,Production,AWS Data Transfer,ap-southeast-1,5.17,USD,2025-10
+2025-10-22,123456789013,Development,AWS Data Transfer,ap-southeast-1,5.91,USD,2025-10
+2025-10-22,123456789014,Testing,AWS Data Transfer,ap-southeast-1,5.49,USD,2025-10
+2025-10-23,123456789012,Production,Amazon EC2,us-east-1,25.46,USD,2025-10
+2025-10-23,123456789013,Development,Amazon EC2,us-west-2,17.34,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon EC2,ap-southeast-1,21.06,USD,2025-10
+2025-10-23,123456789012,Production,Amazon S3,ap-southeast-1,8.23,USD,2025-10
+2025-10-23,123456789013,Development,Amazon S3,us-east-1,8.26,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon S3,us-west-2,8.42,USD,2025-10
+2025-10-23,123456789012,Production,Amazon RDS,ap-southeast-1,13.78,USD,2025-10
+2025-10-23,123456789013,Development,Amazon RDS,us-east-1,12.67,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon RDS,us-east-1,15.7,USD,2025-10
+2025-10-23,123456789012,Production,AWS Lambda,us-east-1,2.32,USD,2025-10
+2025-10-23,123456789013,Development,AWS Lambda,us-west-2,3.42,USD,2025-10
+2025-10-23,123456789014,Testing,AWS Lambda,eu-west-1,3.24,USD,2025-10
+2025-10-23,123456789012,Production,Amazon CloudFront,us-west-2,8.98,USD,2025-10
+2025-10-23,123456789013,Development,Amazon CloudFront,ap-southeast-1,12.22,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon CloudFront,us-east-1,11.81,USD,2025-10
+2025-10-23,123456789012,Production,Amazon DynamoDB,eu-west-1,4.04,USD,2025-10
+2025-10-23,123456789013,Development,Amazon DynamoDB,eu-west-1,3.73,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon DynamoDB,us-east-1,4.55,USD,2025-10
+2025-10-23,123456789012,Production,Amazon ECS,us-east-1,13.71,USD,2025-10
+2025-10-23,123456789013,Development,Amazon ECS,us-east-1,14.89,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon ECS,us-east-1,20.75,USD,2025-10
+2025-10-23,123456789012,Production,Amazon VPC,eu-west-1,1.13,USD,2025-10
+2025-10-23,123456789013,Development,Amazon VPC,eu-west-1,1.09,USD,2025-10
+2025-10-23,123456789014,Testing,Amazon VPC,us-west-2,1.54,USD,2025-10
+2025-10-23,123456789012,Production,AWS Data Transfer,ap-southeast-1,6.21,USD,2025-10
+2025-10-23,123456789013,Development,AWS Data Transfer,eu-west-1,6.2,USD,2025-10
+2025-10-23,123456789014,Testing,AWS Data Transfer,us-east-1,5.89,USD,2025-10
+2025-10-24,123456789012,Production,Amazon EC2,eu-west-1,22.72,USD,2025-10
+2025-10-24,123456789013,Development,Amazon EC2,us-west-2,22.3,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon EC2,us-west-2,23.44,USD,2025-10
+2025-10-24,123456789012,Production,Amazon S3,ap-southeast-1,7.99,USD,2025-10
+2025-10-24,123456789013,Development,Amazon S3,us-east-1,6.03,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon S3,eu-west-1,5.89,USD,2025-10
+2025-10-24,123456789012,Production,Amazon RDS,us-east-1,15.0,USD,2025-10
+2025-10-24,123456789013,Development,Amazon RDS,eu-west-1,14.56,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon RDS,us-east-1,12.2,USD,2025-10
+2025-10-24,123456789012,Production,AWS Lambda,us-west-2,3.37,USD,2025-10
+2025-10-24,123456789013,Development,AWS Lambda,ap-southeast-1,2.79,USD,2025-10
+2025-10-24,123456789014,Testing,AWS Lambda,us-west-2,3.12,USD,2025-10
+2025-10-24,123456789012,Production,Amazon CloudFront,us-east-1,13.61,USD,2025-10
+2025-10-24,123456789013,Development,Amazon CloudFront,eu-west-1,12.59,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon CloudFront,us-west-2,9.86,USD,2025-10
+2025-10-24,123456789012,Production,Amazon DynamoDB,us-east-1,3.67,USD,2025-10
+2025-10-24,123456789013,Development,Amazon DynamoDB,eu-west-1,3.31,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon DynamoDB,us-west-2,4.84,USD,2025-10
+2025-10-24,123456789012,Production,Amazon ECS,us-east-1,13.28,USD,2025-10
+2025-10-24,123456789013,Development,Amazon ECS,ap-southeast-1,17.11,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon ECS,us-west-2,20.39,USD,2025-10
+2025-10-24,123456789012,Production,Amazon VPC,eu-west-1,1.29,USD,2025-10
+2025-10-24,123456789013,Development,Amazon VPC,ap-southeast-1,1.6,USD,2025-10
+2025-10-24,123456789014,Testing,Amazon VPC,eu-west-1,1.45,USD,2025-10
+2025-10-24,123456789012,Production,AWS Data Transfer,us-east-1,5.34,USD,2025-10
+2025-10-24,123456789013,Development,AWS Data Transfer,us-west-2,5.0,USD,2025-10
+2025-10-24,123456789014,Testing,AWS Data Transfer,us-west-2,5.39,USD,2025-10
+2025-10-25,123456789012,Production,Amazon EC2,ap-southeast-1,8.86,USD,2025-10
+2025-10-25,123456789013,Development,Amazon EC2,eu-west-1,9.95,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon EC2,us-east-1,9.23,USD,2025-10
+2025-10-25,123456789012,Production,Amazon S3,us-east-1,3.32,USD,2025-10
+2025-10-25,123456789013,Development,Amazon S3,eu-west-1,4.09,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon S3,ap-southeast-1,3.6,USD,2025-10
+2025-10-25,123456789012,Production,Amazon RDS,us-east-1,6.22,USD,2025-10
+2025-10-25,123456789013,Development,Amazon RDS,ap-southeast-1,8.07,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon RDS,eu-west-1,6.89,USD,2025-10
+2025-10-25,123456789012,Production,AWS Lambda,eu-west-1,1.34,USD,2025-10
+2025-10-25,123456789013,Development,AWS Lambda,ap-southeast-1,1.51,USD,2025-10
+2025-10-25,123456789014,Testing,AWS Lambda,us-west-2,1.36,USD,2025-10
+2025-10-25,123456789012,Production,Amazon CloudFront,eu-west-1,5.93,USD,2025-10
+2025-10-25,123456789013,Development,Amazon CloudFront,ap-southeast-1,4.5,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon CloudFront,us-west-2,5.57,USD,2025-10
+2025-10-25,123456789012,Production,Amazon DynamoDB,eu-west-1,1.81,USD,2025-10
+2025-10-25,123456789013,Development,Amazon DynamoDB,us-west-2,1.85,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon DynamoDB,us-west-2,2.29,USD,2025-10
+2025-10-25,123456789012,Production,Amazon ECS,us-west-2,9.64,USD,2025-10
+2025-10-25,123456789013,Development,Amazon ECS,us-west-2,7.25,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon ECS,us-west-2,8.63,USD,2025-10
+2025-10-25,123456789012,Production,Amazon VPC,us-west-2,0.57,USD,2025-10
+2025-10-25,123456789013,Development,Amazon VPC,eu-west-1,0.65,USD,2025-10
+2025-10-25,123456789014,Testing,Amazon VPC,us-east-1,0.54,USD,2025-10
+2025-10-25,123456789012,Production,AWS Data Transfer,ap-southeast-1,3.18,USD,2025-10
+2025-10-25,123456789013,Development,AWS Data Transfer,eu-west-1,3.21,USD,2025-10
+2025-10-25,123456789014,Testing,AWS Data Transfer,us-west-2,3.15,USD,2025-10
+2025-10-26,123456789012,Production,Amazon EC2,eu-west-1,11.6,USD,2025-10
+2025-10-26,123456789013,Development,Amazon EC2,ap-southeast-1,8.58,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon EC2,eu-west-1,12.09,USD,2025-10
+2025-10-26,123456789012,Production,Amazon S3,ap-southeast-1,2.89,USD,2025-10
+2025-10-26,123456789013,Development,Amazon S3,us-east-1,2.74,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon S3,ap-southeast-1,2.97,USD,2025-10
+2025-10-26,123456789012,Production,Amazon RDS,eu-west-1,7.27,USD,2025-10
+2025-10-26,123456789013,Development,Amazon RDS,eu-west-1,6.22,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon RDS,eu-west-1,7.58,USD,2025-10
+2025-10-26,123456789012,Production,AWS Lambda,ap-southeast-1,1.56,USD,2025-10
+2025-10-26,123456789013,Development,AWS Lambda,ap-southeast-1,1.23,USD,2025-10
+2025-10-26,123456789014,Testing,AWS Lambda,ap-southeast-1,1.66,USD,2025-10
+2025-10-26,123456789012,Production,Amazon CloudFront,us-west-2,4.88,USD,2025-10
+2025-10-26,123456789013,Development,Amazon CloudFront,us-east-1,5.57,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon CloudFront,ap-southeast-1,6.79,USD,2025-10
+2025-10-26,123456789012,Production,Amazon DynamoDB,us-west-2,2.3,USD,2025-10
+2025-10-26,123456789013,Development,Amazon DynamoDB,us-east-1,2.06,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon DynamoDB,us-west-2,1.84,USD,2025-10
+2025-10-26,123456789012,Production,Amazon ECS,eu-west-1,10.07,USD,2025-10
+2025-10-26,123456789013,Development,Amazon ECS,ap-southeast-1,7.17,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon ECS,us-east-1,8.55,USD,2025-10
+2025-10-26,123456789012,Production,Amazon VPC,us-west-2,0.58,USD,2025-10
+2025-10-26,123456789013,Development,Amazon VPC,ap-southeast-1,0.86,USD,2025-10
+2025-10-26,123456789014,Testing,Amazon VPC,ap-southeast-1,0.87,USD,2025-10
+2025-10-26,123456789012,Production,AWS Data Transfer,eu-west-1,2.77,USD,2025-10
+2025-10-26,123456789013,Development,AWS Data Transfer,us-east-1,3.25,USD,2025-10
+2025-10-26,123456789014,Testing,AWS Data Transfer,us-west-2,3.15,USD,2025-10

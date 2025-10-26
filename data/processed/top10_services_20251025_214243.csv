@@ -1,0 +1,10 @@
+Service,Cost,Percentage
+Amazon EC2,4710.52,24.89
+Amazon ECS,3771.83,19.93
+Amazon RDS,3144.51,16.62
+Amazon CloudFront,2555.1,13.5
+Amazon S3,1578.76,8.34
+AWS Data Transfer,1265.75,6.69
+Amazon DynamoDB,951.33,5.03
+AWS Lambda,629.03,3.32
+Amazon VPC,318.34,1.68

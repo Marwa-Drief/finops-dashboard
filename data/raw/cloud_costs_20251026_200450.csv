@@ -1,0 +1,11 @@
+Date,Cloud,Service,Region,Cost,Currency
+2025-10-25,AWS,AWS Glue,us-east-1,0.0,USD
+2025-10-25,AWS,AWS Key Management Service,us-east-1,0.0,USD
+2025-10-25,AWS,AWS Secrets Manager,us-east-1,0.0,USD
+2025-10-25,AWS,Amazon Location Service,us-east-1,0.0,USD
+2025-10-25,AWS,Amazon Simple Notification Service,us-east-1,0.0,USD
+2025-10-25,AWS,Amazon Simple Queue Service,us-east-1,0.0,USD
+2025-10-25,AWS,Amazon Simple Storage Service,global,0.0,USD
+2025-10-25,AWS,Amazon Simple Storage Service,us-east-1,-0.0,USD
+2025-10-25,AWS,AmazonCloudWatch,us-east-1,0.0,USD
+2025-10-25,AWS,Tax,NoRegion,0.0,USD

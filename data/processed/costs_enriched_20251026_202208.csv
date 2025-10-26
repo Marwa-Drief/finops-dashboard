@@ -1,0 +1,12 @@
+Date,Cloud,Service,Region,Cost,Currency,AccountName,AccountId,Year,Month,MonthName,Week,DayOfWeek,DayName,IsWeekend,YearMonth,ServiceCategory
+2025-10-25,AWS,AWS Glue,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,AWS Key Management Service,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,AWS Secrets Manager,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Security
+2025-10-25,AWS,Amazon Location Service,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,Amazon Simple Notification Service,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,Amazon Simple Queue Service,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,Amazon Simple Storage Service,global,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,Amazon Simple Storage Service,us-east-1,-0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-10-25,AWS,AmazonCloudWatch,us-east-1,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Management
+2025-10-25,AWS,Tax,NoRegion,0.0,USD,Unknown,,2025,10,October,43,5,Saturday,True,2025-10,Other
+2025-09-26,Azure,No Data,Unknown,0.0,USD,Azure Subscription,azure-sub-1,2025,9,September,39,4,Friday,False,2025-09,Other

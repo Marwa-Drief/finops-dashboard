@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Fichiers secrets
+.env
+
+# Logs Airflow
+airflow/logs/
+
+# Python
+__pycache__/
+*.pyc

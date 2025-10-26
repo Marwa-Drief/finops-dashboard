@@ -1,6 +1,6 @@
 #  FinOps Dashboard Multi-Cloud
 
-## 🎯 Vue d'ensemble
+##  Vue d'ensemble
 **Nom** : FinOps Dashboard - Analyse des Coûts Cloud Multi-Compte (AWS + Azure)  
 **Objectif** : Pipeline ETL automatisé pour analyser, optimiser et visualiser les coûts cloud multi-providers  
 **Valeur Business** : Réduction des coûts cloud de 15-30% via identification des optimisations et anomalies  
@@ -12,7 +12,7 @@
 
 
 
-## 📁 Structure du projet
+##  Structure du projet
 ```
 finops-dashboard/
 ├── venv/                    # Environnement Python
@@ -37,7 +37,7 @@ finops-dashboard/
 
  
 
-## 🔄 Workflow Pipeline ETL
+##  Workflow Pipeline ETL
 
 1. **Extraction Multi-Cloud** (`extract_multicloud_costs.py`)  
    - AWS Cost Explorer + Azure Cost Management API  
@@ -60,7 +60,7 @@ finops-dashboard/
 
  
 
-## 📊 Dashboard Streamlit
+## Dashboard Streamlit
 
 - KPI Cards : Coût total, moyen/jour, tendance, anomalies  
 - Graphiques interactifs : évolution journalière, top services, par catégorie, comptes, comparaison multi-cloud  
@@ -69,14 +69,14 @@ finops-dashboard/
 
  
 
-## ☁️ Configuration Cloud
+##  Configuration Cloud
 
 **AWS** : Access Key + Secret, S3 Bucket `finops-dashboard-data`, IAM Role `finops_user`  
 **Azure** : Service Principal `finops-cost-reader`, Cost Management Reader, Tenant/Client IDs + Secret  
 
  
 
-## 🤖 Orchestration Airflow
+##  Orchestration Airflow
 
 - DAG principal : `finops_cost_analysis_pipeline` (ETL quotidien 8h00)  
 - DAG secondaire : `finops_s3_cleanup` (suppression fichiers S3 >30j)  
@@ -85,14 +85,14 @@ finops-dashboard/
 
  
 
-## 📈 Données & KPIs
+##  Données & KPIs
 
 **Données brutes** : Date, Cloud, Service, Region, AccountName, AccountId, Cost, Currency  
 **Données enrichies** : + dimensions temporelles, catégories services, agrégations, KPIs  
 
  
 
-## ✅ Instructions pour lancer le projet
+##  Instructions pour lancer le projet
 
 1. Cloner le repo  
 2. Créer `.env` avec credentials AWS/Azure  

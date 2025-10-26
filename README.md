@@ -11,21 +11,22 @@
 ##  Architecture Technique
 
 
-##  Structure du projet
 
+## 📁 Structure du projet
+```
 finops-dashboard/
-├── venv/ # Environnement Python
+├── venv/                    # Environnement Python
 ├── data/
-│ ├── raw/ # Données brutes
-│ └── processed/ # Données transformées et KPIs
-├── scripts/ # Scripts ETL
-├── airflow/ # DAGs, logs, Docker
-├── logs/ # Logs pipeline
-├── .env # Credentials (gitignored)
+│   ├── raw/                 # Données brutes
+│   └── processed/           # Données transformées et KPIs
+├── scripts/                 # Scripts ETL
+├── airflow/                 # DAGs, logs, Docker
+├── logs/                    # Logs pipeline
+├── .env                     # Credentials (gitignored)
 ├── .gitignore
-├── dashboard.py # Streamlit dashboard
-└── README.md
- 
+├── dashboard.py             # Streamlit dashboard
+└── README.md                # Documentation complète
+```
 
 ## 🔧 Stack Technique
 

@@ -28,7 +28,7 @@ finops-dashboard/
 └── README.md                # Documentation complète
 ```
 
-## 🔧 Stack Technique
+## Stack Technique
 
 **Backend & ETL** : Python 3.11, pandas, boto3, azure-mgmt-costmanagement, Airflow 2.7.3, Docker  
 **Stockage** : CSV, JSON, Amazon S3  

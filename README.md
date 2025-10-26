@@ -1,4 +1,30 @@
+#  FinOps Dashboard Multi-Cloud
 
+## 🎯 Vue d'ensemble
+**Nom** : FinOps Dashboard - Analyse des Coûts Cloud Multi-Compte (AWS + Azure)  
+**Objectif** : Pipeline ETL automatisé pour analyser, optimiser et visualiser les coûts cloud multi-providers  
+**Valeur Business** : Réduction des coûts cloud de 15-30% via identification des optimisations et anomalies  
+**Niveau** : Projet professionnel production-ready  
+
+
+
+##  Architecture Technique
+
+
+##  Structure du projet
+
+finops-dashboard/
+├── venv/ # Environnement Python
+├── data/
+│ ├── raw/ # Données brutes
+│ └── processed/ # Données transformées et KPIs
+├── scripts/ # Scripts ETL
+├── airflow/ # DAGs, logs, Docker
+├── logs/ # Logs pipeline
+├── .env # Credentials (gitignored)
+├── .gitignore
+├── dashboard.py # Streamlit dashboard
+└── README.md
  
 
 ## 🔧 Stack Technique
